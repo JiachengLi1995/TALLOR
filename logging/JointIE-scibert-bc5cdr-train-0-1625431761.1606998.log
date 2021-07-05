@@ -1,0 +1,104 @@
+2021-07-04 13:49:21,163 INFO Namespace(batch_size=32, context_dropout=0, context_layer=1, dataset='bc5cdr', dropout=0.3, embedding_size=768, encoder='scibert', freeze=False, global_sample_times=50, hidden_size=512, labeled_ratio=0, lexical_dropout=0.5, load_ckpt=None, lower=True, max_span_width=5, model='JointIE', not_use_soft_label=True, only_test=False, pretrain_ckpt=None, root='./data', rule_ckpt='./checkpoint/RuleModel.pth.tar', rule_threshold=2, rule_topk=20, save_ckpt=None, span_width_dim=64, spans_per_word=0.6, temperature=0.8, test='test', test_iter=1000, threshold_sample_times=100, train='train', train_iter=50000, update_threshold=0.7, use_unlabel_data=False, val='dev', val_iter=1000, val_step=1500, warmup_step=100)
+2021-07-04 13:50:15,266 INFO Start training!
+2021-07-04 13:50:51,100 INFO Update successfully! 539 instances for training, 539 instances are new labeled.
+2021-07-04 14:05:25,353 INFO STEP:0. Current performance on NER: F1: 0.4251, P: 0.7831, R: 0.2918.
+2021-07-04 14:05:25,353 INFO Binary result: F1: 0.4364, P: 0.8037, R: 0.2995.
+2021-07-04 14:07:57,487 INFO Update successfully! 686 instances for training, 686 instances are new labeled.
+2021-07-04 14:22:08,876 INFO STEP:1. Current performance on NER: F1: 0.4120, P: 0.8045, R: 0.2770.
+2021-07-04 14:22:08,876 INFO Binary result: F1: 0.4180, P: 0.8160, R: 0.2809.
+2021-07-04 14:24:58,262 INFO Update successfully! 921 instances for training, 921 instances are new labeled.
+2021-07-04 14:39:27,594 INFO STEP:2. Current performance on NER: F1: 0.5564, P: 0.7971, R: 0.4273.
+2021-07-04 14:39:27,595 INFO Binary result: F1: 0.5649, P: 0.8093, R: 0.4339.
+2021-07-04 14:42:33,477 INFO Update successfully! 1243 instances for training, 1243 instances are new labeled.
+2021-07-04 14:57:39,094 INFO STEP:3. Current performance on NER: F1: 0.5717, P: 0.7338, R: 0.4683.
+2021-07-04 14:57:39,095 INFO Binary result: F1: 0.5892, P: 0.7563, R: 0.4826.
+2021-07-04 15:00:18,765 INFO Update successfully! 1532 instances for training, 1532 instances are new labeled.
+2021-07-04 15:15:15,304 INFO STEP:4. Current performance on NER: F1: 0.6199, P: 0.7768, R: 0.5157.
+2021-07-04 15:15:15,305 INFO Binary result: F1: 0.6322, P: 0.7922, R: 0.5259.
+2021-07-04 15:19:04,756 INFO Update successfully! 1653 instances for training, 1653 instances are new labeled.
+2021-07-04 15:34:46,693 INFO STEP:5. Current performance on NER: F1: 0.6091, P: 0.7863, R: 0.4970.
+2021-07-04 15:34:46,694 INFO Binary result: F1: 0.6154, P: 0.7945, R: 0.5022.
+2021-07-04 15:38:26,654 INFO Update successfully! 1804 instances for training, 1804 instances are new labeled.
+2021-07-04 15:54:27,461 INFO STEP:6. Current performance on NER: F1: 0.6431, P: 0.7551, R: 0.5601.
+2021-07-04 15:54:27,461 INFO Binary result: F1: 0.6564, P: 0.7707, R: 0.5717.
+2021-07-04 15:56:58,654 INFO Update successfully! 1948 instances for training, 1948 instances are new labeled.
+2021-07-04 16:13:30,656 INFO STEP:7. Current performance on NER: F1: 0.6538, P: 0.7975, R: 0.5539.
+2021-07-04 16:13:30,656 INFO Binary result: F1: 0.6605, P: 0.8058, R: 0.5597.
+2021-07-04 16:18:05,729 INFO Update successfully! 2022 instances for training, 2022 instances are new labeled.
+2021-07-04 16:35:07,280 INFO STEP:8. Current performance on NER: F1: 0.6581, P: 0.7510, R: 0.5857.
+2021-07-04 16:35:07,281 INFO Binary result: F1: 0.6707, P: 0.7654, R: 0.5969.
+2021-07-04 16:39:42,532 INFO Update successfully! 2099 instances for training, 2099 instances are new labeled.
+2021-07-04 16:57:09,265 INFO STEP:9. Current performance on NER: F1: 0.6588, P: 0.7775, R: 0.5715.
+2021-07-04 16:57:09,265 INFO Binary result: F1: 0.6689, P: 0.7894, R: 0.5803.
+2021-07-04 17:01:16,903 INFO Update successfully! 2198 instances for training, 2198 instances are new labeled.
+2021-07-04 17:19:23,100 INFO STEP:10. Current performance on NER: F1: 0.6679, P: 0.7793, R: 0.5845.
+2021-07-04 17:19:23,101 INFO Binary result: F1: 0.6777, P: 0.7906, R: 0.5930.
+2021-07-04 17:24:32,811 INFO Update successfully! 2281 instances for training, 2281 instances are new labeled.
+2021-07-04 17:43:22,413 INFO STEP:11. Current performance on NER: F1: 0.6762, P: 0.7413, R: 0.6216.
+2021-07-04 17:43:22,414 INFO Binary result: F1: 0.6884, P: 0.7546, R: 0.6328.
+2021-07-04 17:48:33,241 INFO Update successfully! 2371 instances for training, 2371 instances are new labeled.
+2021-07-04 18:07:48,576 INFO STEP:12. Current performance on NER: F1: 0.6755, P: 0.7481, R: 0.6157.
+2021-07-04 18:07:48,577 INFO Binary result: F1: 0.6839, P: 0.7574, R: 0.6234.
+2021-07-04 18:14:54,241 INFO Update successfully! 2430 instances for training, 2430 instances are new labeled.
+2021-07-04 18:38:50,450 INFO STEP:13. Current performance on NER: F1: 0.6834, P: 0.7293, R: 0.6430.
+2021-07-04 18:38:50,450 INFO Binary result: F1: 0.6967, P: 0.7434, R: 0.6555.
+2021-07-04 18:44:08,643 INFO Update successfully! 2476 instances for training, 2476 instances are new labeled.
+2021-07-04 19:04:39,171 INFO STEP:14. Current performance on NER: F1: 0.6835, P: 0.7391, R: 0.6356.
+2021-07-04 19:04:39,171 INFO Binary result: F1: 0.6988, P: 0.7557, R: 0.6499.
+2021-07-04 19:09:57,533 INFO Update successfully! 2494 instances for training, 2494 instances are new labeled.
+2021-07-04 19:30:41,601 INFO STEP:15. Current performance on NER: F1: 0.6830, P: 0.7033, R: 0.6638.
+2021-07-04 19:30:41,602 INFO Binary result: F1: 0.7001, P: 0.7210, R: 0.6804.
+2021-07-04 19:36:40,137 INFO Update successfully! 2518 instances for training, 2518 instances are new labeled.
+2021-07-04 19:57:15,457 INFO STEP:16. Current performance on NER: F1: 0.6904, P: 0.6983, R: 0.6827.
+2021-07-04 19:57:15,457 INFO Binary result: F1: 0.7044, P: 0.7124, R: 0.6966.
+2021-07-04 20:03:44,459 INFO Update successfully! 2555 instances for training, 2555 instances are new labeled.
+2021-07-04 20:24:41,749 INFO STEP:17. Current performance on NER: F1: 0.6885, P: 0.7105, R: 0.6678.
+2021-07-04 20:24:41,749 INFO Binary result: F1: 0.7041, P: 0.7266, R: 0.6829.
+2021-07-04 20:29:47,620 INFO Update successfully! 2589 instances for training, 2589 instances are new labeled.
+2021-07-04 20:51:22,872 INFO STEP:18. Current performance on NER: F1: 0.6906, P: 0.7003, R: 0.6812.
+2021-07-04 20:51:22,873 INFO Binary result: F1: 0.7080, P: 0.7179, R: 0.6984.
+2021-07-04 20:58:16,180 INFO Update successfully! 2639 instances for training, 2639 instances are new labeled.
+2021-07-04 21:20:12,933 INFO STEP:19. Current performance on NER: F1: 0.6942, P: 0.6945, R: 0.6940.
+2021-07-04 21:20:12,933 INFO Binary result: F1: 0.7068, P: 0.7070, R: 0.7065.
+2021-07-04 21:26:37,022 INFO Update successfully! 2702 instances for training, 2702 instances are new labeled.
+2021-07-04 21:48:51,579 INFO STEP:20. Current performance on NER: F1: 0.6877, P: 0.6779, R: 0.6977.
+2021-07-04 21:48:51,579 INFO Binary result: F1: 0.7024, P: 0.6925, R: 0.7126.
+2021-07-04 21:53:04,175 INFO Update successfully! 2739 instances for training, 2739 instances are new labeled.
+2021-07-04 22:15:26,012 INFO STEP:21. Current performance on NER: F1: 0.6929, P: 0.7005, R: 0.6855.
+2021-07-04 22:15:26,012 INFO Binary result: F1: 0.7058, P: 0.7135, R: 0.6983.
+2021-07-04 22:19:33,999 INFO Update successfully! 2751 instances for training, 2751 instances are new labeled.
+2021-07-04 22:42:59,267 INFO STEP:22. Current performance on NER: F1: 0.6871, P: 0.6881, R: 0.6861.
+2021-07-04 22:42:59,268 INFO Binary result: F1: 0.7022, P: 0.7032, R: 0.7012.
+2021-07-04 22:47:02,070 INFO Update successfully! 2768 instances for training, 2768 instances are new labeled.
+2021-07-04 23:10:24,088 INFO STEP:23. Current performance on NER: F1: 0.6893, P: 0.6737, R: 0.7056.
+2021-07-04 23:10:24,089 INFO Binary result: F1: 0.7065, P: 0.6905, R: 0.7231.
+2021-07-04 23:15:14,463 INFO Update successfully! 2792 instances for training, 2792 instances are new labeled.
+2021-07-04 23:37:52,641 INFO STEP:24. Current performance on NER: F1: 0.6856, P: 0.6678, R: 0.7043.
+2021-07-04 23:37:52,643 INFO Binary result: F1: 0.7001, P: 0.6819, R: 0.7192.
+2021-07-04 23:41:15,342 INFO Update successfully! 2814 instances for training, 2814 instances are new labeled.
+2021-07-05 00:04:49,194 INFO STEP:25. Current performance on NER: F1: 0.6841, P: 0.6701, R: 0.6987.
+2021-07-05 00:04:49,195 INFO Binary result: F1: 0.6997, P: 0.6853, R: 0.7146.
+2021-07-05 00:08:17,896 INFO Update successfully! 2828 instances for training, 2828 instances are new labeled.
+2021-07-05 00:32:48,405 INFO STEP:26. Current performance on NER: F1: 0.6833, P: 0.6584, R: 0.7102.
+2021-07-05 00:32:48,405 INFO Binary result: F1: 0.6960, P: 0.6706, R: 0.7234.
+2021-07-05 00:37:28,711 INFO Update successfully! 2848 instances for training, 2848 instances are new labeled.
+2021-07-05 01:02:24,089 INFO STEP:27. Current performance on NER: F1: 0.6872, P: 0.6636, R: 0.7126.
+2021-07-05 01:02:24,089 INFO Binary result: F1: 0.7032, P: 0.6790, R: 0.7291.
+2021-07-05 01:05:26,227 INFO Update successfully! 2876 instances for training, 2876 instances are new labeled.
+2021-07-05 01:30:53,106 INFO STEP:28. Current performance on NER: F1: 0.6820, P: 0.6550, R: 0.7113.
+2021-07-05 01:30:53,106 INFO Binary result: F1: 0.6957, P: 0.6682, R: 0.7255.
+2021-07-05 01:34:17,709 INFO Update successfully! 2896 instances for training, 2896 instances are new labeled.
+2021-07-05 02:00:01,977 INFO STEP:29. Current performance on NER: F1: 0.6865, P: 0.6501, R: 0.7271.
+2021-07-05 02:00:01,977 INFO Binary result: F1: 0.7005, P: 0.6634, R: 0.7420.
+2021-07-05 02:04:48,202 INFO Update successfully! 2915 instances for training, 2915 instances are new labeled.
+2021-07-05 02:30:45,883 INFO STEP:30. Current performance on NER: F1: 0.6839, P: 0.6491, R: 0.7225.
+2021-07-05 02:30:45,883 INFO Binary result: F1: 0.6990, P: 0.6635, R: 0.7385.
+2021-07-05 02:34:35,874 INFO Update successfully! 2933 instances for training, 2933 instances are new labeled.
+2021-07-05 03:00:29,577 INFO STEP:31. Current performance on NER: F1: 0.6979, P: 0.6625, R: 0.7373.
+2021-07-05 03:00:29,577 INFO Binary result: F1: 0.7109, P: 0.6749, R: 0.7511.
+2021-07-05 03:03:32,736 INFO Update successfully! 2952 instances for training, 2952 instances are new labeled.
+2021-07-05 03:29:09,270 INFO STEP:32. Current performance on NER: F1: 0.6859, P: 0.6488, R: 0.7274.
+2021-07-05 03:29:09,270 INFO Binary result: F1: 0.6998, P: 0.6620, R: 0.7422.
+2021-07-05 03:30:17,007 INFO Finish training JointIE-scibert-bc5cdr-train-0-1625431761.1606998
+2021-07-05 03:34:05,260 INFO STEP:-1. Current performance on NER: F1: 0.6690, P: 0.6264, R: 0.7178.
+2021-07-05 03:34:05,260 INFO Binary result: F1: 0.6866, P: 0.6429, R: 0.7367.

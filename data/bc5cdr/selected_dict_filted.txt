@@ -1,0 +1,2029 @@
+Disease	proteinuria
+Chemical	nicotine
+Disease	esrd
+Chemical	morphine
+Disease	thrombosis
+Chemical	haloperidol
+Disease	tremor
+Chemical	warfarin
+Disease	hepatotoxicity
+Chemical	clonidine
+Disease	pd
+Chemical	creatinine
+Disease	hypertensive
+Chemical	sirolimus
+Disease	thrombotic microangiopathy
+Chemical	tacrolimus
+Disease	thrombocytopenia
+Chemical	isoproterenol
+Disease	akathisia
+Chemical	cyclophosphamide
+Disease	confusion
+Chemical	methamphetamine
+Disease	ventricular tachycardia
+Chemical	lamivudine
+Disease	hemolysis
+Chemical	srl
+Disease	vte
+Chemical	cimetidine
+Disease	hyperkalemia
+Chemical	no
+Disease	peripheral neuropathy
+Chemical	acetaminophen
+Disease	hit
+Chemical	clozapine
+Disease	alf
+Chemical	bupivacaine
+Disease	convulsions
+Chemical	verapamil
+Disease	dyskinesias
+Chemical	nmda
+Disease	amnesia
+Chemical	paclitaxel
+Disease	venous thromboembolism
+Chemical	scopolamine
+Disease	glomerulonephritis
+Chemical	dox
+Disease	nephrotoxic
+Chemical	cholesterol
+Disease	nephrotic syndrome
+Chemical	apomorphine
+Disease	ich
+Chemical	capsaicin
+Disease	se
+Chemical	nitroglycerin
+Disease	delirium
+Chemical	dipyridamole
+Disease	hematoma
+Chemical	pg - 9
+Disease	nsclc
+Chemical	tam
+Disease	convulsive
+Chemical	dexamethasone
+Disease	exencephalic
+Chemical	heparin
+Disease	chest pain
+Chemical	ketoconazole
+Disease	wegener ' s granulomatosis
+Chemical	l - dopa
+Disease	bruising
+Chemical	bromocriptine
+Disease	intracerebral hemorrhage
+Chemical	fentanyl
+Disease	myocardial ischemia
+Chemical	acetylcholine
+Disease	neutropenia
+Chemical	ecstasy
+Disease	breast cancer
+Chemical	propofol
+Disease	tg
+Chemical	diazepam
+Disease	interstitial nephritis
+Chemical	rizatriptan
+Disease	ventricular fibrillation
+Chemical	sevoflurane
+Disease	tdp
+Chemical	ribavirin
+Disease	chronic renal failure
+Chemical	oral contraceptives
+Disease	crf
+Chemical	estrogen
+Disease	exencephaly
+Chemical	ticlopidine
+Disease	prostate cancer
+Chemical	aspirin
+Disease	jaundice
+Chemical	vpa
+Disease	hyperthermia
+Chemical	phenylephrine
+Disease	sexual dysfunction
+Chemical	phenobarbitone
+Disease	cerebral haemorrhage
+Chemical	5 - fu
+Disease	apnea
+Chemical	methylphenidate
+Disease	angioedema
+Chemical	paracetamol
+Disease	tma
+Chemical	flestolol
+Disease	renal injury
+Chemical	oxygen
+Disease	cholestatic hepatitis
+Chemical	risperidone
+Disease	rhabdomyolysis
+Chemical	potassium
+Disease	birth defects
+Chemical	ergotamine
+Disease	erectile dysfunction
+Chemical	octreotide
+Disease	pericarditis
+Chemical	dobutamine
+Disease	manic
+Chemical	ca
+Disease	aids
+Chemical	snp
+Disease	anencephaly
+Chemical	vitamin d
+Disease	cardiac arrest
+Chemical	carbachol
+Disease	aplastic anemia
+Chemical	timolol
+Disease	lids
+Chemical	norepinephrine
+Disease	hemorrhagic cystitis
+Chemical	cacl ( 2 )
+Disease	coma
+Chemical	noradrenaline
+Disease	temporal lobe epilepsy
+Chemical	captopril
+Disease	sensorineural hearing loss
+Chemical	selegiline
+Disease	albuminuria
+Chemical	nra0160
+Disease	alzheimer ' s disease
+Chemical	gspe
+Disease	dementia
+Chemical	thalidomide
+Disease	acute pain
+Chemical	steroid
+Disease	postoperative nausea and vomiting
+Chemical	creatine
+Disease	vasospasm
+Chemical	prazosin
+Disease	polyuria
+Chemical	theophylline
+Disease	respiratory failure
+Chemical	metronidazole
+Disease	cerebral infarction
+Chemical	asenapine
+Disease	deaths
+Chemical	mazindol
+Disease	prolactinoma
+Chemical	folinic acid
+Disease	penile pain
+Chemical	coniine
+Disease	haemodilution
+Chemical	prilocaine
+Disease	tnss
+Chemical	vnb
+Disease	cimd
+Chemical	nimodipine
+Disease	neuropathic pain
+Chemical	amifostine
+Disease	anuria
+Chemical	tamca
+Disease	congestive heart failure
+Chemical	ach
+Disease	mania
+Chemical	cpa
+Disease	visual hallucinations
+Chemical	ee
+Disease	reduction in glomerular number
+Chemical	ly274614
+Disease	crohn ' s disease
+Chemical	u - ii
+Disease	ebstein ' s anomaly
+Chemical	valproic acid
+Disease	poisoning
+Chemical	thp
+Disease	chf
+Chemical	smoking
+Disease	tardive dyskinesia
+Chemical	terbutaline
+Disease	coronary artery disease
+Chemical	propranolol
+Disease	cardiovascular disease
+Chemical	sulpiride
+Disease	acute myocardial infarction
+Chemical	pergolide
+Disease	hyperprolactinemia
+Chemical	choline
+Disease	retinal vein occlusion
+Chemical	gamma - hch
+Disease	weight gain
+Chemical	indocyanine green
+Disease	renal papillary necrosis
+Chemical	pge1
+Disease	meth mouth
+Chemical	fk 506
+Disease	ocd
+Chemical	atp
+Disease	cognitive impairment
+Chemical	nitric oxide
+Disease	haemolytic - uraemic syndrome
+Chemical	isoniazid
+Disease	milk fever
+Chemical	gum arabic
+Disease	agoraphobia
+Chemical	li
+Disease	maha
+Chemical	cgrp
+Disease	low sexual desire
+Chemical	metoprolol
+Disease	primary pulmonary hypertension
+Chemical	gabapentin
+Disease	mood disorder
+Chemical	histamine
+Disease	nonsmall cell lung carcinoma
+Chemical	ato
+Disease	myelosuppression
+Chemical	maltolyl p - coumarate
+Disease	calcification of the artery
+Chemical	lipopolysaccharide
+Disease	aggressive behavior
+Chemical	cc
+Disease	subarachnoid hemorrhage
+Chemical	alpha - lipoic acid
+Disease	fracture
+Chemical	pdtc
+Disease	spasticity
+Chemical	argatroban
+Disease	major depression
+Chemical	modafinil
+Disease	breast carcinoma
+Chemical	etoposide
+Disease	absence seizures
+Chemical	curcumin
+Disease	myocardial damage
+Chemical	deferoxamine
+Disease	pseudoacromegaly
+Chemical	nifedipine
+Disease	increase in locomotor activity
+Chemical	gemcitabine
+Disease	cardiac toxicity
+Chemical	5 - ht
+Disease	cocaine overdose
+Chemical	da
+Disease	schizophrenic
+Chemical	sulphasalazine
+Disease	cerebral vasculitis
+Chemical	gsh
+Disease	bone marrow suppression
+Chemical	docetaxel
+Disease	eosinophilia
+Chemical	cortisol
+Disease	preterm labor
+Chemical	steroids
+Disease	hepatic injury
+Chemical	spironolactone
+Disease	toxic hepatitis
+Chemical	piroxicam
+Disease	nin
+Chemical	magnesium
+Disease	abdominal pain
+Chemical	diltiazem
+Disease	sd
+Chemical	be
+Disease	variant angina
+Chemical	gnc92h2
+Disease	acute lymphoblastic leukemia
+Chemical	nitrendipine
+Disease	all
+Chemical	dce
+Disease	duchenne dystrophy
+Chemical	statins
+Disease	hyperemia
+Chemical	phenobarbital
+Disease	myasthenia gravis
+Chemical	telithromycin
+Disease	hem
+Chemical	bilirubin
+Disease	fibrous myopathy
+Chemical	bzds
+Disease	fasciculation
+Chemical	ssr103800
+Disease	microangiopathic hemolytic anemia
+Chemical	omeprazole
+Disease	panic disorder
+Chemical	mz
+Disease	allergic reactions
+Chemical	capecitabine
+Disease	acromegalic
+Chemical	folate
+Disease	erythema multiforme
+Chemical	phenacetin
+Disease	gallstones
+Chemical	amiloride
+Disease	ischemic stroke
+Chemical	ampicillin
+Disease	neuronal loss
+Chemical	tmp
+Disease	sepsis
+Chemical	mtx
+Disease	aggressiveness
+Chemical	cy
+Disease	intracranial aneurysms
+Chemical	tri
+Disease	cocaine abuse
+Chemical	pethidine
+Disease	acute stroke
+Chemical	fk506 nephropathy
+Disease	dry mouth
+Chemical	tet
+Disease	pulmonary edema
+Chemical	fan
+Disease	cips
+Chemical	propylthiouracil
+Disease	polyneuropathy
+Chemical	angiotensin ii
+Disease	osteoporosis
+Chemical	ami
+Disease	necrotic
+Chemical	prochlorperazine
+Disease	chronic allograft nephropathy
+Chemical	d - penicillamine
+Disease	torsades de pointes
+Chemical	gr 55562
+Disease	cm
+Chemical	vigabatrin
+Disease	end - stage renal disease
+Chemical	csa
+Disease	infarct
+Chemical	glutathione
+Disease	asterixis
+Chemical	aldosterone
+Disease	muscle pain
+Chemical	17beta - estradiol
+Disease	locomotor hyperactivity
+Chemical	mpep
+Disease	dizziness
+Chemical	fusidic acid
+Disease	ocular and orbital toxicity
+Chemical	mk - 801
+Disease	absence epilepsy
+Chemical	tcr
+Disease	absence seizure
+Chemical	desferrioxamine
+Disease	increase in blood pressure
+Chemical	ceftriaxone
+Disease	acne
+Chemical	dfu
+Disease	hirsutism
+Chemical	ro4368554
+Disease	pcos
+Chemical	corticosterone
+Disease	acromegaly
+Chemical	ramh
+Disease	inflammatory bowel disease
+Chemical	methylprednisolone
+Disease	adverse drug reactions
+Chemical	lovastatin
+Disease	cluster headache
+Chemical	levofloxacin
+Disease	irritability
+Chemical	hbsag
+Disease	hypolocomotion
+Chemical	glycine
+Disease	cataracts
+Chemical	cannabis
+Disease	gallbladder disease
+Chemical	oxycodone
+Disease	snhl
+Chemical	lam
+Disease	ototoxic
+Chemical	pentoxifylline
+Disease	hearing impairment
+Chemical	lindane
+Disease	orofacial dyskinesia
+Chemical	clotiazepam
+Disease	coronary aneurysm
+Chemical	sulfasalazine
+Disease	hyperammonemia
+Chemical	cbz
+Disease	dysphonia
+Chemical	6 - ohda
+Disease	secondary hyperalgesia
+Chemical	dapsone
+Disease	renovascular hypertension
+Chemical	sulindac
+Disease	cerebral haemorrhages
+Chemical	isoflurane
+Disease	cauda equina syndrome
+Chemical	azathioprine
+Disease	hypocalcemia
+Chemical	mexiletine
+Disease	can
+Chemical	d - pen
+Disease	acute liver failure
+Chemical	procainamide
+Disease	adhd
+Chemical	vitamin b12
+Disease	metabolic acidosis
+Chemical	alprazolam
+Disease	depressed mood
+Chemical	l - name
+Disease	gastric hemorrhage
+Chemical	anthracycline
+Disease	postoperative pain
+Chemical	aap
+Disease	focal segmental glomerulosclerosis
+Chemical	terfenadine
+Disease	volume retention
+Chemical	terodiline
+Disease	axonal damage
+Chemical	zidovudine
+Disease	priapism
+Chemical	alkylating agents
+Disease	peripheral neurotoxicity
+Chemical	tyrosine
+Disease	neuronal damage
+Chemical	metamizol
+Disease	daytime sleepiness
+Chemical	zonisamide
+Disease	mp
+Chemical	mptp
+Disease	mr
+Chemical	pentobarbital
+Disease	leukoencephalopathy
+Chemical	mdma
+Disease	taa
+Chemical	adrenaline
+Disease	stress incontinence
+Chemical	prednisolone
+Disease	ahf
+Chemical	allopurinol
+Disease	pulmonary and renal insufficiency
+Chemical	e2
+Disease	intravascular coagulation
+Chemical	benzodiazepines
+Disease	cardiovascular complications
+Chemical	vpu
+Disease	impotence
+Chemical	mefloquine
+Disease	neuropathic damage
+Chemical	green tea
+Disease	femoral nerve palsy
+Chemical	vitamin e
+Disease	sinoatrial block
+Chemical	iso
+Disease	fasciculations
+Chemical	salt
+Disease	pituitary tumors
+Chemical	salvianolic acid a
+Disease	hypersensitivity myocarditis
+Chemical	arag
+Disease	sleep disturbance
+Chemical	aminophylline
+Disease	arthrogryposis
+Chemical	5 - azc
+Disease	sinus arrest
+Chemical	labetalol
+Disease	cerebellar atrophy
+Chemical	glyburide
+Disease	hus
+Chemical	alfentanil
+Disease	cardiovascular malformations
+Chemical	sodium nitroprusside
+Disease	gynecomastia
+Chemical	h2o
+Disease	neurological deficit
+Chemical	cefonicid
+Disease	eating disorders
+Chemical	cefazedone
+Disease	stevens - johnson syndrome
+Chemical	mipafox
+Disease	vanishing bile duct syndrome
+Chemical	cyclosporin a
+Disease	disruptive behaviors
+Chemical	bcnu
+Disease	systolic orthostatic hypotension
+Chemical	2 - chloroprocaine - ce
+Disease	platelet aggregation
+Chemical	saralasin
+Disease	mood disorders
+Chemical	paramethasone
+Disease	brain damage
+Chemical	prostaglandin e1
+Disease	inflammation
+Chemical	sodium bicarbonate
+Disease	dbp reduction
+Chemical	heparan sulphate
+Disease	dislocation
+Chemical	avp
+Disease	trauma
+Chemical	acetylsalicylic acid
+Disease	urinary incontinence
+Chemical	fucoidan
+Disease	hyperthyroidism
+Chemical	vinorelbine
+Disease	renal artery stenosis
+Chemical	gem
+Disease	intermittent claudication
+Chemical	oc
+Disease	cardiac dysfunction
+Chemical	picrotoxin
+Disease	acute tubular necrosis
+Chemical	furosemide
+Disease	lung toxicity
+Chemical	ssris
+Disease	hypomanic
+Chemical	lr132
+Disease	bipolar ii
+Chemical	ranitidine
+Disease	malignant hypertension
+Chemical	cisapride
+Disease	withdrawal - emergent rs
+Chemical	lactate
+Disease	palpebral twitching
+Chemical	la
+Disease	adverse drug reaction
+Chemical	tranexamic acid
+Disease	drug - induced hepatitis
+Chemical	azt
+Disease	autoimmunity
+Chemical	ethanol
+Disease	malignancy
+Chemical	cp 93129
+Disease	mitochondrial dysfunction
+Chemical	gvg
+Disease	hepatorenal syndrome
+Chemical	catecholamines
+Disease	epileptic seizures
+Chemical	sucrose
+Disease	hemorrhaging
+Chemical	quinine
+Disease	cardiac arrhythmias
+Chemical	salbutamol
+Disease	constipation
+Chemical	dfo
+Disease	constipating
+Chemical	acitretin
+Disease	chronic pain
+Chemical	aminoglycoside
+Disease	myoclonus
+Chemical	superoxide
+Disease	convulsants
+Chemical	pirenzepine
+Disease	somnolence
+Chemical	3 , 4 - dihydroxyphenylacetic acid
+Disease	glioblastomas
+Chemical	atazanavir
+Disease	glioblastoma
+Chemical	luminal
+Disease	optic atrophy
+Chemical	3ma
+Disease	fistula
+Chemical	ciprofloxacin
+Disease	white matter abnormalities
+Chemical	co - trimoxazole
+Disease	hippocampal injury
+Chemical	hydrogen cyanamide
+Disease	behavioral cross - sensitization
+Chemical	hbeag
+Disease	migraine headache
+Chemical	methylergonovine
+Disease	psychotic symptoms
+Chemical	nacl
+Disease	neurological complications
+Chemical	succinylcholine
+Disease	hyperkinesis
+Chemical	clioquinol
+Disease	left ventricular systolic and diastolic dysfunction
+Chemical	ptz
+Disease	ist
+Chemical	caa
+Disease	mitochondrial abnormalities
+Chemical	ritodrine
+Disease	ischaemic strokes
+Chemical	sparteine
+Disease	non - small cell lung cancer
+Chemical	troleandomycin
+Disease	phlebitis
+Chemical	indomethacin
+Disease	tumour
+Chemical	pentazocine
+Disease	cognitive dysfunctions
+Chemical	leucovorin
+Disease	pancreatitis
+Chemical	diethylstilbestrol
+Disease	embolic events
+Chemical	amitriptyline
+Disease	abnormal liver function
+Chemical	glycopyrrolate
+Disease	hyperlipidemia
+Chemical	adr
+Disease	acute renal dysfunction
+Chemical	carbon tetrachloride
+Disease	kaposi ' s sarcoma
+Chemical	carbimazole
+Disease	malignant mesenchymal tumors
+Chemical	corticosteroids
+Disease	aminoaciduria
+Chemical	zdv
+Disease	granulomas
+Chemical	rifampin
+Disease	liver injury
+Chemical	didanosine
+Disease	compartment syndrome
+Chemical	apraclonidine
+Disease	myonecrosis
+Chemical	divalproex sodium
+Disease	behavioral abnormalities
+Chemical	venlafaxine overdose
+Disease	nausea , vomiting
+Chemical	trifluoroacetyl
+Disease	chronic kidney disease
+Chemical	mitoxantrone
+Disease	fatigue
+Chemical	tamoxifen
+Disease	vocal fold palsy
+Chemical	serotonergic antidepressants
+Disease	ataxia
+Chemical	tizanidine
+Disease	attention - deficit / hyperactivity disorder
+Chemical	pentylenetetrazol
+Disease	drowsiness
+Chemical	prednisone
+Disease	renal fanconi syndrome
+Chemical	dnr
+Disease	dyspnea
+Chemical	gentamicin sulfate
+Disease	thromboembolic
+Chemical	bd1018
+Disease	infertility
+Chemical	bd1063
+Disease	blurred vision
+Chemical	e4031
+Disease	chronic obstructive pulmonary disease
+Chemical	citalopram
+Disease	nystagmus
+Chemical	5 - azacytidine
+Disease	valvular heart disease
+Chemical	99mtc - glucarate
+Disease	mitral regurgitation
+Chemical	zyban
+Disease	nutritional deficiency
+Chemical	puromycin aminonucleoside nephrosis
+Disease	hypoalbuminemia
+Chemical	antithymocyte globulin
+Disease	haemolytic anaemia
+Chemical	neostigmine
+Disease	mitochondrial damage
+Chemical	ethinyl estradiol
+Disease	mitochondrial toxicity
+Chemical	[ 3h ] - l - arginine
+Disease	myoglobinuria
+Chemical	minoxidil
+Disease	rpn
+Chemical	ganaxolone
+Disease	glomerular sclerosis
+Chemical	amb
+Disease	pneumocystis pneumonia
+Chemical	2pam
+Disease	inferior colliculus lesions
+Chemical	catecholamine
+Disease	ovarian cancer
+Chemical	lignocaine
+Disease	ocular myasthenia
+Chemical	enflurane
+Disease	chronic hepatitis c
+Chemical	metrifonate
+Disease	chc
+Chemical	atorvastatin
+Disease	tardive dystonia
+Chemical	o2 -
+Disease	masseter spasm
+Chemical	citrate toxicity
+Disease	myotonia congenita
+Chemical	4 - damp
+Disease	hypoplastic left heart syndrome
+Chemical	methoctramine
+Disease	coarctation of the aorta
+Chemical	thyroxine
+Disease	hitt
+Chemical	amyloid beta peptide ( 1 - 42 )
+Disease	critically ill
+Chemical	alanine
+Disease	coagulopathy
+Chemical	cholesteryl ester
+Disease	srs
+Chemical	lev
+Disease	angina pectoris
+Chemical	h
+Disease	leukemic infiltration
+Chemical	s - perillyl alcohol
+Disease	leukopenia
+Chemical	dormex
+Disease	thoracic aortic aneurysm
+Chemical	lopinavir / ritonavir
+Disease	parkinsonian catalepsy
+Chemical	penicillins
+Disease	organic mental disorder
+Chemical	ssri
+Disease	organic personality syndrome
+Chemical	topiramate
+Disease	granulocytopenia
+Chemical	carmofur
+Disease	alopecia
+Chemical	pirarubicin
+Disease	mucositis
+Chemical	cycloheximide
+Disease	audiovisual toxicity
+Chemical	thallium
+Disease	myelopathy
+Chemical	amines
+Disease	neoplasms
+Chemical	diclofenac sodium
+Disease	cardiorespiratory arrest
+Chemical	arginine vasopressin
+Disease	hepatocellular carcinomas
+Chemical	thc
+Disease	argentine hemorrhagic fever
+Chemical	triazolam
+Disease	scabies
+Chemical	molindone
+Disease	leukemoid reaction
+Chemical	flunitrazepam
+Disease	erythroderma
+Chemical	vitamin d3 toxicity
+Disease	arteriovenous malformations
+Chemical	um - 272
+Disease	prolactinomas
+Chemical	metoclopramide
+Disease	ulcerative colitis
+Chemical	triamterene nephrolithiasis
+Disease	rash
+Chemical	streptomycin
+Disease	head and neck carcinoma
+Chemical	ursodeoxycholic acid
+Disease	shock
+Chemical	beta - lactam
+Disease	pruritus
+Chemical	acetazolamide
+Disease	bradyarrhythmias
+Chemical	thiopentone
+Disease	juvenile rheumatoid arthritis
+Chemical	ng
+Disease	blood dyscrasias
+Chemical	chlormethiazole
+Disease	cytopenias
+Chemical	dextran
+Disease	cord damage
+Chemical	mfl regimen
+Disease	muscular rigidity
+Chemical	mepivacaine
+Disease	akinetic
+Chemical	kanamycin
+Disease	carcinoma of the bladder
+Chemical	tetrandrine
+Disease	wolff - parkinson - white syndrome
+Chemical	fangchinoline
+Disease	oliguria
+Chemical	vitamin k
+Disease	psoriasis
+Chemical	alpha - t
+Disease	angiosarcoma of the liver
+Chemical	alpha - tac
+Disease	sensori - motor neuropathy
+Chemical	paroxetine
+Disease	melanoma
+Chemical	lisinopril
+Disease	malignant gliomas
+Chemical	beta - ccm
+Disease	astrocytomas
+Chemical	propylthio - uracil
+Disease	atrial tachycardia
+Chemical	anthracyclines
+Disease	atrial flutter
+Chemical	ih636 grape seed proanthocyanidin extract
+Disease	enlargement of the liver
+Chemical	oligodeoxynucleotide
+Disease	diabetes - insipidus - like syndrome
+Chemical	wr - 2721
+Disease	polydipsia
+Chemical	ifx
+Disease	urticaria
+Chemical	azidothymidine
+Disease	pulmonary tuberculosis
+Chemical	thymidine
+Disease	gall bladder stones
+Chemical	kcl
+Disease	myocardial infarctions
+Chemical	gamma - aminobutyric acid
+Disease	deformations
+Chemical	cyclosporine a
+Disease	anaphylaxis
+Chemical	cyproterone acetate
+Disease	loss of consciousness
+Chemical	gamma - vinyl gaba
+Disease	head and neck cancer
+Chemical	kainic acid
+Disease	loss of creativity
+Chemical	pregnanolone
+Disease	cardiovascular alterations
+Chemical	physostigmine
+Disease	atrioventricular reentrant tachycardia
+Chemical	betaxolol
+Disease	idiopathic dilated cardiomyopathy
+Chemical	iprindole
+Disease	avrt
+Chemical	calcitonin gene - related peptide
+Disease	bile duct hamartoma
+Chemical	propafenone overdose
+Disease	agranulocytosis
+Chemical	atropine sulfate
+Disease	transient neurologic symptoms
+Chemical	mk801
+Disease	hyperkalaemia
+Chemical	tryptophan
+Disease	autoimmune hemolytic anemia
+Chemical	bicuculline
+Disease	erythroblastocytopenia
+Chemical	tincture of crataegus
+Disease	thyrotoxicosis
+Chemical	adp
+Disease	choreoathetoid movements
+Chemical	apamin
+Disease	eps
+Chemical	azithromycin
+Disease	extrapyramidal signs
+Chemical	benzoylecgonine
+Disease	postural hypotension
+Chemical	trp
+Disease	reduced the supine systolic and diastolic blood pressures
+Chemical	cocaine toxicity
+Disease	blood coagulation
+Chemical	urotensin - ii
+Disease	platelet aggregations
+Chemical	ci - 921
+Disease	depressive disorders
+Chemical	nsc 343499
+Disease	impaired blood clotting
+Chemical	thioperamide
+Disease	hemodilution
+Chemical	bumetanide
+Disease	hematomas
+Chemical	pravastatin
+Disease	white matter edema
+Chemical	rapamycin
+Disease	respiratory arrest
+Chemical	statin
+Disease	desaturation
+Chemical	cyclic nucleotide
+Disease	depressed na
+Chemical	penicillin
+Disease	cardiac hypertrophy
+Chemical	xanthine
+Disease	ruptured aneurysms
+Chemical	urate
+Disease	aneurysmal rupture
+Chemical	6 - hydroxydopamine
+Disease	reduction in blood pressure
+Chemical	dopamine neurotoxicity
+Disease	reduction in systolic bp
+Chemical	imipramine
+Disease	clonic fits
+Chemical	temazepam
+Disease	emesis
+Chemical	levetiracetam
+Disease	clumsiness
+Chemical	dextromethorphan
+Disease	ataxic movements
+Chemical	arb
+Disease	dysphoric reaction
+Chemical	ipratropium bromide
+Disease	disorders of the central nervous system
+Chemical	n - ( 2 - propylpentanoyl ) urea
+Disease	graves ' disease
+Chemical	vitamin d2
+Disease	febrile illness
+Chemical	everolimus
+Disease	chronic renal insufficiency
+Chemical	simvastatinezetimibe
+Disease	systolic dysfunction losartan
+Chemical	bisphosphonate
+Disease	renovascular disease
+Chemical	hbs ag
+Disease	bone marrow oedema
+Chemical	des arg10 hoe 140
+Disease	reflex sympathetic dystrophy
+Chemical	s - limonene
+Disease	morton ' s neuralgia
+Chemical	malondialdehyde
+Disease	gout
+Chemical	pyrrolidine dithiocarbamate
+Disease	avascular necrosis
+Chemical	sulfonamides
+Disease	foot deformities
+Chemical	nitrofurantoins
+Disease	stress fractures
+Chemical	erythromycins
+Disease	hyperparathyroidism
+Chemical	cephalosporins
+Disease	oliguric renal failure
+Chemical	selective serotonin reuptake inhibitor
+Disease	tissue damage
+Chemical	fl
+Disease	bipolar depression
+Chemical	antituberculosis
+Disease	dsm - iv bipolar i
+Chemical	nelarabine
+Disease	hypomania
+Chemical	vp
+Disease	transplant glomerulopathy
+Chemical	cpm
+Disease	glomerulopathies
+Chemical	calcium chloride
+Disease	lupus nephritis
+Chemical	l - alpha - gfc
+Disease	henoch - schonlein nephritis
+Chemical	perhexiline maleate
+Disease	kidney diseases
+Chemical	4 ' - 0 - tetrahydropyranyladriamycin
+Disease	endothelial injury
+Chemical	halogenated hydroxyquinolines
+Disease	immunologic injury
+Chemical	isosorbide dinitrate
+Disease	cardiac arrhythmia
+Chemical	carbon dioxide
+Disease	mitral valve prolapse
+Chemical	po2
+Disease	chronic active ( aggressive ) hepatitis
+Chemical	trental
+Disease	withdrawal - emergent rabbit syndrome
+Chemical	gamma - hexachlorocyclohexane
+Disease	retention of urine
+Chemical	ptx
+Disease	chest wall rigidity
+Chemical	mpa
+Disease	urinary bladder retention
+Chemical	bcc
+Disease	hydronephrosis
+Chemical	dmcm
+Disease	myeloencephalopathy
+Chemical	str
+Disease	acute lymphoblastic leucemia
+Chemical	3h - tbob
+Disease	opistothonus , sensory and motor dysfunction
+Chemical	chloroacetaldehyde
+Disease	degeneration of myelin and axons
+Chemical	adriamycin nephrosis
+Disease	pseudocystic transformation
+Chemical	1 , 2 - dmh
+Disease	dermatitis
+Chemical	ccl4
+Disease	lymphadenopathy
+Chemical	deoxycorticosterone
+Disease	lymphadenitis
+Chemical	11 - deoxycortisol
+Disease	multi - organ failure
+Chemical	amca
+Disease	massive hepatocellular necrosis
+Chemical	prostacyclin
+Disease	bone marrow necrosis
+Chemical	hfde
+Disease	neurologic toxicity
+Chemical	oxytocin
+Disease	generalized seizures
+Chemical	delta 9 - tetrahydrocannabinol
+Disease	circulatory failure
+Chemical	cis - platin
+Disease	cardiac infarction
+Chemical	carbamazepine neurotoxicity
+Disease	neurological and cardiovascular toxicity
+Chemical	pentose phosphate
+Disease	glomerular injury
+Chemical	debrisoquine
+Disease	plasmacytoma
+Chemical	bromperidol
+Disease	structural lesions of the brain
+Chemical	flurbiprofen
+Disease	metabolic abnormalities
+Chemical	diphenhydramine
+Disease	convulsion
+Chemical	chloroquine
+Disease	temporomandibular disorders
+Chemical	phenylpropanolamine
+Disease	nociceptive muscle
+Chemical	ppa
+Disease	painful muscle
+Chemical	galanthamine hydrobromide
+Disease	hyperlocomotion
+Chemical	hyoscine
+Disease	phonophobia
+Chemical	thiamine
+Disease	photophobia
+Chemical	dacarbazine
+Disease	pain and visual disturbance in the ipsilateral eye
+Chemical	dtic
+Disease	glaucoma
+Chemical	polyethylene glycol 400
+Disease	ocular pain
+Chemical	peg 400
+Disease	papilledema
+Chemical	n - [ 4 - ( 5 - nitro - 2 - furyl ) - 2 - thiazolyl ] - formamide
+Disease	retinal detachment
+Chemical	desipramine toxicity
+Disease	chorioretinal atrophy
+Chemical	tobramycin sulfate
+Disease	elevated blood pressures
+Chemical	licl
+Disease	myocardial cell injury
+Chemical	benzylthiouracil
+Disease	cardiac disorders
+Chemical	udca
+Disease	ischemic injury
+Chemical	bpo - pll
+Disease	hypoxemia
+Chemical	bepridil
+Disease	necrotizing enterocolitis
+Chemical	trimethaphan
+Disease	polycystic ovary syndrome
+Chemical	dup 753
+Disease	substance abuse
+Chemical	ddi
+Disease	visual field defects
+Chemical	cuprolinic blue
+Disease	vfd
+Chemical	sodium valproate
+Disease	neurologic complications
+Chemical	valproate encephalopathy
+Disease	putaminal hemorrhage
+Chemical	aminoglycosides
+Disease	cortical laminar necrosis
+Chemical	ro 40 - 5967
+Disease	increases in blood pressure
+Chemical	sumatriptan
+Disease	endocrine disorder
+Chemical	hydrochlorofluorocarbons
+Disease	cutis verticis gyrata
+Chemical	ozone
+Disease	prostatic adenocarcinoma
+Chemical	chlorofluorocarbons
+Disease	neurological and psychiatric disorders
+Chemical	hcfcs 123 and 124
+Disease	drug dependence
+Chemical	danazol
+Disease	glaucomatous
+Chemical	dicyclomine
+Disease	neurologic sequelae
+Chemical	quinpirole
+Disease	weakness of extremities
+Chemical	trimipramine
+Disease	legs paralysis
+Chemical	d - amphetamine
+Disease	dysarthria
+Chemical	norpethidine
+Disease	sugar dependency
+Chemical	methadone
+Disease	drug dependency
+Chemical	radiocalcium
+Disease	hyperactive
+Chemical	fr 139317
+Disease	coccidioidomycosis
+Chemical	metamphetamine
+Disease	migraineurs ( without aura )
+Chemical	p - choloroaniline
+Disease	hematuria
+Chemical	chlorhexidine - digluconate
+Disease	acute psychosis
+Chemical	colistin
+Disease	trigeminal neuralgia
+Chemical	povidone - iodine
+Disease	nocturnal leg cramps
+Chemical	picloxydine
+Disease	platypnea - orthodeoxia - like syndrome
+Chemical	bisbenzylisoquinoline
+Disease	cyanosis
+Chemical	ep
+Disease	patent foramen ovale
+Chemical	asa
+Disease	biventricular dysfunction
+Chemical	angiotensin - converting enzyme ( ace ) inhibitor
+Disease	vascular dysfunctions
+Chemical	5 - [ 2 - ( 4 - ( 3 - fluorobenzylidene ) piperidin - 1 - yl ) ethyl ] - 4 - ( 4 - fluorophenyl ) thiazole - 2 - carboxamide
+Disease	intracranial vascular disturbances
+Chemical	phencyclidine
+Disease	increases in dural and cortical blood flow
+Chemical	gamma - carboxylated
+Disease	neuropathological damages
+Chemical	gamma - carboxyglutamate
+Disease	behavioral disorder
+Chemical	dopamine agonist
+Disease	behavioral deterioration
+Chemical	dopac
+Disease	sleeping difficulties
+Chemical	hva
+Disease	urinary bladder cancer
+Chemical	alpha - tocopherol acetate
+Disease	a reduced locomotor activity
+Chemical	hydroxyl
+Disease	myocardial dysfunction
+Chemical	aaph
+Disease	myocardial stunning
+Chemical	tocopherols
+Disease	myocardial necrosis
+Chemical	n ( g ) - nitro - l - arginine methyl ester
+Disease	idiopathic subjective tinnitus
+Chemical	domperidone
+Disease	vertigo
+Chemical	ketamine hydrochloride
+Disease	tremors
+Chemical	sertraline
+Disease	obstructive lung disease
+Chemical	lithium carbonate
+Disease	endometrial hyperplasia or cancer
+Chemical	methyl beta - carboline - 3 - carboxylate
+Disease	gastrointestinal disorders
+Chemical	benzodiazepine
+Disease	parasomnias
+Chemical	amine
+Disease	beta - thalassemic
+Chemical	daunorubicin
+Disease	beta - thalassemia
+Chemical	cephalothin sodium
+Disease	renal interstitial damage
+Chemical	proanthocyanidins
+Disease	td
+Chemical	serotonin reuptake inhibitors
+Disease	orofacial diskinesia
+Chemical	bd1008
+Disease	biliary pseudolithiasis
+Chemical	3s - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane
+Disease	gallbladder dysfunction
+Chemical	1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 4 - methylpiperazine
+Disease	vessel rupture
+Chemical	di - o - tolylguanidine
+Disease	antiphospholipid syndrome
+Chemical	dtg
+Disease	systemic lupus erythematosus
+Chemical	bd1031
+Disease	ventricular septal ( vsd ) and midline ( md ) defects
+Chemical	3r - 1 - [ 2 - ( 3 , 4 - dichlorophenyl ) ethyl ] - 1 , 4 - diazabicyclo [ 4 . 3 . 0 ] nonane
+Disease	intrauterine growth retardation
+Chemical	trihexyphenidyl
+Disease	increase of external and skeletal variations
+Chemical	vincristin
+Disease	thyroid disorders
+Chemical	indinavir
+Disease	acute alcohol intoxication
+Chemical	mannitol
+Disease	memory deficiency
+Chemical	progestagen
+Disease	bundle branch block
+Chemical	desogestrel
+Disease	penile erection
+Chemical	gestodene
+Disease	memory dissociation
+Chemical	levonorgestrel
+Disease	osteopenia
+Chemical	oral - contraceptive
+Disease	amenorrhea
+Chemical	glucaric acid
+Disease	high - frequency hearing loss
+Chemical	bupropion hydrochloride
+Disease	hiccups
+Chemical	pan nephrosis
+Disease	tissue injury
+Chemical	charcoal
+Disease	neurogenic hyperalgesia
+Chemical	ifosfamide encephalopathy
+Disease	nephrosclerosis
+Chemical	carboplatin toxicity
+Disease	prolonged qt interval
+Chemical	glycerin
+Disease	fungal infection
+Chemical	gentamicin nephrotoxicity
+Disease	long qt syndrome
+Chemical	gm nephrotoxicity
+Disease	amphetamine abuse
+Chemical	hydrocortisone acetate
+Disease	ischaemic stroke
+Chemical	silver
+Disease	impaired social and emotional judgement processes
+Chemical	leuprolide acetate
+Disease	bronchio - alveolar carcinoma
+Chemical	lhrh - a
+Disease	undifferentiated carcinoma
+Chemical	flutamide
+Disease	hyperhidrosis
+Chemical	2 - methyl - 6 - ( phenylethynyl ) pyridine
+Disease	hypersalivation
+Chemical	veratridine
+Disease	bronchorrhoea
+Chemical	3alpha - hydroxy - 5beta - pregnan - 20 - one
+Disease	miosis
+Chemical	allopregnanolone 3alpha - hydroxy - 3beta - methyl - 5alpha - pregnan - 20 - one
+Disease	atrio - ventricular dissociation
+Chemical	methscopolamine
+Disease	dyspnoea
+Chemical	alpha - methyltyrosine
+Disease	bronchospasm
+Chemical	p - chlorophenylalamine
+Disease	respiratory insufficiency
+Chemical	3sr , 4ars , 6sr , 8ars - 6 - [ phosphonomethyl ] decahydr oisoquinoline - 3 - carboxylic acid
+Disease	proteus mirabilis infection
+Chemical	posaconazole
+Disease	acute cardiovascular failure
+Chemical	5 - hydroxytriptamine
+Disease	impaired consciousness
+Chemical	prostaglandin f2 alpha
+Disease	radiculopathy
+Chemical	hexamethonium chloride
+Disease	low back and right leg pain
+Chemical	diisopropylfluorophosphate
+Disease	numbness
+Chemical	sarin
+Disease	lower extremity weakness
+Chemical	soman
+Disease	neurologic deterioration
+Chemical	ops
+Disease	atrial fibrillation clopidogrel
+Chemical	pralidoxime - 2 - chloride
+Disease	cardiac remodelling
+Chemical	n ( 6 ) - cyclopentyl adenosine
+Disease	tetany
+Chemical	dizocilpine maleate
+Disease	muscle contractions
+Chemical	dfp toxicity
+Disease	cystic renal diseases
+Chemical	pyridoxine hydrochloride
+Disease	chronic renal damage
+Chemical	niacinamide
+Disease	neoplasia
+Chemical	pyridoxal
+Disease	skin cancers
+Chemical	kynurenine
+Disease	intestinal tumors
+Chemical	imidazoline
+Disease	renal cell carsinom
+Chemical	rilmenidine hypotension
+Disease	membranoproliferative glomerulopathy
+Chemical	alpha - methyldopa hypotension
+Disease	malignant mesenchymal tumor
+Chemical	epinephrine overdose
+Disease	glucosuria
+Chemical	alcoholic extract of the berries of hawthorn
+Disease	renal abnormalities
+Chemical	crataegus oxycantha
+Disease	fanconi ' s syndrome
+Chemical	lidocaine toxicity
+Disease	tdfs
+Chemical	melphalan
+Disease	hyperckaemia
+Chemical	thiotepa
+Disease	coronary heart disease
+Chemical	hip - his - leu
+Disease	granulomatous hepatitis
+Chemical	cr
+Disease	cholestatic syndrome
+Chemical	thiazide
+Disease	cardiac damage
+Chemical	5 , 5 - dimethyl - 3 - ( 3 - fluorophenyl ) - 4 - ( 4 - methylsulphonyl ) phenyl - 2 ( 5h ) - furanon
+Disease	decreases of teoaes amplitudes
+Chemical	3 - benzenesulfonyl - 7 - ( 4 - methyl - piperazin - 1 - yl ) 1h - indole
+Disease	hypothyroidism
+Chemical	raloxifene hydrochloride
+Disease	hypothyroid
+Chemical	gentamicin ototoxicity
+Disease	arteriopathic
+Chemical	3 , 4 - methylenedioxymethamphetamine
+Disease	neuroinflammation
+Chemical	amsacrine
+Disease	neurodevelopmental disorder
+Chemical	9 - [ [ 2 - methoxy - 4 - [ ( methylsulphonyl ) amino ] phenyl ] amino ] - n , 5 - dimethyl - 4 - acridinecarboxamide
+Disease	deficits in communication and social skills
+Chemical	desipramine hcl
+Disease	repetitive behaviors
+Chemical	cinacalcet hcl
+Disease	autism spectrum disorders
+Chemical	carbamylcholin
+Disease	injury to the brain
+Chemical	extract of daucus carota seeds
+Disease	decreased thymus ( p < 0 . 001 ) and bodyweights
+Chemical	triamcinolone diacetate
+Disease	cataract
+Chemical	estradiol - and testosterone esters
+Disease	postoperative emetic symptoms
+Chemical	ximelagatran
+Disease	atherosclerotic obstruction
+Chemical	irbesartan
+Disease	coronary occlusion
+Chemical	idraparinux
+Disease	thrombus
+Chemical	calcium gluconate
+Disease	neuronal death
+Chemical	sodium citrate
+Disease	decline of cognitive function
+Chemical	loop diuretic
+Disease	dopaminergic terminal damage
+Chemical	ifosfamide renal toxicity
+Disease	hepatitis b virus ( hbv ) infected
+Chemical	ifosfamide , vincristine , and dactinomycin
+Disease	hbv and hiv co - infected
+Chemical	iva
+Disease	human immunodeficiency virus ( hiv ) co - infection
+Chemical	alpha , beta - methylene adenosine - 5 ' - triphosphate
+Disease	hbv mono - infected
+Chemical	alpha , beta - meatp
+Disease	decreased basal ganglia perfusion
+Chemical	4 - diphenylacetoxy - n - methylpiperidine
+Disease	movement disorder
+Chemical	isoprenaline
+Disease	premature atherosclerosis
+Chemical	combination of amoxicillin and clavulanic acid
+Disease	atherosclerotic lesion
+Chemical	amoxicillin - clavulanic acid
+Disease	upper respiratory tract infection
+Chemical	tariquidar
+Disease	inability to sleep
+Chemical	dex increased sbp
+Disease	tiredness
+Chemical	tc99m - sestamibi
+Disease	depressive symptoms
+Chemical	contrast medium iopamidol
+Disease	quadriparesis
+Chemical	contrast medium iodixanol
+Disease	sensory loss
+Chemical	n - acetylcysteine
+Disease	paresthesia
+Chemical	maltol
+Disease	giddiness
+Chemical	p - coumaric acid
+Disease	hoarseness
+Chemical	h2o2
+Disease	idiopathic epilepsy
+Chemical	fluvastatin
+Disease	tonic - clonic seizures
+Chemical	rosuvastatin
+Disease	impaired word fluency , psychomotor speed and working memory
+Chemical	fluoroquinolone
+Disease	hyperprolactinemic
+Chemical	methionine
+Disease	mitochondrial cytopathy
+Chemical	progesterone
+Disease	wilson ' s disease
+Chemical	cholesteryl esters
+Disease	hepatitis b infection
+Chemical	oxazepam
+Disease	hypophosphatemia
+Chemical	zopiclone
+Disease	glycosuria
+Chemical	disulfiram overdose
+Disease	muscle weakness
+Chemical	yohimbine
+Disease	mitochondrial disorders
+Chemical	ribonucleic acid
+Disease	tubular dysfunction
+Chemical	mmf
+Disease	non - hodgkin lymphomas
+Chemical	lenalidomide
+Disease	multiple myeloma
+Chemical	sirolmus
+Disease	mantle cell lymphoma
+Chemical	mycophenolate mofetil
+Disease	lymphoplasmacytic lymphoma
+Chemical	angiotensin - releasing blocker
+Disease	cardiovascular and gastrointestinal systems
+Chemical	acei
+Disease	chronic airflow obstruction
+Chemical	ginsenoside rg1
+Disease	neurodegeneration
+Chemical	n - pyrimidinyl - 2 - phenoxyacetamides
+Disease	cns damage
+Chemical	n - pyrimidinyl - 2 - phenoxyacetamide adenosine
+Disease	gastric hemorrhagic ulcers
+Chemical	mecamylamine
+Disease	gastric hemorrhagic ulcer
+Chemical	sch 23390
+Disease	hepatic complication
+Chemical	raclopride
+Disease	hematological malignancies
+Chemical	fluphenazine
+Disease	hbv infection
+Chemical	phno
+Disease	brachial neuritis
+Chemical	skf 38393
+Disease	headaches
+Chemical	clomiphene citrate
+Disease	neurological deficits
+Chemical	meth neurotoxicity
+Disease	myelitis
+Chemical	hepatitis - b surface antigen
+Disease	brachial plexitis
+Chemical	lamivudin
+Disease	valvular heart abnormalities
+Chemical	nucleoside
+Disease	valvular heart abnormality
+Chemical	3 - methyladenine
+Disease	aortic regurgitation
+Chemical	papaverine hydrochloride
+Disease	valvular regurgitation
+Chemical	simvastatin 10 mg - ezetimibe 40 mg
+Disease	valve regurgitation
+Chemical	escitalopram
+Disease	psychoses
+Chemical	uridine diphosphate
+Disease	anxiety neurosis
+Chemical	simvastatin hydroxy acid
+Disease	disturbances of sleep - wake rhythm
+Chemical	alendronate sodium
+Disease	malaria
+Chemical	bisphosphonates
+Disease	cranial nerve dysfunction
+Chemical	8 - aminoquinoline 8 - [ ( 4 - amino - l - methylbutyl ) amino ] - 5 - ( l - hexyloxy ) - 6 - methoxy - 4 - methylquinoline
+Disease	adverse effect on the proximal eighth nerve
+Chemical	8 - aminoquinoline wr242511
+Disease	cranial nerve deficits
+Chemical	hepatitis b virus surface antigen
+Disease	hepatotoxic
+Chemical	des - arg10hoe 140
+Disease	fulminant hepatic failure
+Chemical	amino acid glutamine
+Disease	drug toxicity
+Chemical	pac neurotoxicity
+Disease	lipidemia
+Chemical	pegylated interferon ( ifn ) alpha - 2b
+Disease	uremia
+Chemical	aldehyde
+Disease	urinary tract infection
+Chemical	acetaldehyde
+Disease	haemolysis
+Chemical	glutamate n - methyl - d - aspartate
+Disease	petechiae
+Chemical	olanzapine
+Disease	bone marrow depression
+Chemical	aripiprazole
+Disease	thrombi
+Chemical	pilocarpine status epilepticus
+Disease	microangiopathies
+Chemical	quinolones
+Disease	toxic neurodegenerative cascade
+Chemical	hepatitis b virus e antigen
+Disease	mitochondrial impairment
+Chemical	adefovir
+Disease	peripheral nerve toxicity
+Chemical	tenofovir
+Disease	methemoglobinemia
+Chemical	ephedrine reduces frontal lobe oxygenation
+Disease	hemoglobinuria
+Chemical	midazolan
+Disease	liver and kidney toxicity
+Chemical	flumazenil
+Disease	rheumatologic disorders
+Chemical	methamphetamines
+Disease	rheumatologic disease
+Chemical	angiotensin converting enzyme ( ace ) inhibitors
+Disease	rheumatologic diseases
+Chemical	ace inhibitor enalapril
+Disease	pains
+Chemical	methotrexate toxicity
+Disease	opportunistic infection
+Chemical	antidepressant clomipramine
+Disease	liver abscess
+Chemical	cacl2
+Disease	diabetic ( streptozotocin - induced ) and toxic ( vincristine - induced ) neuropathy
+Chemical	organophosphorus ( op ) poisons
+Disease	diabetic hyperalgesia
+Chemical	op compound
+Disease	hyperalgesia bradykinin
+Chemical	sunitinib
+Disease	inferior colliculus lesion
+Chemical	sorafenib
+Disease	callosal lesion
+Chemical	pegylated interferon alpha 2a
+Disease	deficit of associative memory
+Chemical	l - alpha - glyceryl - phosphorylcholine
+Disease	respiratory dysfunction
+Chemical	l - alpha - glycerylphosphorylcholine
+Disease	diplopia
+Chemical	fluoropyrimidines
+Disease	ptosis on the right upper lid
+Chemical	neurotensin type - 1 receptor antagonist sr48692
+Disease	restricted right eye movement
+Chemical	adriamycinol
+Disease	impairments in learning and memory
+Chemical	adriamycinone
+Disease	deficits in learning and memory
+Chemical	tetrahydropyranyladriamycinol
+Disease	flushing of the face
+Chemical	aluminium
+Disease	arterial hypotension
+Chemical	vitamin b6
+Disease	declines in simple and sustained attention , working memory , and verbal memory
+Chemical	nalozone
+Disease	heart block
+Chemical	[ 3h ] - naloxone
+Disease	right heart failure
+Chemical	[ 3h ] - dihydroergocryptine
+Disease	birth defect
+Chemical	co2
+Disease	choanal atresia
+Chemical	methylxanthine
+Disease	transverse limb deficiency
+Chemical	methylxanthines
+Disease	diaphragmatic hernia
+Chemical	pentoxyifylline
+Disease	anophthalmia
+Chemical	midazolam hydrochloride
+Disease	microphthalmos
+Chemical	3 - mercaptopropionic acid
+Disease	atrial septal defects
+Chemical	methyl 6 , 7 - dimethoxy - 4 - ethyl - b - carboline - 3 - carboxylate
+Disease	cleft lip
+Chemical	strychnine
+Disease	cleft palate
+Chemical	t - butyl bicyclo - orthobenzoate
+Disease	peptic ulcer disease
+Chemical	gamma benzene hexachloride
+Disease	reflux esophagitis
+Chemical	amantadine hydrochloride
+Disease	zollinger - ellison syndrome
+Chemical	amantadine depressed
+Disease	lethargy
+Chemical	normetanephrine
+Disease	shortness of breath
+Chemical	mesna
+Disease	a decrease in map , hr , sv , and co
+Chemical	thienodiazepine
+Disease	intraoperative and postoperative bleeding
+Chemical	benzo [ a ] - pyrene
+Disease	spontaneous recurrent seizures
+Chemical	n - methyl - n - nitrosourea
+Disease	myocardiopathy
+Chemical	1 , 2 - dimethylhydrazine
+Disease	airway obstruction
+Chemical	2 - acetylaminofluorene
+Disease	coronary spasm
+Chemical	[ 3h ] - 5 - azadeoxycytidine
+Disease	cardiac dysrhythmias
+Chemical	cytosine
+Disease	violent behavior
+Chemical	methyl dopa
+Disease	xerostomia
+Chemical	voltarol
+Disease	caries
+Chemical	phenylacetic acid
+Disease	tooth wear
+Chemical	angiotension ii
+Disease	bad breath
+Chemical	amphotericin b nephrotoxicity
+Disease	carious lesions
+Chemical	acc - 9089
+Disease	carious episodes
+Chemical	propylene glycol
+Disease	hepatitis virus infection
+Chemical	hexafluorodiethyl ether
+Disease	icterus encephalopathy
+Chemical	hydralazine
+Disease	cerebral edema
+Chemical	urethane
+Disease	gastrointestinal bleed
+Chemical	gemfibrozil
+Disease	central nervous system ( cns ) complications
+Chemical	niacin
+Disease	neurocognitive defects
+Chemical	sulfonylureas
+Disease	inappropriate antidiuretic hormone secretion
+Chemical	sulfonylurea
+Disease	cocaine addiction
+Chemical	metocurine
+Disease	bipolar i disorder
+Chemical	actomycin - d
+Disease	t - cell lymphoblastic leukaemia and lymphoma
+Chemical	iron
+Disease	t - cell leukaemia or lymphoma
+Chemical	sodium pentothal
+Disease	musculoskeletal pain
+Chemical	cephalosporin hematotoxicity
+Disease	haematological toxicity
+Chemical	xenon
+Disease	myocardial and kidney injury
+Chemical	nitrous oxide
+Disease	cardiac and renal lesions
+Chemical	hg
+Disease	obsessive - compulsive - like behaviors
+Chemical	triazolo
+Disease	obsessive - compulsive disorder
+Chemical	n , n ' - diisopropylphosphorodiamidofluoridate
+Disease	behavioral inflexibility
+Chemical	chlorambucil
+Disease	hoarding
+Chemical	purine
+Disease	corticostriatal dysfunction
+Chemical	folic acid
+Disease	arterial injury
+Chemical	amiodarone pneumonitis
+Disease	cognitive dysfunction
+Chemical	prostaglandins
+Disease	impairment of learning and memory
+Chemical	suxamethonium chloride
+Disease	deterioration of cognitive functions
+Chemical	bleomycin
+Disease	chronically infected with hepatitis c virus
+Chemical	vinca alkaloid
+Disease	impairment of attention and memory
+Chemical	cisplatin nephrotoxicity
+Disease	renal and kidney disease
+Chemical	mexitil - perlongets
+Disease	colorectal , breast , pancreaticobiliary , gastric , renal cell and head and neck cancers
+Chemical	riboflavin
+Disease	diarrhea
+Chemical	caffeine toxicity
+Disease	stomatitis
+Chemical	sodium acetylsalicylate
+Disease	hand - foot syndrome
+Chemical	pentylenetetrezol
+Disease	hepatic and renal dysfunctions
+Chemical	dothiepin hydrochloride
+Disease	dyskinetic movements
+Chemical	isoproterenols
+Disease	parkinsonian symptoms
+Chemical	adriamycin toxicity
+Disease	organic mental disorders
+Chemical	quaternary ammonium
+Disease	frontal lobe syndrome
+Chemical	n , n - dimethylpropranolol
+Disease	structural damage to the frontal lobe
+Chemical	ouabain
+Disease	demyelinating disorder
+Chemical	hyaluronate
+Disease	renal and / or hepatic dysfunction
+Chemical	fanft carcinogenesis
+Disease	mesothelioma
+Chemical	1 , 3 - bis - ( 2 - chloroethyl ) - 1 - nitrosourea
+Disease	leiomyosarcoma
+Chemical	sodium chloride
+Disease	basal cell carcinoma
+Chemical	acriflavine
+Disease	ocular and auditory toxicity
+Chemical	dyazide
+Disease	visual or auditory toxicity
+Chemical	hydrochlorothiazide - triamterene
+Disease	dyschromatopsy
+Chemical	uric acid salts
+Disease	a loss of visual acuity
+Chemical	busulfan cystitis
+Disease	pigmentary retinal deposits
+Chemical	adriamycin cardiotoxicity
+Disease	neurosensorial hearing loss
+Chemical	phosphorylcreatine
+Disease	hallucinosis
+Chemical	phophorylcreatine
+Disease	decreased appetite
+Chemical	doxorubicin cardiotoxicity
+Disease	gastrointestinal symptoms
+Chemical	n omercazole
+Disease	neurological disturbance
+Chemical	basd ne
+Disease	acrodermatitis enteropathica
+Chemical	cisplatinum
+Disease	myelo - optic neuropathy
+Chemical	5 - fluorouracil neurotoxicity
+Disease	coronary arterial stenosis
+Chemical	fluoroacetate
+Disease	acute coronary insufficiency
+Chemical	fluorocitrate
+Disease	obstructive ( p less than 0 . 05 ) and central apnoea
+Chemical	dihydrouracil
+Disease	ventricular ectopic beats
+Chemical	chlorpromazine
+Disease	cardiac disturbances
+Chemical	carbamazepine oxcarbazepine
+Disease	hypoventilation
+Chemical	thiobarbituric acid
+Disease	ventricular arrhythmias
+Chemical	pan nephropathy
+Disease	peripheral vascular disease
+Chemical	fluorescein sodium
+Disease	bronchitis
+Chemical	benzylpenicilloyl - poly - l - lysine
+Disease	heart diseases
+Chemical	benzylpenicilloate
+Disease	septicaemia
+Chemical	benzylpenicillin
+Disease	respiratory and cardiovascular depression
+Chemical	amp
+Disease	neuromuscular disease
+Chemical	ax allergy
+Disease	quadriplegic
+Chemical	phentolamine
+Disease	preeclampsia
+Chemical	antidepressant fluoxetine
+Disease	postsynaptic neuromuscular blockade
+Chemical	aponidine hydrochloride
+Disease	disorder of neuromuscular transmission
+Chemical	vecuronium bromide
+Disease	hepatocellular carcinoma
+Chemical	atracurium besylate
+Disease	muscle wastage
+Chemical	benzylisoquinolinium
+Disease	viremia
+Chemical	taxol
+Disease	toxic to the central nervous system
+Chemical	glycosaminoglycan
+Disease	aplastic anaemia
+Chemical	mk - 486
+Disease	suppression of motility
+Chemical	mao
+Disease	behavioral depression
+Chemical	dl - threo - dihydroxyphenylserine
+Disease	bladder damage
+Chemical	fla - 63
+Disease	hyponatremia
+Chemical	pimozide
+Disease	extensive hepatocellular necrosis
+Chemical	5 - htp
+Disease	initiation induced by carcinogens
+Chemical	cya
+Disease	initiation of carcinogenic process
+Chemical	nitrogranulogen
+Disease	depressions
+Chemical	alcohol withdrawal symptoms
+Disease	abnormalities of liver function
+Chemical	nitrazepam overdose
+Disease	cushing ' s syndrome
+Chemical	phenytoin overdosages
+Disease	kidney damage
+Chemical	phenytoin overdosage
+Disease	intracranial hemorrhage
+Chemical	hoe - 140
+Disease	reductions in mean arterial blood pressure
+Chemical	aceto - acetate
+Disease	increase in heart rate and cardiac output
+Chemical	3 - hydroxybutyrate
+Disease	supraventricular tachyarrhythmia
+Chemical	amikacin retinal toxicity
+Disease	unstable angina
+Chemical	vancomycin
+Disease	adenoma
+Chemical	carbon monoxide
+Disease	cardiac tamponade
+Chemical	cfcs
+Disease	serositis
+Chemical	1 , 1 - dichloro - 2 , 2 , 2 - trifluoroethane
+Disease	lupus syndrome
+Chemical	hcfc 123
+Disease	sudden deterioration of renal function
+Chemical	1 - chloro - 1 , 2 , 2 , 2 - tetrafluoroethane
+Disease	hypercholesterolaemia
+Chemical	hcfc 124
+Disease	hepatocellular injury
+Chemical	1 - bromo - 1 - chloro - 2 , 2 , 2 - trifluoroethane
+Disease	type ii diabetes mellitus
+Chemical	testosterone heptylate
+Disease	acute hepatitis - like syndrome
+Chemical	serotonin 5 - ht2
+Disease	viral infection
+Chemical	3 alpha - tropyl 2 - ( p - bromophenyl ) propionate
+Disease	acute hepatitis - like illness
+Chemical	hemicholinium - 3
+Disease	somatic rigidity
+Chemical	gamma - aminobutyric acidb
+Disease	sudden death
+Chemical	3 - aminopropyl - diethoxy - methyl - phosphinic acid
+Disease	gestational trophoblastic disease
+Chemical	5 - hydroxytryptamine4
+Disease	choriocarcinoma
+Chemical	2 - methoxy - 4 - amino - 5 - chlorobenzoic acid 2 - ( diethylamino ) ethyl ester
+Disease	pulmonary obstruction
+Chemical	5 - hydroxytryptamin1a
+Disease	tumor necrosis
+Chemical	1 - ( 2 - methoxyphenyl ) - 4 - [ 4 - ( 2 - phthalimido ) butyl ] piperazine
+Disease	embolism
+Chemical	5 - hydroxytryptamine
+Disease	pelvic tumor
+Chemical	reserpine hypothermia
+Disease	decrease in arterial blood pressure
+Chemical	5 - hydroxytryptophan
+Disease	decreased cardiac output
+Chemical	ibuprofen
+Disease	decreases in arterial blood pressure and cardiac output
+Chemical	appetite suppressant
+Disease	hypovolemia
+Chemical	appetite - suppressants
+Disease	ventricular tachyarrhythmias
+Chemical	fenfluramines
+Disease	acute renal failure and hepatic failure
+Chemical	lamotrigine
+Disease	osteoarthritis
+Chemical	ethosuximide
+Disease	spondyloarthropathy
+Chemical	heroine
+Disease	sexual dysfunctions
+Chemical	3alpha - tropyl 2 - ( p - bromophenyl ) propionate
+Disease	urothelial cancer
+Chemical	s - ( - ) - et - 126
+Disease	cancer of the renal pelvis , ureter or bladder
+Disease	cancer of the renal pelvis and bladder
+Disease	ureteric cancer
+Disease	leprosy
+Disease	av block
+Disease	impairment of ventricular function
+Disease	extrapyramidal concomitant symptoms
+Disease	psychotic syndromes belonging predominantly to the schizophrenia group
+Disease	hypereosinophilia
+Disease	visual and auditory neurotoxicity
+Disease	abnormal audiograms with deficits mostly in the high frequency range of 4 , 000 to 8 , 000 hz
+Disease	permanent disability
+Disease	auditory abnormality
+Disease	auditory dysfunction
+Disease	cardiac asystole
+Disease	tender joints
+Disease	swelling
+Disease	tenderness
+Disease	morning stiffness
+Disease	fecal occult blood
+Disease	gastrointestinal ( gi ) bleeding
+Disease	cerebral ischaemia
+Disease	gangrene
+Disease	hematologic disturbances
+Disease	hematologic syndrome
+Disease	cytopenia
+Disease	cerebral aneurysms
+Disease	cerebral aneurysm
+Disease	subarachnoid haemorrhage
+Disease	neurotoxic organophosphate
+Disease	angioneurotic edema
+Disease	carcinoma of the oral cavity
+Disease	impaired renal function
+Disease	hyperkinetic
+Disease	compression neuropathy of the radial nerve
+Disease	sporotrichosis
+Disease	neuropsychiatric symptoms
+Disease	meningeal leukemia
+Disease	meningeal disease
+Disease	transient hemiparesis
+Disease	acute t - lymphocytic leukemia
+Disease	hyperbilirubinemia
+Disease	synovitis
+Disease	acute nonlymphocytic leukemia
+Disease	non - hodgkin ' s lymphoma
+Disease	muscle tear
+Disease	nerve entrapment
+Disease	partial loss of quadriceps functions
+Disease	motor and sensory impairment
+Disease	pleural and pericardial effusion
+Disease	sinuatrial disease
+Disease	supraventricular tachyarrhythmias
+Disease	pleural and pericardial effusions
+Disease	proximal motor neuropathy
+Disease	primary cardiomyopathy
+Disease	supraventricular tachycardia
+Disease	sinus bradycardia
+Disease	cor pulmonale
+Disease	hepatomegaly
+Disease	anorexia
+Disease	fatty change
+Disease	massive hepatic necrosis
+Disease	fulminant hepatitis
+Disease	tetanic
+Disease	twitch
+Disease	tetanus
+Disease	liver damage
+Disease	adenocarcinoma of the liver
+Disease	intraarterial lesions
+Disease	congenital anomalies
+Disease	ventricular septal defect
+Disease	potter - type iia polycystic kidney
+Disease	rudimentary left uterine cornu
+Disease	potter ' s facies
+Disease	hypoplastic lungs
+Disease	absent kidneys and ureters
+Disease	talipes equinovarus
+Disease	thrombotic thrombocytopenic purpura
+Disease	hemolytic - uremic syndrome
+Disease	gastrointestinal problems
+Disease	cardiomegaly
+Disease	hypercalcemia
+Disease	hyperphosphatemia
+Disease	diseases of peripheral nerves
+Disease	peripheral nerve disease
+Disease	guillain - barr syndrome
+Disease	cranial neuropathy
+Disease	connective tissue disorders
+Disease	neuropathies
+Disease	depressive disorder
+Disease	depressive illness
+Disease	panic disorders
+Disease	impaired immediate free recall
+Disease	delayed free recall was also impaired
+Disease	behavioral impairment
+Disease	veno - occlusive disease of the liver
+Disease	venous congestion
+Disease	cardiac malformations
+Disease	cardiac morphological alterations
+Disease	l1210 leukemia
+Disease	ehrlich ascites tumor
+Disease	ventricular tachycardias
+Disease	bladder tumors
+Disease	angiopathy
+Disease	bladder carcinomas
+Disease	forestomach tumors
+Disease	abnormal involuntary movements
+Disease	gastrointestinal disorder
+Disease	loss of vision
+Disease	retinal vasculitis
+Disease	diabetic autonomic neuropathy
+Disease	adenohypophyseal tumors
+Disease	liver or kidney disease
+Disease	intra - hisian block
+Disease	intraventricular conduction abnormalities
+Disease	clear cell adenocarcinoma of the vagina
+Disease	subpial necrosis
+Disease	premature ventricular contractions
+Disease	q - t prolongation
+Disease	syncope
+Disease	prolonged q - t syndrome
+Disease	cirrhosis of the liver
+Disease	splenomegaly
+Disease	hemorrhage cystitis
+Disease	cardiotoxic
+Disease	deafness
+Disease	hepatic adverse effects
+Disease	conjunctivitis
+Disease	human immunodeficiency virus ( hiv ) - infected
+Disease	myelotoxicity
+Disease	enuresis
+Disease	aggression
+Disease	weight loss
+Disease	gastric adenocarcinoma
+Disease	disorientation
+Disease	organic psychotic
+Disease	proteinuric injury
+Disease	gall stone disease
+Disease	septicemia
+Disease	drug - induced allergic reaction
+Disease	exanthema
+Disease	urtication
+Disease	itchiness
+Disease	excessive flexion or extension of one or more toes
+Disease	cranial hemorrhage
+Disease	mdm
+Disease	neuromuscular disorders
+Disease	renal calculi
+Disease	renal calculus
+Disease	nephrotic syndromes
+Disease	hypercholesterolemia
+Disease	hiv antibody - positive
+Disease	opportunistic infections
+Disease	diarrhoea
+Disease	glucose tolerance curves
+Disease	axonal injury
+Disease	injury in the cortex
+Disease	infarcts in substantia nigra pars reticulata
+Disease	traumatic
+Disease	renal and liver dysfunction
+Disease	gallstone
+Disease	acute cholecystitis
+Disease	parkinson disability
+Disease	idiopathic parkinson ' s disease
+Disease	cardiac disease
+Disease	ocular hypotensive
+Disease	decreases in systolic blood pressure
+Disease	conjunctival blanching
+Disease	mydriasis
+Disease	entropion
+Disease	corneal abrasion
+Disease	head and neck carcinomas
+Disease	paresthesias
+Disease	arthralgias
+Disease	myalgias
+Disease	myalgia
+Disease	parkinsonian motor disability
+Disease	cardiovascular toxicities
+Disease	diabetic nephropathy
+Disease	locomotor hypoactivity
+Disease	cognitive and functional deficits
+Disease	cognitive and functional impairments
+Disease	cognitive , motivational , or creative deficits
+Disease	cerebral hypoxia
+Disease	comatose
+Disease	stuporous
+Disease	neurological sequelae
+Disease	hypoxaemia
+Disease	cerebellar disorders
+Disease	cerebellum damage
+Disease	hepatic damage
+Disease	intracranial bleeding
+Disease	wheezing
+Disease	respiratory distress
+Disease	impairment of hepatic function
+Disease	atypical sensations
+Disease	tingling or burning sensations
+Disease	sunburn
+Disease	streptococcal endophthalmitis
+Disease	telangiectasis
+Disease	wpw syndrome
+Disease	halothane hepatitis
+Disease	liver mass
+Disease	hypogonadism
+Disease	hypothalamic dysfunction
+Disease	drug - induced parkinsonism
+Disease	impaired heart function
+Disease	dehydration
+Disease	amnesic
+Disease	loss of pinprick sensation
+Disease	meningitis
+Disease	drug abuse
+Disease	incomprehensible shouts
+Disease	dupuytren ' s contracture
+Disease	stevens - johnson syndromes
+Disease	cholestatic disease
+Disease	myoclonic jerks
+Disease	choreatiform hyperkinesias
+Disease	movement abnormalities
+Disease	psychomotor agitation
+Disease	iga nephropathy
+Disease	interstitial fibrosis
+Disease	intrahepatic and extrahepatic cholestasis

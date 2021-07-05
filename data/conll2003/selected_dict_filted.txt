@@ -1,0 +1,5441 @@
+LOC	britain
+PER	wasim akram
+ORG	puk
+LOC	italy
+PER	waqar younis
+ORG	osce
+LOC	russia
+PER	mushtaq ahmed
+ORG	nato
+LOC	sweden
+PER	mother teresa
+ORG	honda
+LOC	belgium
+PER	aamir sohail
+ORG	interfax
+LOC	iraq
+PER	bill clinton
+ORG	kdp
+LOC	south africa
+PER	saeed anwar
+ORG	marseille
+LOC	united states
+LOC	romania
+PER	boris yeltsin
+ORG	motorola
+LOC	chechnya
+PER	yasser arafat
+ORG	warwickshire
+LOC	slovakia
+PER	inzamam-ul-haq
+ORG	yorkshire
+LOC	bosnia
+PER	moin khan
+ORG	lancashire
+LOC	west bank
+PER	diana
+ORG	ajax amsterdam
+LOC	czech republic
+PER	ijaz ahmed
+ORG	lens
+LOC	sri lanka
+PER	salim malik
+ORG	st pauli
+PER	alexander lebed
+ORG	psv eindhoven
+LOC	brussels
+PER	arantxa sanchez vicario
+ORG	sydney newsroom
+LOC	kenya
+PER	asif mujtaba
+ORG	rtrs
+LOC	turkey
+PER	todd martin
+ORG	benetton
+LOC	argentina
+PER	benjamin netanyahu
+ORG	pkk
+LOC	egypt
+PER	g. thorpe
+ORG	ob
+LOC	bonn
+PER	wayne ferreira
+ORG	groningen
+LOC	baghdad
+PER	mark philippoussis
+ORG	auxerre
+LOC	grozny
+PER	todd woodbridge
+ORG	yamaha
+LOC	switzerland
+PER	j. crawley
+ORG	fiorentina
+LOC	beijing
+PER	marcelo rios
+ORG	gloucestershire
+LOC	costa rica
+PER	malivai washington
+ORG	hansa rostock
+LOC	morocco
+PER	monica seles
+ORG	bradford
+LOC	scotland
+PER	bob dole
+ORG	newcastle
+LOC	berlin
+PER	costas simitis
+ORG	nantes
+LOC	amman
+PER	saddam hussein
+ORG	glamorgan
+LOC	denmark
+PER	mohammad akram
+ORG	nec nijmegen
+LOC	cuba
+PER	thomas muster
+ORG	borussia dortmund
+LOC	stansted
+PER	patrick rafter
+ORG	zenith
+LOC	croatia
+PER	alex o'brien
+ORG	wigan
+LOC	chile
+PER	pete sampras
+ORG	hanwha
+LOC	johannesburg
+PER	m. waugh
+ORG	ssangbangwool
+LOC	norway
+PER	lance armstrong
+ORG	montpellier
+LOC	burundi
+PER	kabariti
+ORG	fortuna sittard
+LOC	the oval
+PER	hasina
+ORG	gloria bistrita
+LOC	wellington
+PER	shimon peres
+ORG	leicestershire
+LOC	syria
+PER	billy mayfair
+ORG	nottinghamshire
+LOC	malaysia
+PER	costantino rocca
+ORG	worcestershire
+LOC	afghanistan
+PER	kimiko date
+ORG	nac breda
+LOC	geneva
+PER	michael chang
+ORG	interior ministry
+LOC	khartoum
+PER	sergi bruguera
+ORG	samsung
+LOC	new delhi
+PER	martin damm
+ORG	liverpool
+LOC	saudi arabia
+PER	m. atherton
+ORG	oldham
+LOC	cairo
+PER	mohammad akam
+ORG	aberdeen
+LOC	bangkok
+PER	mikael tillstrom
+ORG	guingamp
+LOC	rome
+PER	cedric pioline
+ORG	metz
+LOC	zaire
+PER	jason stoltenberg
+ORG	vitesse arnhem
+LOC	doboj
+PER	andrei medvedev
+ORG	karlsruhe
+LOC	tirana
+PER	thomas enqvist
+ORG	bayer leverkusen
+LOC	budapest
+PER	raymond russell
+ORG	bayern munich
+LOC	kremlin
+PER	paul lawrie
+ORG	kawasaki
+LOC	ethiopia
+PER	pedro linhart
+ORG	foreign ministry
+LOC	thailand
+PER	anke huber
+ORG	kent
+LOC	jamaica
+PER	conchita martinez
+ORG	sussex
+LOC	ankara
+PER	lindsay davenport
+ORG	northamptonshire
+LOC	mexico city
+PER	aslan maskhadov
+ORG	everton
+LOC	ramallah
+PER	michael schumacher
+ORG	mclaren
+LOC	albania
+PER	linford christie
+ORG	juventus
+LOC	estonia
+PER	tommi makinen
+ORG	hyundai
+LOC	slovenia
+PER	chris boardman
+ORG	haitai
+LOC	belarus
+PER	andrea collinelli
+ORG	bastia
+LOC	sarajevo
+PER	dimitris kontogiannis
+ORG	lille
+LOC	serbia
+PER	god
+ORG	rennes
+LOC	south korea
+PER	greg norman
+ORG	graafschap doetinchem
+LOC	ecuador
+PER	karol kucera
+ORG	willem ii tilburg
+LOC	portugal
+PER	a. giles
+ORG	sparta rotterdam
+LOC	brasilia
+PER	c. white
+ORG	utrecht
+LOC	wisconsin
+PER	m. moxon
+ORG	az alkmaar
+LOC	wales
+PER	a. stewart
+ORG	arminia bielefeld
+LOC	bogota
+PER	petr korda
+ORG	borussia moenchengladbach
+LOC	nicaragua
+PER	daniel vacek
+ORG	werder bremen
+LOC	tehran
+PER	bohdan ulihrach
+ORG	fortuna duesseldorf
+LOC	sakai
+PER	tim henman
+ORG	mds
+LOC	national tennis centre
+PER	stefan edberg
+ORG	ducati
+LOC	algiers
+PER	michael stich
+ORG	spla
+LOC	islamabad
+PER	paul broadhurst
+ORG	cvg
+LOC	uganda
+PER	miguel angel martin
+ORG	sec
+LOC	old trafford
+PER	paul eales
+ORG	boj
+LOC	nairobi
+PER	amanda coetzer
+ORG	european commission
+LOC	calif.
+PER	jana novotna
+ORG	athens newsroom
+LOC	eritrea
+PER	gerhard berger
+ORG	s&p
+LOC	dayton
+PER	jacques villeneuve
+ORG	tranmere
+LOC	san jose
+PER	mika hakkinen
+ORG	grimsby
+LOC	kuwait
+PER	jean alesi
+ORG	paris st germain
+LOC	dubai
+PER	damon hill
+ORG	cniec
+LOC	trent bridge
+PER	karina habsudova
+ORG	crystal palace
+LOC	headingley
+PER	n. fairbrother
+ORG	barnsley
+LOC	latvia
+PER	ian woosnam
+ORG	huddersfield
+LOC	moldova
+PER	francisco cea
+ORG	strasbourg
+LOC	rio de janeiro
+PER	donovan bailey
+ORG	lyon
+LOC	u.s
+PER	necmettin erbakan
+ORG	twente enschede
+LOC	bahamas
+PER	juha kankkunen
+ORG	feyenoord rotterdam
+LOC	novye atagi
+PER	jeff wilson
+ORG	tvm
+LOC	peru
+PER	zinzan brooke
+ORG	hamas
+LOC	surabaya
+PER	ata-ur-rehman
+ORG	parma
+LOC	pretoria
+PER	miltiadis evert
+ORG	acc
+LOC	mozambique
+PER	pol pot
+ORG	nd
+LOC	jyvaskyla
+PER	alain juppe
+ORG	iss inc
+LOC	corsica
+PER	paul goydos
+ORG	california angels
+LOC	togo
+PER	steve stricker
+ORG	itar-tass
+LOC	guerrero
+PER	duffy waldorf
+ORG	u.s. municipal desk
+LOC	salang
+PER	pivotal
+ORG	organisation for security and cooperation in europe
+LOC	caracas
+PER	mind games
+ORG	sauber
+LOC	heathrow
+PER	sandrine testud
+ORG	ligier
+LOC	damascus
+PER	nathalie tauziat
+ORG	queens park rangers
+LOC	libya
+PER	michael joyce
+ORG	benfica
+LOC	uae
+PER	richey reneberg
+ORG	olympiakos
+LOC	kandahar
+PER	m. walker
+ORG	unita
+LOC	oslo
+PER	d. fulton
+ORG	ioc
+LOC	carlsbad
+PER	m. vaughan
+ORG	lme
+LOC	cape town
+PER	n. knight
+ORG	promodes
+LOC	lithuania
+PER	c. lewis
+ORG	ferrari
+LOC	vaduz
+PER	r. croft
+ORG	warrington
+LOC	caribbean
+PER	a. mullally
+ORG	norwich
+LOC	tibet
+PER	daniel nestor
+ORG	west bromwich
+LOC	vatican
+PER	goran ivanisevic
+ORG	ipswich
+LOC	namibia
+PER	kenneth carlsen
+ORG	reading
+LOC	manila
+PER	marc rosset
+ORG	southend
+LOC	orvieto
+PER	alberto berasategui
+ORG	sheffield united
+LOC	congo
+PER	adrian voinea
+ORG	stoke
+LOC	bogra
+PER	richard krajicek
+ORG	manchester city
+LOC	seychelles
+PER	andre agassi
+ORG	swindon
+LOC	mauritius
+PER	karim alami
+ORG	port vale
+LOC	gabon
+PER	javier sanchez
+ORG	wolverhampton
+LOC	haarlem
+PER	magnus gustafsson
+ORG	all blacks
+LOC	neths
+PER	mark roe
+ORG	partizan
+LOC	gatwick
+PER	david carter
+ORG	le havre
+LOC	almere
+PER	jonathan lomas
+ORG	caen
+LOC	leduc reef
+PER	crohn
+ORG	cannes
+LOC	tripoli
+PER	steffi graf
+ORG	rkc waalwijk
+LOC	commack
+PER	anne miller
+ORG	roda jc kerkrade
+LOC	worcester
+PER	martina hingis
+ORG	vfb stuttgart
+LOC	northern ireland
+PER	david coulthard
+ORG	eta
+LOC	skopje
+PER	heinz-harald frentzen
+ORG	internet startup
+LOC	kuala lumpur
+PER	martin brundle
+ORG	st. louis cardinals
+LOC	minneapolis
+PER	rubens barrichello
+ORG	epr
+LOC	senegal
+PER	johnny herbert
+ORG	sudan airways
+LOC	monrovia
+PER	olivier panis
+ORG	supreme court
+LOC	abuja
+PER	r. blakey
+ORG	mapei
+LOC	addis ababa
+PER	brady anderson
+ORG	collstrop
+LOC	soviet union
+PER	adrian warner
+ORG	punr
+LOC	spa-francorchamps
+PER	svetlana masterkova
+ORG	banespa
+LOC	lagos
+PER	maria mutola
+ORG	cdu / csu spd fdp greens pds
+LOC	karak
+PER	stephen ames
+ORG	emnid
+LOC	british columbia
+PER	roger chapman
+ORG	elect res
+LOC	h.k.
+PER	carl lewis
+ORG	icac
+LOC	malawi
+PER	frankie fredericks
+ORG	sbc warburg
+LOC	managua
+PER	glyn davies
+ORG	le monde
+LOC	lahore
+PER	marcus gronholm
+ORG	chemlon humenne
+LOC	muzaffarabad
+PER	darren gough
+ORG	ruch chorzow
+LOC	benin
+PER	d. gough
+ORG	hearts
+LOC	united kingdom
+PER	jon preston
+ORG	ferencvaros
+LOC	riyadh
+PER	john veldman
+ORG	seattle mariners
+LOC	prairies
+PER	marc dutroux
+ORG	cincinnati reds
+LOC	usa
+PER	jarmo kytolehto
+ORG	oakland athletics
+LOC	tallinn
+PER	kenneth eriksson
+ORG	grasshoppers
+LOC	s. korea
+PER	alec stewart
+ORG	oj
+LOC	montpelier
+PER	robert croft
+ORG	anyang
+LOC	arab east jerusalem
+PER	colin montgomerie
+ORG	puchon
+LOC	abidjan
+PER	robert allenby
+ORG	suwon
+LOC	nagyatad
+PER	abdul-karim al-kabariti
+ORG	chonan
+LOC	cambodia
+PER	larry fine
+ORG	nbh
+LOC	mahala
+PER	magdalena maleeva
+ORG	moody 's investors service
+LOC	zvornik
+PER	aleksandra olsza
+ORG	ballybunion
+LOC	kosovo
+PER	p. strang
+ORG	missionaries of charity
+LOC	san marino
+PER	ryutaro hashimoto
+ORG	moscow newsroom
+LOC	tunis
+PER	sarah brady
+ORG	middlesbrough
+LOC	abu dhabi
+PER	ronald reagan
+ORG	legia warsaw
+LOC	heidrun
+PER	judith wiesner
+ORG	merrill lynch
+LOC	firestone c.c
+PER	federico colonna
+ORG	tyrrell
+LOC	weston-super-mare
+PER	jans koerts
+ORG	arsenal
+LOC	armenia
+PER	sven teutenberg
+ORG	bolton
+LOC	macedonia
+PER	johan capiot
+ORG	bristol city
+LOC	dakar
+PER	lennart meri
+ORG	blackpool
+LOC	conakry
+PER	arnold ruutel
+ORG	swansea
+LOC	atlantic ocean
+PER	jesse owens
+ORG	javasoft
+LOC	ljubljana
+PER	ieng sary
+ORG	atlanta braves
+LOC	surinam
+PER	dick morris
+ORG	chicago cubs
+LOC	new york city
+PER	david levy
+ORG	florida marlins
+LOC	gaza strip
+PER	burhanuddin rabbani
+ORG	san francisco giants
+LOC	zambia
+PER	hariri
+ORG	middlesex
+LOC	indian ocean
+PER	hidemichi tanaka
+ORG	atletico madrid
+LOC	mideast gulf
+PER	justin leonard
+ORG	tass
+LOC	red sea
+PER	tim herron
+ORG	ltte
+LOC	black sea
+PER	davis love
+ORG	tankan
+LOC	zadar
+PER	anders forsbrand
+ORG	palmans
+LOC	balkans
+PER	nick faldo
+ORG	interpol
+LOC	hk
+PER	john cook
+ORG	bamerindus
+LOC	whittier
+PER	steve jones
+ORG	amtrak
+LOC	little rock
+PER	ernie els
+ORG	telekom
+LOC	yingkou
+PER	scott hoch
+ORG	psg
+LOC	harare
+PER	clarence rose
+ORG	gpg
+LOC	kigali
+PER	loren roberts
+ORG	pulpex
+LOC	gisenyi
+PER	fred funk
+ORG	xinhua
+LOC	tunisia
+PER	sven struver
+ORG	cme
+LOC	west virginia
+PER	alexander cejka
+ORG	ncb
+LOC	indiana
+PER	hal sutton
+ORG	agriculture ministry
+LOC	punjab
+PER	tom lehman
+ORG	celtic
+LOC	burma
+PER	d.a. weibring
+ORG	bahia
+LOC	west indies
+PER	brad bryant
+ORG	juventude
+LOC	botswana
+PER	craig parry
+ORG	baltimore orioles
+LOC	central african republic
+PER	stewart ginn
+ORG	new york yankees
+LOC	stadium court
+PER	corey pavin
+ORG	texas rangers
+LOC	maputo
+PER	craig stadler
+ORG	cleveland indians
+LOC	east coast
+PER	paul stankowski
+ORG	chicago white sox
+LOC	u.s. midwest
+PER	jim furyk
+ORG	toronto blue jays
+LOC	iowa
+PER	satoshi higashi
+ORG	milwaukee brewers
+LOC	alberta
+PER	willie wood
+ORG	official journal
+LOC	charleston
+PER	scott mccarron
+ORG	ec
+LOC	newbury
+PER	wayne westner
+ORG	chonnam
+LOC	the netherlands
+PER	steve schneiter
+ORG	pohang
+LOC	dalian
+PER	tom watson
+ORG	pusan
+LOC	montana
+PER	seiki okuda
+ORG	chonbuk
+LOC	new jersey
+PER	naoko kijimuta
+ORG	egyptair
+LOC	tonga
+PER	yone kamio
+ORG	rba
+LOC	long island
+PER	ai sugiyama
+ORG	detroit tigers
+LOC	salvador
+PER	hicham arazi
+ORG	ekeren
+LOC	ivory coast
+PER	d. cox
+ORG	molenbeek
+LOC	topolcany
+PER	s. campbell
+ORG	kurdistan workers party
+LOC	rameswaram
+PER	g. rose
+ORG	liberation tigers of tamil eelam
+LOC	alexandroupolis
+PER	m. lathwell
+ORG	solidere
+LOC	hebron
+PER	p. simmons
+ORG	americast
+LOC	bunol
+PER	p. nixon
+ORG	dutch ptt
+LOC	phnom penh
+PER	g. archer
+ORG	arrows
+LOC	skhirat
+PER	m. dowman
+ORG	workington
+LOC	atlantic city
+PER	w. khan
+ORG	halifax
+LOC	lattakia
+PER	n. hussain
+ORG	castleford
+LOC	manama
+PER	i. salisbury
+ORG	sheffield wednesday
+LOC	sharjah
+PER	d. cork
+ORG	sunderland
+LOC	ala
+PER	jiri novak
+ORG	coventry
+LOC	liechtenstein
+PER	alex corretja
+ORG	aston villa
+LOC	faroe islands
+PER	renzo furlan
+ORG	brentford
+LOC	uruguay
+PER	francisco clavet
+ORG	luton
+LOC	iceland
+PER	byron black
+ORG	burnley
+LOC	montserrat
+PER	andrea gaudenzi
+ORG	walsall
+LOC	gdansk
+PER	chris woodruff
+ORG	bury
+LOC	sierakowice
+PER	mark woodforde
+ORG	peterborough
+LOC	srebrenica
+PER	david rikl
+ORG	crewe
+LOC	alkhan-yurt
+PER	thomas johansson
+ORG	rotherham
+LOC	paramaribo
+PER	jean-philippe fleurian
+ORG	shrewsbury
+LOC	las cruces
+PER	jonathan stark
+ORG	stockport
+LOC	new mexico
+PER	felix mantilla
+ORG	notts county
+LOC	dresden
+PER	carlos moya
+ORG	watford
+LOC	nuremberg
+PER	jan siemerink
+ORG	millwall
+LOC	srinagar
+PER	nicolas lapentti
+ORG	wrexham
+LOC	jammu
+PER	guillaume raoux
+ORG	wycombe
+LOC	nirmal hriday
+PER	mark knowles
+ORG	gillingham
+LOC	klongprem
+PER	kris goossens
+ORG	bournemouth
+LOC	new haven
+PER	javier frana
+ORG	barnet
+LOC	trinidad and tobago
+PER	jim courier
+ORG	brighton
+LOC	kazakhstan
+PER	jim grabb
+ORG	carlisle
+LOC	luanda
+PER	arnaud boetsch
+ORG	hull
+LOC	med
+PER	jeff tarango
+ORG	chester
+LOC	caribs
+PER	alex radulescu
+ORG	darlington
+LOC	liechenstein
+PER	jared palmer
+ORG	exeter
+LOC	krajina
+PER	davey johnson
+ORG	scarborough
+LOC	commonwealth of independent states
+PER	cal ripken
+ORG	hartlepool
+LOC	sirnak
+PER	bobby bonilla
+ORG	fulham
+LOC	hakkari
+PER	philip cocu
+ORG	hereford
+LOC	diyarbakir
+PER	wayne riley
+ORG	doncaster
+LOC	dohuk
+PER	eamonn darcy
+ORG	leyton orient
+LOC	guantanamo bay
+PER	retief goosen
+ORG	mansfield
+LOC	ark
+PER	carl suneson
+ORG	rochdale
+LOC	mount zion missionary baptist church
+PER	stephen field
+ORG	scunthorpe
+LOC	north korea
+PER	ian pyman
+ORG	torquay
+LOC	pemberton
+PER	lee westwood
+ORG	amica wronki
+LOC	s. africa
+PER	thomas bjorn
+ORG	hutnik krakow
+LOC	kassala
+PER	fernando roca
+ORG	sokol tychy
+LOC	taipei university hospital
+PER	padraig harrington
+ORG	lech poznan
+LOC	shiraz
+PER	thomas gogele
+ORG	slask wroclaw
+LOC	nicosia
+PER	michael jonzon
+ORG	odra wodzislaw
+LOC	kentucky
+PER	david williams
+ORG	gks katowice
+LOC	etruria
+PER	robert karlsson
+ORG	gks belchatow
+LOC	malta freeport
+PER	bill berkrot
+ORG	vfl bochum
+LOC	jyvasklya
+PER	yayuk basuki
+ORG	msv duisburg
+LOC	sugo
+PER	natasha zvereva
+ORG	irna
+LOC	lome
+PER	ruxandra dragomir
+ORG	jiul petrosani
+LOC	matuzici
+PER	gabriela sabatini
+ORG	adelaide
+LOC	shatoi
+PER	asa carlsson
+ORG	collingwood
+LOC	antioquia
+PER	katarina studenikova
+ORG	west coast
+LOC	anza
+PER	g. gooch
+ORG	fitzroy
+LOC	medellin
+PER	d. robinson
+ORG	carlton
+LOC	mae sot
+PER	c. hooper
+ORG	footscray
+LOC	rangoon
+PER	k. curran
+ORG	essendon
+LOC	ben gurion
+PER	shaun pollock
+ORG	st kilda
+LOC	dahshour
+PER	jay buhner
+ORG	hawthorn
+LOC	bahrain
+PER	salah hissou
+ORG	fremantle
+LOC	pakistani kashmir
+PER	barry lane
+ORG	north melbourne
+LOC	azad ( free ) kashmir
+PER	ato boldon
+ORG	geelong
+LOC	garhi habibullah
+PER	michelle freeman
+ORG	sydney bulldogs
+LOC	cameroon
+PER	michael johnson
+ORG	south queensland
+LOC	tanzania
+PER	arjuna ranatunga
+ORG	gold coast
+LOC	mauritania
+PER	helmut kohl
+ORG	north sydney
+LOC	honduras
+PER	jalal talabani
+ORG	south sydney
+LOC	rabat
+PER	birendra
+ORG	illawarra
+LOC	flushing meadows
+PER	carlos sainz
+ORG	penrith
+LOC	madagascar
+PER	eddie irvine
+ORG	st george
+LOC	guernsey
+PER	mika salo
+ORG	north queensland
+LOC	russian federation
+PER	pedro diniz
+ORG	manly
+LOC	kragujevac
+PER	jos verstappen
+ORG	western suburbs
+LOC	col
+PER	phil mickelson
+ORG	parramatta
+LOC	u.k.
+PER	r. irani
+ORG	sydney tigers
+LOC	dhahran
+PER	vladimir smicer
+ORG	western reds
+LOC	fort lauderdale
+PER	hintsa
+ORG	san diego padres
+LOC	dallas
+PER	boutros boutros-ghali
+ORG	colorado rockies
+LOC	winnipeg
+PER	julie lejeune
+ORG	pittsburgh pirates
+LOC	fairmont
+PER	melissa russo
+ORG	los angeles dodgers
+LOC	m3
+PER	an marchal
+ORG	philadelphia phillies
+LOC	twyford down
+PER	eefje lambrecks
+ORG	montreal expos
+LOC	mapourdit
+PER	shayne king
+ORG	houston astros
+LOC	matagalpa
+PER	noriyuki haga
+ORG	dkba
+LOC	north dakota
+PER	takuma aoki
+ORG	yedioth ahronoth
+LOC	wisc .
+PER	graham thorpe
+ORG	bnp
+LOC	vt
+PER	nick knight
+ORG	u.s. treasury
+LOC	roxbury
+PER	graham lloyd
+ORG	formula shell
+LOC	northfield mountains
+PER	ronnie irani
+ORG	house of representatives
+LOC	west bengal
+PER	dean headley
+ORG	repsol
+LOC	indore
+PER	alan mullally
+ORG	arc
+LOC	pierina
+PER	peter mitchell
+ORG	reform party
+LOC	benelux
+PER	sachin tendulkar
+ORG	o globo
+LOC	perth
+PER	abdul rashid dostum
+ORG	allensbach
+LOC	osaka
+PER	brenda schultz-mccarthy
+ORG	u.s. postal
+LOC	old city
+PER	helena sukova
+ORG	roma
+LOC	chester-le-street
+PER	barbara paulus
+ORG	escravos
+LOC	newark
+PER	tommy haas
+ORG	la voie
+LOC	hollywood
+PER	laurence courtois
+ORG	twa
+LOC	christchurch
+PER	jean-paul van gastel
+ORG	ina
+LOC	sierra leone
+PER	frank de boer
+ORG	mqm
+LOC	freetown
+PER	richard witschge
+ORG	wsrl
+LOC	foindu
+PER	s. waugh
+ORG	khmer rouge
+LOC	republika srbska
+PER	hillary rodham clinton
+ORG	volkswagen ag
+LOC	salamanca
+PER	sadiki
+ORG	likud
+LOC	shabwa
+PER	iva majoli
+ORG	mujahideen khalq
+LOC	tamil nadu
+PER	kimberly po
+ORG	paris newsroom
+LOC	colo .
+PER	gianluca corini
+ORG	boland
+LOC	glenwood
+PER	george hincapie
+ORG	atletico paranaense
+LOC	basque country
+PER	vyacheslav tikhomirov
+ORG	corinthians
+LOC	copenhagen
+PER	tansu ciller
+ORG	guarani
+LOC	kinshasa
+PER	gavin levenson
+ORG	coritiba
+LOC	u.s. gulf
+PER	jose coceres
+ORG	atletico mineiro
+LOC	pembroke pines
+PER	david gilford
+ORG	cruzeiro
+LOC	cherbourg
+PER	mike clayton
+ORG	vitoria
+LOC	vavuniya
+PER	peter hedblom
+ORG	flamengo
+LOC	amsterdam-rotterdam-antwerp
+PER	shane kelly
+ORG	goias
+LOC	limerick
+PER	max van heeswijk
+ORG	sport recife
+LOC	spitzbergen
+PER	francis moreau
+ORG	gremio
+LOC	south island
+PER	alexei markov
+ORG	bragantino
+LOC	taiwan strait
+PER	will carling
+ORG	palmeiras
+LOC	ca
+PER	mark hutton
+ORG	vasco da gama
+LOC	jp
+PER	sanath jayasuriya
+ORG	portuguesa
+LOC	fr
+PER	magali faure
+ORG	parana
+LOC	tartous
+PER	felicia ballanger
+ORG	new york mets
+LOC	golan heights israel
+PER	tanya dubnicoff
+ORG	galatasaray
+LOC	iranian kurdistan
+PER	annett neumann
+ORG	cagliari
+LOC	qasri
+PER	saqlain mushtaq
+ORG	servette
+LOC	suleimaniya
+PER	spot thomson
+ORG	uefa
+LOC	allenby bridge
+PER	werner zwingmann
+ORG	sofia newsroom
+LOC	erez
+PER	franz fischler
+ORG	cbi
+LOC	united arab emirates
+PER	tang shubei
+ORG	ecomog
+LOC	tatarstan
+PER	costas skandalidis
+ORG	air cargo newsroom
+LOC	umm qasr
+PER	itamar rabinovich
+ORG	aegon
+LOC	mount lebanon
+PER	vladimir zhirinovsky
+ORG	east stirling
+LOC	montgomery
+PER	berri
+ORG	albion
+LOC	phoenix
+PER	sfeir
+ORG	world xi
+LOC	longchamp
+PER	mark brooks
+ORG	national assembly
+LOC	newmarket
+PER	fred couples
+ORG	reuters toronto bureau
+LOC	torshavn
+PER	ilie lazar
+ORG	cnr
+LOC	edinburgh
+PER	eugen voica
+ORG	hina
+LOC	rishon-lezion
+PER	gilbert agius
+ORG	new york stock exchange
+LOC	split
+PER	mark prescott
+ORG	frankfurt newsroom
+LOC	columbia presbyterian hospital
+PER	george duffield
+ORG	companion marble
+LOC	jacobs field
+PER	eveningperformance
+ORG	minardi
+LOC	baku
+PER	henry candy
+ORG	derbyshire
+LOC	rousse
+PER	chris rutter
+ORG	motherwell
+LOC	veliko tarnovo
+PER	hever golf rose
+ORG	derby
+LOC	minnetonka
+PER	jason weaver
+ORG	west ham
+LOC	minn
+PER	younes el aynaoui
+ORG	bristol rovers
+LOC	royal free hospital school of medicine
+PER	a. symonds
+ORG	springboks
+LOC	uppsala
+PER	a. cowan
+ORG	rakow czestochowa
+LOC	indianapolis
+PER	n. lenham
+ORG	stomil olsztyn
+LOC	kaolack
+PER	v. drakes
+ORG	wisla krakow
+LOC	tubmanburg
+PER	a. wells
+ORG	gornik zabrze
+LOC	badi-tondon
+PER	duncan ferguson
+ORG	polonia warsaw
+LOC	robben island
+PER	ally mccoist
+ORG	zaglebie lubin
+LOC	sandusky
+PER	alex ferguson
+ORG	lks lodz
+LOC	vanderbijlpark
+PER	david millns
+ORG	philippine basketball association
+LOC	minutka square
+PER	klimis alexandrou
+ORG	standard liege
+LOC	trepca
+PER	luo yigang
+ORG	anderlecht
+LOC	aleksandrovac
+PER	jason wong
+ORG	lokeren
+LOC	maribor
+PER	p. kantharoopan
+ORG	cercle brugge
+LOC	gorgona
+PER	hu zhilan
+ORG	mouscron
+LOC	narino
+PER	hermawan susanto
+ORG	lommel
+LOC	buenaventura
+PER	wang chen
+ORG	ghent
+LOC	alomella robles
+PER	zhang ning
+ORG	aalst
+LOC	moengo
+PER	alexander volkov
+ORG	lierse
+LOC	french guiana
+PER	andrei olhovskiy
+ORG	sint truiden
+LOC	pattaya
+PER	roberto carretero
+ORG	fc linz
+LOC	nablus
+PER	jordi burillo
+ORG	gak
+LOC	al-risala
+PER	jonas bjorkman
+ORG	austria vienna
+LOC	las vegas
+PER	sjeng schalken
+ORG	admira / wacker
+LOC	mich
+PER	gilbert schaller
+ORG	sturm graz
+LOC	missouri
+PER	grant stafford
+ORG	linzer ask
+LOC	pontiac osteopathic hospital
+PER	guy forget
+ORG	fc tirol innsbruck
+LOC	lees summit
+PER	fernando meligeni
+ORG	sv salzburg
+LOC	fairview town
+PER	yevgeny kafelnikov
+ORG	sv ried
+LOC	tx
+PER	scott draper
+ORG	fbi
+LOC	nebraska
+PER	galo blanco
+ORG	ansa
+LOC	oran
+PER	jan kroslak
+ORG	el mundo
+LOC	tegel
+PER	alberto costa
+ORG	husqvarna
+LOC	tempelhof
+PER	shuzo matsuoka
+ORG	ktm
+LOC	schoenefeld
+PER	doug flach
+ORG	widzew lodz
+LOC	duessseldorf
+PER	mats wilander
+ORG	dinamo bucharest
+LOC	hannover
+PER	paul haarhuis
+ORG	minnesota twins
+LOC	koeln
+PER	michael tebbutt
+ORG	setubal
+LOC	leipzig
+PER	bernd karbacher
+ORG	braga
+LOC	halle
+PER	marcos ondruska
+ORG	st gallen
+LOC	muenster
+PER	scott humphries
+ORG	la jornada
+LOC	osnabrueck
+PER	carl-uwe steeb
+ORG	implats
+LOC	saarbruecken
+PER	david wheaton
+ORG	internacional
+LOC	loretto abbey
+PER	stephane simian
+ORG	botafogo
+LOC	tender heart
+PER	filip dewulf
+ORG	atp
+LOC	tajikistan
+PER	marcelo filippini
+ORG	provisional election commission
+LOC	ukraina palace
+PER	chuck adams
+ORG	interacciones
+LOC	durban
+PER	sandon stolle
+ORG	republican party
+LOC	hengelo
+PER	stefano pescosolido
+ORG	stork
+LOC	bermuda
+PER	nicolas pereira
+ORG	bank of france
+LOC	calgary
+PER	carlos costa
+ORG	tamil tiger
+LOC	omaha
+PER	hernan gumy
+ORG	american stock exchange
+LOC	w.c. india
+PER	nicklas kulti
+ORG	catholic information office
+LOC	e.c.india
+PER	jakob hlasek
+ORG	national election commission
+LOC	asia pacific
+PER	cecil mamiit
+ORG	eletropaulo
+LOC	okinawa
+PER	david prinosil
+ORG	fis
+LOC	inchon
+PER	tomas carbonell
+ORG	vnu
+LOC	constanza
+PER	andy etchebarren
+ORG	mentmore abbey
+LOC	inia
+PER	john mcnamara
+ORG	udinese
+LOC	western hemisphere
+PER	rusty greer
+ORG	pescara
+LOC	st croix
+PER	randy johnson
+ORG	lecce
+LOC	usac
+PER	alex rodriguez
+ORG	dream team
+LOC	yosu
+PER	jimmy key
+ORG	comex
+LOC	netanya
+PER	mo vaughn
+ORG	cbsa
+LOC	republic of ireland
+PER	juan guzman
+ORG	enap
+LOC	turin
+PER	john jaha
+ORG	gazeta wyborcza
+LOC	wembley
+PER	arthur numan
+ORG	ues
+LOC	heysel
+PER	luc nilis
+ORG	vw
+LOC	sokoto
+PER	adrian knup
+ORG	bank of japan
+LOC	karin gornji
+PER	artur jorge
+ORG	equitas
+LOC	croatia-yugoslavia
+PER	bernhard langer
+ORG	eec
+LOC	quito
+PER	ronan rafferty
+ORG	ffk
+LOC	belem
+PER	russell claydon
+ORG	daewoo corp
+LOC	omari
+PER	des smyth
+ORG	selection committee
+LOC	camelot
+PER	jeff hawksworth
+ORG	bbc radio
+LOC	mass
+PER	paul mcginley
+ORG	people 's daily
+LOC	lhasa
+PER	gary orr
+ORG	seat
+LOC	chongqing
+PER	andrew coltart
+ORG	porsche
+LOC	glenview
+PER	terry price
+ORG	bayerische vereinsbank
+LOC	woodridge
+PER	ricky ponting
+ORG	israel radio
+LOC	ill
+PER	lansana conte
+ORG	kdpi
+LOC	chihuahua
+PER	nelson mandela
+ORG	liberal democratic party
+LOC	empire state
+PER	mirhunisa komarica
+ORG	an-nahar
+LOC	guantanamo naval base
+PER	hosni mubarak
+ORG	as-safir
+LOC	havana
+PER	yasushi akashi
+ORG	al-anwar
+LOC	florida straits
+PER	yevgeny primakov
+ORG	ad-diyar
+LOC	wis
+PER	siraj mia
+ORG	nida'a al-watan
+LOC	anchorage
+PER	rupert murdoch
+ORG	statoil
+LOC	prince rupert
+PER	megawati sukarnoputri
+ORG	bank of finland
+LOC	prince william sound
+PER	john crawley
+ORG	helsinki newsroom
+LOC	mississippi
+PER	r. harden
+ORG	zdf
+LOC	st. matthews missionary baptist church
+PER	t. munton
+ORG	aek larnaca
+LOC	st. matthew 's
+PER	r. illingworth
+ORG	nyva vinnytsya
+LOC	camden
+PER	s. lampitt
+ORG	shelbourne
+LOC	san mateo
+PER	ong ewe hock
+ORG	olimpija
+LOC	papendrecht
+PER	chanda rubin
+ORG	raf riga
+LOC	sliema
+PER	mike devereaux
+ORG	varteks varazdin
+LOC	monterey
+PER	troy o'leary
+ORG	mypa-47
+LOC	papua new guinea
+PER	mark acre
+ORG	kispest honved
+LOC	lisheen
+PER	thon
+ORG	ifk gothenburg
+LOC	county tipperary
+PER	diego borrego
+ORG	hcfa
+LOC	county antrim
+PER	dennis mitchell
+ORG	mit
+LOC	jiangxi
+PER	allen johnson
+ORG	prague newsroom
+LOC	swerford
+PER	colin jackson
+ORG	shining path
+LOC	utah
+PER	ludmila engquist
+ORG	palestinian information ministry
+LOC	maine
+PER	brigita bukovec
+ORG	u.n. security council
+LOC	ubimini
+PER	aliuska lopez
+ORG	nsdap-ao
+LOC	blantyre
+PER	derrick adkins
+ORG	united nations general assembly
+LOC	victoria falls
+PER	gail devers
+ORG	rbi
+LOC	goma
+PER	merlene ottey
+ORG	reserve bank of india
+LOC	highland
+PER	gwen torrence
+ORG	harper-collins
+LOC	banat
+PER	dionne rose
+ORG	bnz
+LOC	asmara
+PER	emilio valle
+ORG	ka wah bank
+LOC	kanie karzhala
+PER	steve brown
+ORG	hong kong newsroom
+LOC	arbil
+PER	davidson ezinwa
+ORG	indonesian democratic party
+LOC	islamic republic of iran
+PER	jon drummond
+ORG	international monetary fund
+LOC	aqaba
+PER	mary onyali
+ORG	gazeta shqiptare
+LOC	lesser antilles
+PER	irina privalova
+ORG	daily variety
+LOC	sardinia
+PER	natalia voronova
+ORG	jornal de angola
+LOC	padania
+PER	juliet cuthbert
+ORG	un security council
+LOC	umbria
+PER	richard kosgei
+ORG	primedia
+LOC	adige
+PER	derek mills
+ORG	distillers
+LOC	ransart
+PER	davis kamoga
+ORG	iscor
+LOC	mont-sur-marchienne
+PER	mark richardson
+ORG	imphold
+LOC	bou haroun
+PER	jeff williams
+ORG	m&r
+LOC	steinberg
+PER	chandra sturrup
+ORG	jd group
+LOC	ravi
+PER	cathy freeman
+ORG	unitog co
+LOC	chenab
+PER	falilat ogunkoya
+ORG	american airlines
+LOC	mountain view
+PER	william tanui
+ORG	tbn
+LOC	menlo park
+PER	john mayock
+ORG	hapoel taibe
+LOC	calif
+PER	domingos oliveira
+ORG	betar jerusalem
+LOC	silicon valley
+PER	jens todt
+ORG	dublin newsroom
+LOC	landskrona
+PER	matthias sammer
+ORG	rapid vienna
+LOC	holzgerlingen
+PER	steffen freund
+ORG	news agency of nigeria
+LOC	suzuka
+PER	rene schneider
+ORG	russian weather service
+LOC	netherland
+PER	andreas koepke
+ORG	tanjug
+LOC	spa-francochamps
+PER	thomas helmer
+ORG	jordanian arab socialist baath party
+LOC	oerlikon
+PER	oliver bierhoff
+ORG	anatolian
+LOC	mohali
+PER	juergen klinsmann
+ORG	reuter london newsroom
+LOC	chandigarh
+PER	ian healy
+ORG	bsm
+LOC	loftus versfeld
+PER	dos santos
+ORG	microsoft corp.
+LOC	inter-entity boundary line
+PER	lloyd axworthy
+ORG	amsterdam newsroom
+LOC	chiapas
+PER	karem haj yihye
+ORG	toyota australia
+LOC	tauranaga
+PER	sameh haj yihye
+ORG	niugini mining ltd
+LOC	metropolitan museum
+PER	donald tsang
+ORG	orii corp
+LOC	middle kingdom
+PER	jim bolger
+ORG	state planning commission
+LOC	mecca
+PER	bill birch
+ORG	bme
+LOC	caesarea
+PER	adel ibrahim
+ORG	subaru
+LOC	neufchateau
+PER	massoud barzani
+ORG	hibernian
+LOC	bregancon
+PER	robert pelletreau
+ORG	dunfermline
+LOC	kunar
+PER	william weld
+ORG	kilmarnock
+LOC	kabul-salang
+PER	jiang zemin
+ORG	dundee united
+LOC	central asia
+PER	martin wolk
+ORG	airdrieonians
+LOC	batkivshchyna collective farm
+PER	george grech
+ORG	east fife
+LOC	western ukraine
+PER	beaver
+ORG	clydebank
+LOC	mpumulanga
+PER	sake
+ORG	partick
+LOC	creedmoor
+PER	ukyo katayama
+ORG	st mirren
+LOC	n.c.
+PER	ricardo rosset
+ORG	st johnstone
+LOC	tijuana
+PER	pedro lamy
+ORG	berwick
+LOC	knowsley road
+PER	graham gooch
+ORG	stenhousemuir
+LOC	lord 's
+PER	p. prichard
+ORG	brechin
+LOC	windhoek
+PER	m. alleyne
+ORG	ayr
+LOC	nouakchott
+PER	b. julian
+ORG	clyde
+LOC	hospital no 31
+PER	a. brown
+ORG	dumbarton
+LOC	curitiba
+PER	k. spiring
+ORG	stranraer
+LOC	tegucigalpa
+PER	m. watkinson
+ORG	livingston
+LOC	tuscany
+PER	n. speak
+ORG	alloa
+LOC	manhattan beach
+PER	les ferdinand
+ORG	arbroath
+LOC	paraguay
+PER	ruben kruger
+ORG	cowdenbeath
+LOC	flora
+PER	joost van der westhuizen
+ORG	forfar
+LOC	nhamavila
+PER	simon culhane
+ORG	ross county
+LOC	kirkland
+PER	edwin van der sar
+ORG	cukaricki
+LOC	wash
+PER	xavier gravelaine
+ORG	hajduk
+LOC	channel islands
+PER	christopher wreh
+ORG	becej
+LOC	bosia-hercegovina
+PER	keller
+ORG	borac
+LOC	former yugoslavia
+PER	heinrich
+ORG	mladost ( l )
+LOC	north caucasus
+PER	s. tendulkar
+ORG	zemun
+LOC	montenegro
+PER	prince charles
+ORG	rad
+LOC	far east
+PER	violeta chamorro
+ORG	vojvodina
+LOC	central clinical hospital
+PER	mike mccurry
+ORG	proleter
+LOC	altamira
+PER	michel bourlet
+ORG	sutjeska
+LOC	aguas zarcas de san carlos
+PER	belmondo
+ORG	sloboda
+LOC	costa rica-nicaragua
+PER	silke renk
+ORG	loznica
+LOC	santa maria de pocosol
+PER	inez turner
+ORG	obilic
+LOC	johns hopkins hospital
+PER	tom pukstys
+ORG	ofk kikinda
+LOC	lake maracaibo
+PER	vincent malakwen
+ORG	buducnost ( v )
+LOC	bell st station
+PER	osmond ezinwa
+ORG	ofk beograd
+LOC	north shore
+PER	thomas radstrom
+ORG	mladost ( bj )
+LOC	oman
+PER	wataru yoshikawa
+ORG	rudar
+LOC	jeddah
+PER	troy corser
+ORG	alaska milk
+LOC	rawandouz
+PER	john kocinski
+ORG	ginebra san miguel
+LOC	dayana
+PER	aaron slight
+ORG	paris saint-germain
+LOC	al-muntar
+PER	colin edwards
+ORG	rapid wien
+LOC	dead sea
+PER	pier francesco chili
+ORG	nijmeh
+LOC	haiti
+PER	simon crafar
+ORG	nasr
+LOC	culpepper
+PER	anthony gobert
+ORG	psa
+LOC	south dakota
+PER	neil hodgson
+ORG	red cross
+LOC	puertollano
+PER	darren anderton
+ORG	china daily
+LOC	amsterdam-rotterdam
+PER	chris lewis
+ORG	resalat
+LOC	sprague
+PER	matthew maynard
+ORG	basque homeland and freedom
+LOC	manitoba
+PER	marcin mieciel
+ORG	verisign
+LOC	north battleford
+PER	rafael palmeiro
+ORG	suzuki
+LOC	sask
+PER	bob wickman
+ORG	a.s. bacau
+LOC	grande prairie
+PER	paul o'neill
+ORG	ceahlaul piatra neamt
+LOC	alta
+PER	fred mcgriff
+ORG	otelul galati
+LOC	peace river valley
+PER	vinny castilla
+ORG	f.c. arges dacia pitesti
+LOC	w. va
+PER	mike piazza
+ORG	f.c. farul constanta
+LOC	clarksburg
+PER	gabriel batistuta
+ORG	sportul studentesc
+LOC	state of ohio
+PER	dejan savicevic
+ORG	universitatea craiova
+LOC	chillicothe
+PER	oscar tabarez
+ORG	f.c. petrolul ploiesti
+LOC	huntington
+PER	edgar davids
+ORG	politehnica timisoara
+LOC	beja
+PER	andrea ferrigato
+ORG	f.c. brasov
+LOC	in-nazzjon
+PER	michele bartoli
+ORG	f.c. national bucharest
+LOC	l-orizzont
+PER	johan museeuw
+ORG	universitatea cluj
+LOC	kirkcaldy
+PER	max sciandri
+ORG	rapid bucharest
+LOC	kimberley
+PER	greg turner
+ORG	steaua bucharest
+LOC	petrosan
+PER	gaston taument
+ORG	alaniya vladikavkaz
+LOC	gouda
+PER	van arum
+ORG	zhemchuzhina sochi
+LOC	elizabeth
+PER	danny blind
+ORG	baltika kaliningrad
+LOC	elland road
+PER	sean fitzpatrick
+ORG	zenit st petersburg
+LOC	rumbek
+PER	justin marshall
+ORG	chernomorets novorossiisk
+LOC	arabised north
+PER	frank bunce
+ORG	rostselmash rostov
+LOC	wiltshire
+PER	desmond tutu
+ORG	lokomotiv moscow
+LOC	durres
+PER	f.w. de klerk
+ORG	torpedo moscow
+LOC	perm
+PER	p.w. botha
+ORG	rotor volgograd
+LOC	liaoning
+PER	ezer weizman
+ORG	dynamo moscow
+LOC	tianjin
+PER	gulbuddin hekmatyar
+ORG	cska moscow
+LOC	new territories
+PER	begum khaleda zia
+ORG	kamaz naberezhnye chelny
+LOC	jiangsu
+PER	imran khan
+ORG	lada togliatti
+LOC	somalia
+PER	ian botham
+ORG	spartak moscow
+LOC	dodge city
+PER	narciso
+ORG	krylya sovetov samara
+LOC	duluth
+PER	tulio
+ORG	lokomotiv nizhny novgorod
+LOC	hunter
+PER	angeles montolio
+ORG	uralmash yekaterinburg
+LOC	red river
+PER	yi jing-qian
+ORG	sydney city
+LOC	billings mt
+PER	richard finn
+ORG	cronulla
+LOC	havre mt
+PER	anne-gaelle sidot
+ORG	boston red sox
+LOC	rudyard mt
+PER	frederic vitoux
+ORG	kansas city royals
+LOC	wolf point mt
+PER	henrietta nagyova
+ORG	boca juniors
+LOC	portland or
+PER	barbara schett
+ORG	tromso
+LOC	pendleton or
+PER	cristina torrens-valero
+ORG	kongsvinger
+LOC	coolee city wa
+PER	irina spirlea
+ORG	valerenga
+LOC	waterville wa
+PER	maria jose gaidano
+ORG	skeid
+LOC	wenatchee wa
+PER	dirk dier
+ORG	stabaek
+LOC	birmingham public park & rec
+PER	anna kournikova
+ORG	stromsgodset
+LOC	oh
+PER	debbie graham
+ORG	molde
+LOC	south miami hospital
+PER	barbara rittner
+ORG	bodo / glimt
+LOC	puerto rico
+PER	kristina brandi
+ORG	viking
+LOC	st. christopher children 's hospital
+PER	ines gorrochategui
+ORG	start
+LOC	st. albans
+PER	jaime oncins
+ORG	rosenborg
+LOC	washington , d.c.
+PER	linda wild
+ORG	lillestrom
+LOC	vermont central hospital
+PER	sarah pitkowski
+ORG	msv duisberg
+LOC	springfield
+PER	dally randriantefy
+ORG	aarau
+LOC	eurotunnel
+PER	leander paes
+ORG	young boys
+LOC	trincomalee
+PER	alexandra fusai
+ORG	grasshopper
+LOC	chavakachcheri
+PER	nathalie dechy
+ORG	lucerne
+LOC	jaffna
+PER	jane chi
+ORG	lugano
+LOC	woodlands nursing home
+PER	els callens
+ORG	basle
+LOC	calcutta hospital
+PER	natalia baudone
+ORG	genk
+LOC	mother house
+PER	greg gagne
+ORG	club brugge
+LOC	mongolia
+PER	steve finley
+ORG	harelbeke
+LOC	bagram
+PER	sammy sosa
+ORG	mechelen
+LOC	jalalabad
+PER	guus hiddink
+ORG	press trust of india
+LOC	dewas
+PER	wim jonk
+ORG	truth and reconciliation commission
+LOC	mandsaur
+PER	ronald de boer
+ORG	popular revolutionary army
+LOC	neemuch
+PER	dennis bergkamp
+ORG	knu
+LOC	mhow
+PER	robert frowick
+ORG	towers perrin
+LOC	ratlam
+PER	viktor chernomyrdin
+ORG	awami league
+LOC	ashta
+PER	sergei yastrzhembsky
+ORG	bangladesh nationalist party
+LOC	dhar
+PER	yastrezhembsky
+ORG	nyva ternopil
+LOC	ujjain
+PER	humberto hueite zyrecha
+ORG	inter bratislava
+LOC	jaora
+PER	jetty kors
+ORG	slovan bratislava
+LOC	barnagar
+PER	misael valerio
+ORG	tatran presov
+LOC	khandwa
+PER	fleuchaus
+ORG	artmedia petrzalka
+LOC	ashoknagar
+PER	newt gingrich
+ORG	jas bardejov
+LOC	nalkhera
+PER	jack kemp
+ORG	dac dunajska streda
+LOC	allentown
+PER	christopher reeve
+ORG	spartak trnava
+LOC	hanover
+PER	richard gephardt
+ORG	dukla banska bystrica
+LOC	erzincan
+PER	superman
+ORG	fc nitra
+LOC	sivas
+PER	gilbert le gras
+ORG	msk zilina
+LOC	tauranga
+PER	banharn silpa-archa
+ORG	fc kosice
+LOC	nuku'alofa
+PER	simon brown
+ORG	petrimex prievidza
+LOC	steyr
+PER	seve ballesteros
+ORG	fc rimavska sobota
+LOC	rovereto
+PER	jimmy thomson
+ORG	lokomotiva kosice
+LOC	collingtree park
+PER	glen osborne
+ORG	kerametal dubnica
+LOC	keirin
+PER	mike atherton
+ORG	haladas
+LOC	madison
+PER	shadab kabir
+ORG	mtk
+LOC	kishinev
+PER	jansher khan
+ORG	bekescsaba
+LOC	pontefract
+PER	brett martin
+ORG	bvsc
+LOC	mister baileys
+PER	mark cairns
+ORG	csepel
+LOC	kwazulu-natal
+PER	anthony hill
+ORG	zte
+LOC	community of madrid
+PER	simon frenz
+ORG	debrecen
+LOC	calderon
+PER	joseph kneipp
+ORG	siofok
+LOC	santiago bernabeu
+PER	mir zaman gul
+ORG	vac
+LOC	parc des princes
+PER	jimy szymanski
+ORG	vasas
+LOC	panama
+PER	andrei pavel
+ORG	pecs
+LOC	bailundo
+PER	rita grande
+ORG	videoton
+LOC	fort worth
+PER	mariaan de swardt
+ORG	petra drnovice
+LOC	morinville
+PER	florencia labat
+ORG	slovan liberec
+LOC	florentine guelfs
+PER	paola suarez
+ORG	sk slavia praha
+LOC	monte aperto
+PER	ann grossman
+ORG	sk ceske budejovice
+LOC	el pueblo de nuestra senora la reina de los angeles
+PER	elena wagner
+ORG	fk jablonec
+LOC	the town of our lady the queen of the angels
+PER	kristie boogert
+ORG	viktoria zizkov
+LOC	skeleton canyon
+PER	pablo campana
+ORG	banik ostrava
+LOC	arizona
+PER	karin kschwendt
+ORG	fk teplice
+LOC	forth road bridge
+PER	annabel ellwood
+ORG	boby brno
+LOC	east germany
+PER	nicole arendt
+ORG	sigma olomouc
+LOC	great hall of the people
+PER	elena likhovtseva
+ORG	fc bohemians
+LOC	dunedin
+PER	petra langrova
+ORG	fc karvina
+LOC	african football confederation
+PER	tami whitlinger jones
+ORG	sk hradec kralove
+LOC	bangui
+PER	amy frazier
+ORG	kaucuk opava
+LOC	mano junction
+PER	lisa raymond
+ORG	viktoria plzen
+LOC	tongo field
+PER	sandra dopfer
+ORG	ac sparta praha
+LOC	lusaka
+PER	naoko sawamatsu
+ORG	atlante
+LOC	southeastern bulgaria
+PER	miriam oremans
+ORG	atlas
+LOC	bosnian-croat federation
+PER	jeffrey
+ORG	cruz azul
+LOC	bosnia-hercegovina
+PER	roest
+ORG	guadalajara
+LOC	moslem-croat federation
+PER	korneev
+ORG	monterrey
+LOC	quepos
+PER	hansma
+ORG	veracruz
+LOC	juan santamaria
+PER	robbie mcewen
+ORG	pachuca
+LOC	near east
+PER	jeroen blijlevens
+ORG	toluca
+LOC	ventura
+PER	nuour marial
+ORG	puebla
+LOC	johnson cty
+PER	enn markvart
+ORG	unam
+LOC	ks
+PER	peter laca
+ORG	morelia
+LOC	u.s. high plains
+PER	rudolf gajdos
+ORG	uag
+LOC	texas panhandle
+PER	mark dutroux
+ORG	neza
+LOC	jacksonville
+PER	hurte sierd zylstra
+ORG	fluminense
+LOC	south yemen
+PER	jetsi hendrika coers
+ORG	ac milan
+LOC	north yemen
+PER	ebe huizinga
+ORG	real madrid
+LOC	berne
+PER	fernando henrique cardoso
+ORG	noticias
+LOC	balochistan
+PER	alejandro lanusse
+ORG	pec
+LOC	quetta
+PER	suleyman demirel
+ORG	dnevi avaz
+LOC	partition
+PER	ross perot
+ORG	sda
+LOC	gujarat
+PER	malcolm rifkind
+ORG	security ministry
+LOC	palk strait
+PER	amrollah
+ORG	bancomext
+LOC	pesalai
+PER	emanuele canonica
+ORG	banco de mexico
+LOC	alicante
+PER	david howell
+ORG	new zealand press association
+LOC	bilbao
+PER	ove sellberg
+ORG	radio new zealand
+LOC	seville
+PER	joakim haeggman
+ORG	northcote college
+LOC	valencia
+PER	klas eriksson
+ORG	simex brent
+LOC	kiryat sefer
+PER	martin gates
+ORG	ipe
+LOC	bethlehem
+PER	stephen mcallister
+ORG	singapore newsroom
+LOC	al-aqsa
+PER	erik zabel
+ORG	metro holdings
+LOC	u.s. middle east
+PER	michel zanoli
+ORG	pdi
+LOC	tunceli
+PER	kaspars ozers
+ORG	karachi stock exchange
+LOC	st ansgar
+PER	heiko szonn
+ORG	kse
+LOC	avalon borough
+PER	michael sandstod
+ORG	marion county board of education
+LOC	seaford union
+PER	mariano friedick
+ORG	a.g. edwards & sons , inc
+LOC	n.y.
+PER	soren lausberg
+ORG	belga
+LOC	potsdam
+PER	herve thuet
+ORG	earth first
+LOC	cap de villefranche
+PER	dimitrios georgalis
+ORG	foreldorado
+LOC	monte carlo
+PER	gary neiwand
+ORG	worldcom inc
+LOC	saxony
+PER	michael hubner
+ORG	mfs communications co inc
+LOC	boo-nee-ol
+PER	laurent gane
+ORG	cboe
+LOC	boddington
+PER	martin ayres
+ORG	pacific stock exchange
+LOC	tasmania
+PER	denny neagle
+ORG	faulding inc
+LOC	port arthur
+PER	gary sheffield
+ORG	sidor
+LOC	pudong new area
+PER	devon white
+ORG	radical cause
+LOC	south america
+PER	andrew mehrtens
+ORG	eau claire
+LOC	son sen
+PER	ian jones
+ORG	gan
+LOC	stung treng
+PER	nicky boje
+ORG	the statesman
+LOC	born
+PER	derek crookes
+ORG	islamic salvation front
+LOC	anhui
+PER	rodney eyles
+ORG	nepali congress
+LOC	hawaii
+PER	peter nicol
+ORG	uml
+LOC	zevenaar
+PER	derek ryan
+ORG	penn treaty american corp
+LOC	venray
+PER	chris walker
+ORG	new york newsdesk
+LOC	edgbaston
+PER	jonathon power
+ORG	swiss bank corp
+LOC	tunbridge wells
+PER	amr shabana
+ORG	dbrs
+LOC	hove
+PER	paul johnson
+ORG	transkaryotic therapies inc
+LOC	kingdome
+PER	zubair jahan khan
+ORG	forsa
+LOC	french riviera
+PER	juan lopez
+ORG	british data management
+LOC	thessaloniki
+PER	milinko pantic
+ORG	tokyo commodities desk
+LOC	south kivu
+PER	hristo stoichkov
+ORG	saskatchewan wheat pool
+LOC	maniema
+PER	robert pires
+ORG	swp
+LOC	shaba
+PER	marc-vivien foe
+ORG	mx onda
+LOC	bandundu
+PER	patrice loko
+ORG	rugby football union
+LOC	n'djamena
+PER	rudi thiel
+ORG	western province
+LOC	berovo
+PER	allan wells
+ORG	alba
+LOC	republika srpska
+PER	romesh kaluwitharana
+ORG	hapoel beit she'an
+LOC	banja luka
+PER	aravinda de silva
+ORG	empoli
+LOC	donje ljupce
+PER	mohamed azharuddin
+ORG	cesena
+LOC	podujevo
+PER	asanka gurusinha
+ORG	cremonese
+LOC	celopek
+PER	roshan mahanama
+ORG	cosenza
+LOC	victor babes
+PER	kumara dharmasena
+ORG	fidelis andria
+LOC	cartagena
+PER	chaminda vaas
+ORG	piacenza
+LOC	oaxaca
+PER	muthiah muralitharan
+ORG	sampdoria
+LOC	chilpancingo
+PER	ravindra pushpakumara
+ORG	fda
+LOC	acatepec
+PER	henri konan bedie
+ORG	fed
+LOC	para
+PER	richter
+ORG	federal reserve
+LOC	ramle
+PER	george bush
+ORG	new york commodities
+LOC	santa barbara
+PER	greg frost
+ORG	new york energy desk
+LOC	pacific northwest
+PER	evelyn leopold
+ORG	sky
+LOC	des moines
+PER	benazir bhutto
+ORG	caf
+LOC	west south central
+PER	nawaz sharif
+ORG	le populaire
+LOC	east north central
+PER	john gilardi
+ORG	state council
+LOC	s.c.
+PER	omer akbel
+ORG	crp
+LOC	sullivan 's island
+PER	prince rainier
+ORG	asuu
+LOC	il
+PER	george georgiopoulos
+ORG	cvrd
+LOC	ia
+PER	ieng mouly
+ORG	eksportfinans
+LOC	indre
+PER	qidra
+ORG	suedwest lb
+LOC	hub
+PER	peter o'malley
+ORG	cnn
+LOC	gadoon
+PER	philip walton
+ORG	american names association
+LOC	tando allahyar
+PER	miguel angel jimenez
+ORG	u.s. court of appeals
+LOC	hyderabad
+PER	antoine lebouc
+ORG	eva tremila
+LOC	gujar khan
+PER	rolf sorensen
+ORG	gente
+LOC	halo trust
+PER	marco lietti
+ORG	swebus ab
+LOC	andhra pradesh
+PER	maarten den bakker
+ORG	democratic national united movement
+LOC	madhumalla
+PER	olaf ludwig
+ORG	ldp
+LOC	kudapokuna
+PER	beatrix
+ORG	el pais
+LOC	welikanda
+PER	king hassan
+ORG	diario 16
+LOC	boulder
+PER	o.j. simpson
+ORG	cinco dias
+LOC	west azerbaijan
+PER	utomo
+ORG	expansion
+LOC	middle east gulf
+PER	svetlana samokhalova
+ORG	gaceta de los negocios
+LOC	islamic museum
+PER	jane quigley
+ORG	dha
+LOC	atlantic highlands
+PER	goulnara fatkoullina
+ORG	mg-technogym
+LOC	island beach state park
+PER	ingrid haringa
+ORG	zifa
+LOC	michigan city
+PER	nathalie lancien
+ORG	ocei
+LOC	place beauvau
+PER	peter blackburn
+ORG	star magazine
+LOC	gorleben
+PER	nikolaus van der pas
+ORG	university of pennsylvania
+LOC	catania
+PER	loyola de palacio
+ORG	cargill inc
+LOC	sicily
+PER	john lloyd jones
+ORG	conference board
+LOC	longyearbyen
+PER	jimi hendrix
+ORG	socal edison
+LOC	opera
+PER	kathy etchingham
+ORG	sierra semiconductor corp
+LOC	barentsburg
+PER	lien chan
+ORG	pmc-sierra
+LOC	turnhout
+PER	shen guofang
+ORG	international business machines corp
+LOC	jumet
+PER	toronto dominion
+ORG	oasis
+LOC	nahar
+PER	colleen siegel
+ORG	nba
+LOC	leveilly
+PER	eliahu ben-elissar
+ORG	civil war conservation corps
+LOC	tampere
+PER	hafez al-
+ORG	rmt
+LOC	ingolstadt
+PER	assad
+ORG	dacom international
+LOC	waiau
+PER	tadeusz awdankiewicz
+ORG	singapore refining company
+LOC	hanmer
+PER	hassan hafidh
+ORG	src
+LOC	antara
+PER	massoud rajavi
+ORG	welsh national farmers ' union
+LOC	haneda
+PER	hassan rastegar
+ORG	nfu
+LOC	itami
+PER	nabil abu rdainah
+ORG	reuters television
+LOC	amstetten
+PER	hilary gush
+ORG	association for relations across the taiwan straits
+LOC	abderdeen
+PER	philip maslowe
+ORG	federal office for motor vehicles
+LOC	imola
+PER	blake bath
+ORG	opel ag
+LOC	swe
+PER	e. auchard
+ORG	general motors
+PER	royal ascot
+ORG	bayervb
+PER	jack berry
+ORG	lehman brothers international
+PER	kenny dalglish
+ORG	venantius ab
+PER	craig brown
+ORG	3m
+PER	jackie mcnamara
+ORG	lloyds shipping intelligence service
+PER	roy keane
+ORG	channel two
+PER	gregory carraz
+ORG	kurdistan democratic party of iran
+PER	sebastien lareau
+ORG	resistance
+PER	phillip defreitas
+ORG	iraqi kurdish patriotic union of kurdistan
+PER	lubarskij
+ORG	international red crescent
+PER	valkucak
+ORG	aerostan
+PER	arkadiusz bak
+ORG	duma
+PER	arwel jones
+ORG	thawra
+PER	miroslav bak
+ORG	hizbollah
+PER	zoran kundic
+ORG	maronite
+PER	milenko kovasevic
+ORG	kindercare learning centers inc
+PER	goran koprinovic
+ORG	snet
+PER	pavlos markou
+ORG	southern new england telecommunciations corp
+PER	mons ivar mjelde
+ORG	wall street bureau
+PER	jan ove pedersen
+ORG	gateway data sciences
+PER	mark rutherford
+ORG	consolidated financial data
+PER	ilian simeonov
+ORG	flnc
+PER	daniele polverino
+ORG	bally
+PER	agrins zarins
+ORG	france telecom
+PER	drazen beser
+ORG	den norske stats oljeselskap as
+PER	miljenko mumler
+ORG	status weekly
+PER	jamir cvetko
+ORG	national customs board
+PER	petr gunda
+ORG	f.c. la valletta
+PER	lumir mistr
+ORG	cheveley park stud
+PER	horst siegl
+ORG	glasgow rangers
+PER	zdenek svoboda
+ORG	flamurtari vlore
+PER	dave mcpherson
+ORG	llansantffraid
+PER	moshe sabag
+ORG	kotaik abovyan
+PER	nissan kapeta
+ORG	kareda siauliai
+PER	tomas cibola
+ORG	tallinna sadam
+PER	sergei rogachev
+ORG	levski sofia
+PER	gennadi skidan
+ORG	us luxembourg
+PER	ferenc horvath
+ORG	havnar boltfelag
+PER	andreas andersson
+ORG	dynamo batumi
+PER	john newcombe
+ORG	sparta prague
+PER	tony roche
+ORG	glentoran
+PER	neale fraser
+ORG	red star belgrade
+PER	hwang
+ORG	karabach agdam
+PER	abdul samad ismail
+ORG	sloga jugomagnat
+PER	jeroen van dijk
+ORG	add hapoel ironi
+PER	pang chen
+ORG	constructorul chisinau
+PER	nunung subandoro
+ORG	constructorol
+PER	fung permadi
+ORG	daily telegraph
+PER	cindana
+ORG	inter milan
+PER	1ama
+ORG	in home health inc
+PER	margit borg
+ORG	u.s. federal district court
+PER	sun jian
+ORG	health care financing administration
+PER	marina andrievskaqya
+ORG	oppenheimer capital lp
+PER	meluawati
+ORG	best products co
+PER	chan chia fong
+ORG	lancet
+PER	gong zhichao
+ORG	confederation of british industry
+PER	liu lufung
+ORG	oxford university
+PER	zeng yaqiong
+ORG	journal of the royal college of physicians
+PER	li feng
+ORG	british heart foundation
+PER	christine magnusson
+ORG	lichtwer pharma gmbh
+PER	ishwari boopathy
+ORG	overseas development administration
+PER	olivia
+ORG	ulimo-j
+PER	magnus larsson
+ORG	economic community of west african states
+PER	christian rudd
+ORG	organisation of the islamic conference
+PER	andrei chesnokov
+ORG	oic
+PER	hendrik dreekman
+ORG	duff & phelps
+PER	greg rusedski
+ORG	ibca
+PER	younnes el aynaoui
+ORG	thomson bankwatch
+PER	mauricio hadad
+ORG	japan credit rating agency
+PER	kevin kim
+ORG	czech national bank
+PER	vince spadea
+ORG	cnb
+PER	william goldiner
+ORG	oslobodjenje
+PER	phil regan
+ORG	bosnian association for refugees and displaced persons
+PER	julian tavarez
+ORG	dnevni avaz
+PER	ivan rodriguez
+ORG	steel industry center
+PER	mickey cochrane
+ORG	buenos aires newsroom
+PER	johnny bench
+ORG	jungle command
+PER	terry kennedy
+ORG	columbia university
+PER	kenny lofton
+ORG	ihlas
+PER	ed vosberg
+ORG	national islamic front
+PER	dean palmer
+ORG	isbank
+PER	sterling hitchcock
+ORG	cukurova
+PER	cy young
+ORG	istanbul newsroom
+PER	scott erickson
+ORG	miss universe inc.
+PER	chris hoiles
+ORG	miss venezuela organisation
+PER	jason dickson
+ORG	miss universe inc
+PER	chili davis
+ORG	national socialist german workers ' party foreign organisation
+PER	derek jeter
+ORG	ns kampfruf
+PER	mike stanley
+ORG	national socialist battle cry
+PER	scott brosius
+ORG	algeria tv
+PER	brad ausmus
+ORG	adv
+PER	jose valentin
+ORG	house of commons
+PER	rolf fringer
+ORG	criminal investigation department
+PER	marco pascolo
+ORG	dhaka stock exchange
+PER	pascal zuberbuehler
+ORG	dse
+PER	stephane henchoz
+ORG	eastern cables
+PER	marc hottiger
+ORG	apex tannery
+PER	yvan quentin
+ORG	news corp ltd
+PER	ramon vega
+ORG	fox broadcasting
+PER	raphael wicky
+ORG	first pacific
+PER	alexandre comisetti
+ORG	asian star tv
+PER	antonio esposito
+ORG	the sun
+PER	sebastien fournier
+ORG	tv guide
+PER	christophe ohrel
+ORG	reserve bank of australia
+PER	patrick sylvestre
+ORG	bank of new zealand
+PER	david sesa
+ORG	power nz odv
+PER	ciriaco sforza
+ORG	power new zealand
+PER	murat yakin
+ORG	ministry of commerce
+PER	kubilay turkyilmaz
+ORG	correction department
+PER	christophe bonvin
+ORG	tokyo soir co ltd
+PER	stephane chapuisat
+ORG	hsbc markets
+PER	david j. russell
+ORG	hong kong interbank
+PER	michael campbell
+ORG	hong kong central moneymarkets unit
+PER	per nyman
+ORG	bernama
+PER	max anglert
+ORG	super indah makmur
+PER	miles tunnicliff
+ORG	pt vdh teguh sakti
+PER	christian cevaer
+ORG	van der horst
+PER	chalmers
+ORG	bank duta
+PER	cooper
+ORG	ciputra development
+PER	welch
+ORG	council of europe
+PER	jose-maria canizares
+ORG	western european union
+PER	jose rivero
+ORG	state customs committee
+PER	marcus wills
+ORG	viacom
+PER	spence
+ORG	paramount pictures
+PER	juan carlos pinero
+ORG	springbok
+PER	mark mouland
+ORG	northern transvaal
+PER	geoff marsh
+ORG	sc espinho
+PER	maria marco
+ORG	x-aek athens
+PER	mark gildea
+ORG	x-olympiakos
+PER	daniel levy
+ORG	x-pao
+PER	andrew wakefield
+ORG	lyngby
+PER	rosemary bennett
+ORG	x-club brugge
+PER	lynda chalker
+ORG	casino graz
+PER	masserigne ndiaye
+ORG	besiktas
+PER	sam victor malu
+ORG	alania vladikavkaz
+PER	john inienger
+ORG	x-anderlecht
+PER	anthony nyakyi
+ORG	x-cercle brugge
+PER	ahmed sekou toure
+ORG	brann bergen
+PER	carlo hoffmann
+ORG	government of national unity and reconciliation
+PER	danielle murray
+ORG	ulster petroleums ltd
+PER	louis booy
+ORG	tvx gold inc
+PER	kazimierz socha
+ORG	kinross gold corp
+PER	alexander barkhatov
+ORG	scorpion minerals inc
+PER	tatyana dmitrieva
+ORG	barrington research associates inc
+PER	lawrence sheets
+ORG	property capital trust
+PER	italo pineda
+ORG	securities and exchnage commission
+PER	jason webb
+ORG	berkshire hathaway inc
+PER	abimael guzman
+ORG	amr corp
+PER	ronny brunswijk
+ORG	department of transportation
+PER	freddy pinas
+ORG	federal aviation administration
+PER	ro gajadhar
+ORG	avianca
+PER	desi bouterse
+ORG	aces
+PER	cheung siu man
+ORG	konpolis
+PER	alexander downer
+ORG	kpc
+PER	qian qichen
+ORG	petrobulk rainbow
+PER	dalai lama
+ORG	honam
+PER	daoud makkawi
+ORG	port christine
+PER	edward said
+ORG	stentex
+PER	mutawakel taha
+ORG	kpaitan stankov
+PER	patrick seale
+ORG	hess
+PER	mohamed fahim rayyan
+ORG	ap moller
+PER	turabi
+ORG	bp
+PER	hassan al-turabi
+ORG	tiber
+PER	burcin mavituna
+ORG	stinnes
+PER	kieran murray
+ORG	tenacity
+PER	alicia machado
+ORG	sks tana
+PER	marta fajardo
+ORG	northsea chaser
+PER	nikki campbell
+ORG	jomo
+PER	martin brooks
+ORG	sibonina
+PER	jack kevorkian
+ORG	marubeni
+PER	robert aranosian
+ORG	neptune crux
+PER	patricia smith
+ORG	sietco
+PER	geoffrey fieger
+ORG	world bridge
+PER	james poland
+ORG	fulmar
+PER	louise siebens
+ORG	lg caltex
+PER	lou gehrig
+ORG	hemina
+PER	judith curren
+ORG	eleusis
+PER	andrew gray
+ORG	ukcm
+PER	gary lauck
+ORG	hebrew university
+PER	guenter bertram
+ORG	football association of ireland
+PER	bernd mauruschat
+ORG	f.a.i.
+PER	manfred kanther
+ORG	fenerbahce
+PER	hans-otto sieg
+ORG	nan
+PER	pierre claverie
+ORG	rally for the return of refugees and democracy in rwanda
+PER	herve de charette
+ORG	rdr
+PER	dick spring
+ORG	national bank of hungary
+PER	kennedys
+ORG	pap
+PER	frank quilter
+ORG	amazon affairs department
+PER	martin erdmann
+ORG	foreign affairs
+PER	wolfgang ischinger
+ORG	trade and industry
+PER	klaus kinkel
+ORG	chesapeake police department
+PER	tim goldiman
+ORG	wbur-fm
+PER	i.k. gujral
+ORG	lufthansa cargo ag
+PER	liam fox fox
+ORG	deutsche lufthansa ag
+PER	inderjit gupta
+ORG	lufthanseat
+PER	h.d. deve gowda
+ORG	wsc-india
+PER	c. rangarajan
+ORG	weather services corporation
+PER	chakravarty rangarajan
+ORG	u.s. state department
+PER	saint of the gutters
+ORG	kathmandu post
+PER	agnes goinxha bejaxhiu
+ORG	bundesbank
+PER	therese
+ORG	paribas capital markets otc
+PER	bernard hickey
+ORG	international bonds
+PER	lachlan drummond
+ORG	goldman sachs & co wertpapier gmbh
+PER	daniel westlake
+ORG	continental ag
+PER	vivit chatuparisut
+ORG	beirut secondary market
+PER	chua jui
+ORG	beirut stock exchange
+PER	rostislav khotin
+ORG	ciments libanais
+PER	leonid kuchma
+ORG	ciments blancs
+PER	adelbert knobl
+ORG	eternit
+PER	hennady udovenko
+ORG	uniceramic
+PER	gjon buzuku
+ORG	the walt disney co
+PER	musa hamiti
+ORG	networks services division
+PER	marina volkova
+ORG	ameritech corp.
+PER	dmitry solovyov
+ORG	bellsouth corp.
+PER	tom cruise
+ORG	gte corp.
+PER	william goldman
+ORG	sbc communications
+PER	brian de palma
+ORG	southern new england telecommunications corp.
+PER	a. penberthy
+ORG	lg electronics inc.
+PER	fabrizio ravanelli
+ORG	kalf , voorhis & co
+PER	bryan robson
+ORG	the natural law party
+PER	japie mulder
+ORG	times of london
+PER	gary teichmann
+ORG	giga information group
+PER	andre markgraaff
+ORG	gartner group
+PER	andre snyman
+ORG	symantec corp.
+PER	danie van schalkwyk
+ORG	touchstone software corp.
+PER	pieter hendriks
+ORG	pc data inc
+PER	ijaya indra
+ORG	u.s. department of health and human services
+PER	chen gang
+ORG	arkansas state police
+PER	mary pierce
+ORG	f.b.i.
+PER	meredith mcgrath
+ORG	bureau of alcohol , tobacco and firearms
+PER	boris becker
+ORG	everen securities inc
+PER	jamie moyer
+ORG	royal oak mines inc
+PER	paul sorrento
+ORG	reuters chicago newsdesk
+PER	norm charlton
+ORG	sungard shareholder systems inc
+PER	ken griffey jr
+ORG	sungard data systems inc
+PER	edgar martinez
+ORG	securities products business
+PER	rocky coppinger
+ORG	checkfree corp
+PER	roger clemens
+ORG	alpha techs
+PER	matt stairs
+ORG	alpha technologies group inc
+PER	lee tinsley
+ORG	lockhart industries inc
+PER	terry steinbach
+ORG	koninklijke ptt nederland nv
+PER	garret anderson
+ORG	koninklijke boskalis westminster nv
+PER	gary disarcina
+ORG	deutsche bahn ag
+PER	jim edmonds
+ORG	new scientist
+PER	kenny rogers
+ORG	moss landing marine laboratories
+PER	chuck finley
+ORG	u.s. navy
+PER	travis fryman
+ORG	australia senate
+PER	melvin nieves
+ORG	telstra
+PER	damion easley
+ORG	australian democrats
+PER	justin thompson
+ORG	labor party
+PER	tim belcher
+ORG	battle mountain gold
+PER	ken hill
+ORG	lihir
+PER	erik hanson
+ORG	yonsei university
+PER	alex fernandez
+ORG	china national nonferrous metals import and export corp
+PER	jacob brumfield
+ORG	london metal exchange
+PER	otis nixon
+ORG	bloomsbury minerals economics
+PER	luis miguel predrosa
+ORG	sumitomo corp
+PER	nail besirovic
+ORG	companion building material
+PER	jose luis vidigal
+ORG	hong kong news room
+PER	mustapha hadji
+ORG	softbank corp
+PER	andre trulsen
+ORG	kingston technology co
+PER	martin max
+ORG	shanghai post and telecomm
+PER	christian springer
+ORG	shanghai posts and telecommunications equipment co
+PER	thomas sabotzik
+ORG	spar ag
+PER	karsten baeron
+ORG	les echos
+PER	harald spoerl
+ORG	rothschild & cie
+PER	haile gebreselassie
+ORG	rewe
+PER	driller
+ORG	lidl
+PER	sobotzik
+ORG	specia
+PER	wilmots
+ORG	dia
+PER	christine wachtel
+ORG	aldi
+PER	ricky willison
+ORG	irish independent
+PER	robert coles
+ORG	irish permanent
+PER	carl mason
+ORG	irish navy
+PER	mats lanner
+ORG	air corps
+PER	steve webster
+ORG	irish department of enterprise and employment
+PER	jose maria canizares
+ORG	taylor asset managers
+PER	roger kingdom
+ORG	ivernia
+PER	ilke wyludda
+ORG	minorco
+PER	ellina zvereva
+ORG	crh
+PER	franka dietzsch
+ORG	tilcon inc
+PER	natalya sadova
+ORG	irish times
+PER	mette bergmann
+ORG	dunnes stores
+PER	nicoleta grasu
+ORG	ford china
+PER	olga chernyavskaya
+ORG	ford motor co
+PER	irina yatchenko
+ORG	jiangling motors corp
+PER	yulia graudin
+ORG	china securities
+PER	julie baumann
+ORG	jiangling motors group
+PER	patricia girard-leno
+ORG	greenock morton
+PER	dawn bowles
+ORG	falkirk
+PER	sven pieters
+ORG	queen of the south
+PER	frank asselman
+ORG	monstrose
+PER	hubert grossard
+ORG	tottenham hotspur
+PER	jonathan n'senga
+ORG	queen 's park rangers
+PER	johan lisabeth
+ORG	buducnost ( p )
+PER	roberta brunet
+ORG	radnicki ( n )
+PER	fernanda ribeiro
+ORG	zeleznik
+PER	sally barsosio
+ORG	purefoods hotdogs
+PER	paula radcliffe
+ORG	belenenses
+PER	julia vaquero
+ORG	boavista
+PER	catherine mckiernan
+ORG	action against hunger
+PER	annette peters
+ORG	public service commission
+PER	pauline konga
+ORG	psc
+PER	bruny surin
+ORG	public service association
+PER	samuel matete
+ORG	public service , labour and social welfare
+PER	rohan robinson
+ORG	al-ingaz al-watani
+PER	torrance zellner
+ORG	national democratic alliance
+PER	jean-paul bruwier
+ORG	zeri i popullit
+PER	dusan kovacs
+ORG	islamic revolutionary court
+PER	calvin davis
+ORG	golden crescent
+PER	laurent ottoz
+ORG	movement of socialist democrats
+PER	marc dollendorf
+ORG	jumhouriya
+PER	chryste gaines
+ORG	qadissiya
+PER	zhanna pintusevich
+ORG	babel
+PER	regina jacobs
+ORG	national hurricane center
+PER	patricia djate
+ORG	ifor
+PER	carla sacramento
+ORG	bild am sonntag
+PER	yekaterina podkopayeva
+ORG	northern league
+PER	margret crowley
+ORG	el-watan
+PER	leah pells
+ORG	human rights national observatory
+PER	sarah thorsett
+ORG	centre for sociological studies
+PER	sinead delahunty
+ORG	popular party
+PER	joseph keter
+ORG	pp
+PER	patrick sang
+ORG	jamaat-i-islami
+PER	moses kiptanui
+ORG	sun microsystems inc.
+PER	gideon chirchir
+ORG	bessemer venture partners
+PER	larbi el khattabi
+ORG	rsa data security
+PER	eliud barngetuny
+ORG	security dynamics technologies inc.
+PER	bernard barmasai
+ORG	apple computer inc.
+PER	anthuan maybank
+ORG	oracle systems
+PER	jamie baulch
+ORG	kleiner perkins caufield & byers
+PER	sunday bada
+ORG	international business machines corp.
+PER	samson kitur
+ORG	psi net
+PER	jason rouser
+ORG	individual
+PER	patrick stevens
+ORG	husaberg
+PER	michael marsh
+ORG	tm
+PER	ivan garcia
+ORG	crvena zvezda
+PER	eric wymeersch
+ORG	zelesnik
+PER	lamont smith
+ORG	polonia warszawa
+PER	malgorzata rydz
+ORG	f.c. chindia tirgoviste
+PER	anja smolders
+ORG	tekstilshik kamyshin
+PER	veerle de jaeghere
+ORG	tekstilshchik kamyshin
+PER	eleonora berlanda
+ORG	triple-a columbus
+PER	anneke matthijs
+ORG	fc porto
+PER	jacqueline martin
+ORG	guimaraes
+PER	inger miller
+ORG	gil vicente
+PER	marina trandenkova
+ORG	anp
+PER	zundra feagin
+ORG	board of control for cricket in india
+PER	galina malchugina
+ORG	united news of india
+PER	marie-jose perec
+ORG	nzpa
+PER	pauline davis
+ORG	afl
+PER	fatima yussuf
+ORG	african national congress
+PER	maicel malone
+ORG	anc
+PER	hana benesova
+ORG	freedom front
+PER	ann mercken
+ORG	university of the witwatersrand
+PER	daniel komen
+ORG	erp
+PER	khalid boulami
+ORG	mexican army
+PER	bob kennedy
+ORG	zapatista
+PER	el hassane lahssini
+ORG	revolutionary armed forces of colombia
+PER	thomas nyariki
+ORG	farc
+PER	noureddine morceli
+ORG	democratic karen buddhist army
+PER	fita bayesa
+ORG	karen national union
+PER	martin keino
+ORG	jordan times
+PER	lars riedel
+ORG	al rai
+PER	anthony washington
+ORG	ad dustour
+PER	vladimir dubrovshchik
+ORG	al aswaq
+PER	virgilius alekna
+ORG	haaretz
+PER	juergen schult
+ORG	bank of israel
+PER	vassiliy kaptyukh
+ORG	maariv
+PER	vaclavas kidikas
+ORG	jerusalem post
+PER	michael mollenbeck
+ORG	federal bureau of investigation
+PER	jonathan edwards
+ORG	kabul radio
+PER	yoelvis quesada
+ORG	supreme coordination council alliance
+PER	brian wellman
+ORG	jumbish-i-milli
+PER	kenny harrison
+ORG	hezb-i-islami
+PER	gennadi markov
+ORG	janakantha
+PER	francis agyepong
+ORG	mironivka wheat institute
+PER	rogel nachum
+ORG	ukrainian academy of agrarian sciences
+PER	sigurd njerve
+ORG	gencor ltd
+PER	hicham el guerrouj
+ORG	impala platinum holdings ltd
+PER	isaac viciosa
+ORG	ingwe coal corporation ltd
+PER	elijah maru
+ORG	lonrho plc
+PER	marcus o'sullivan
+ORG	malbak ltd
+PER	laban rotich
+ORG	advanced medical inc.
+PER	christophe impens
+ORG	ivac medical systems inc.
+PER	stefka kostadinova
+ORG	eli lilly & co
+PER	inga babakova
+ORG	imed corp.
+PER	alina astafei
+ORG	dlj merchant banking partners lp
+PER	tatyana motkova
+ORG	river medical inc.
+PER	svetlana zalevskaya
+ORG	mallinckrodt group inc
+PER	yelena gulyayeva
+ORG	london broncos
+PER	hanna haugland
+ORG	falkir
+PER	olga boshova
+ORG	montrose
+PER	nele zilinskiene
+ORG	fifa
+PER	paul tergat
+ORG	dynamo kiev
+PER	paul koech
+ORG	kremin kremenchuk
+PER	william kiptum
+ORG	vorskla poltava
+PER	aloys nizigama
+ORG	torpedo zaporizhya
+PER	mathias ntawulikura
+ORG	shakhtar donetsk
+PER	abel anton
+ORG	kryvbas kryvy rig
+PER	kamiel maase
+ORG	karpaty lviv
+PER	worku bekila
+ORG	prykarpattya ivano-frankivsk
+PER	robert stefko
+ORG	zirka-nibas kirovohrad
+PER	paulo sousa
+ORG	chornomorets odessa
+PER	antonio oliveira
+ORG	metalurg zaporizhya
+PER	vitor baia
+ORG	dnipro dnipropetrovsk
+PER	rui correia
+ORG	cska kiev
+PER	jorge costa
+ORG	tavria
+PER	paulinho santos
+ORG	ntv
+PER	helder cristovao
+ORG	videoton(*
+PER	carlos secretario
+ORG	ujpest te
+PER	dimas teixeira
+ORG	ftc
+PER	fernando couto
+ORG	gyor
+PER	jose barroso
+ORG	iii.ker.tve
+PER	luis figo
+ORG	parmalat / fehervar fc
+PER	rui barros
+ORG	necaxa
+PER	rui costa
+ORG	celaya
+PER	oceano cruz
+ORG	sao paulo-santos
+PER	ricardo sa pinto
+ORG	estudiantes
+PER	joao vieira pinto
+ORG	ferro carril oeste
+PER	jorge cadete
+ORG	independiente
+PER	antonio folha
+ORG	gimnasia-jujuy
+PER	berti vogts
+ORG	platense
+PER	oliver kahn
+ORG	huracan
+PER	oliver reck
+ORG	lanus
+PER	markus babbel
+ORG	huracan-corrientes
+PER	juergen kohler
+ORG	newell 's old boys
+PER	stefan reuter
+ORG	velez sarsfield
+PER	mario basler
+ORG	racing club
+PER	marco bode
+ORG	rosario central
+PER	dieter eilts
+ORG	river plate
+PER	thomas haessler
+ORG	gimnasia-la plata
+PER	andreas moeller
+ORG	san lorenzo
+PER	mehmet scholl
+ORG	banfield
+PER	thomas strunz
+ORG	deportivo espanol
+PER	christian ziege
+ORG	colon
+PER	fredi bobic
+ORG	cricuma
+PER	stefan kuntz
+ORG	criciuma
+PER	muttiah muralitharan
+ORG	widad fes
+PER	cam battersby
+ORG	oujda
+PER	batterby
+ORG	raja casablanca
+PER	alexander paris
+ORG	tetouan
+PER	warren buffett
+ORG	jeunesse massira
+PER	butch harmon
+ORG	widad casablanca
+PER	hidemichi tanaki
+ORG	sporting sale
+PER	ori lewis
+ORG	meknes
+PER	wojtek lazarek
+ORG	settat
+PER	abdul rahman haj yihye
+ORG	marrakesh
+PER	mark kennedy
+ORG	khouribga
+PER	terry phelan
+ORG	mohammedia
+PER	damien lynch
+ORG	sidi kacem
+PER	umar shelling
+ORG	royal armed forces
+PER	innocent butare
+ORG	el jadida
+PER	zbigniew siemiatkowski
+ORG	hassania agadir
+PER	bernd schmidbauer
+ORG	usta
+PER	ryszard hincza
+ORG	internazionale
+PER	aslan shabazov
+ORG	lamonts apparel inc
+PER	svetlana goncharova
+ORG	emeraud
+PER	mate granic
+ORG	yugo zastava
+PER	abdala bucaram
+ORG	belgrade newsroom
+PER	suharto
+ORG	zagreb money market
+PER	mar'ie muhammad
+ORG	zagreb newsroom
+PER	ali alatas
+ORG	svcd bulgaria
+PER	tungky ariwibowo
+ORG	bulatka
+PER	don mckinnon
+ORG	balkan airlines
+PER	rana sabbagh
+ORG	mostostal z
+PER	hussein khalaf
+ORG	mostostal zabrze holding sa
+PER	allahu
+ORG	polish development bank
+PER	ahmed kafawin
+ORG	pbr
+PER	richard black
+ORG	warsaw newsroom
+PER	curtis lee white ii
+ORG	civil defence and coast guard
+PER	michelle harper
+ORG	public transport corporation
+PER	dan glickman
+ORG	singapore international monetary exchange
+PER	john kerry
+ORG	international petroleum exchange
+PER	franny weld
+ORG	first capital corp
+PER	tracy roosevelt
+ORG	u.s. senate intelligence committee
+PER	roosevelts
+ORG	defence and aviation
+PER	susan roosevelt weld
+ORG	saudi press agency
+PER	theodore roosevelt
+ORG	pentagon
+PER	philip wilcox
+ORG	alcan
+PER	li peng
+ORG	noranda
+PER	prakash chandra lohani
+ORG	rsr
+PER	aishwarya
+ORG	doe run
+PER	madhusudan munakarmi
+ORG	asarco
+PER	dhiraj k.c.
+ORG	parkway middle school
+PER	dheeraj
+ORG	broward county sheriff 's office
+PER	robert coughlan
+ORG	gingrich / dole congress
+PER	stephen nisbet
+ORG	dole white house
+PER	martin stenning
+ORG	handgun control inc.
+PER	benedict birnberg
+ORG	air force
+PER	riza altun
+ORG	indian oil corp
+PER	ismail nacar
+ORG	environment canada
+PER	susan nadeau
+ORG	brush wellman inc
+PER	william luehrs
+ORG	cleveland newsdesk
+PER	robert gutenstein
+ORG	diamond shamrock inc
+PER	john hagelin
+ORG	sun co
+PER	redmond
+ORG	tosco corp
+PER	rob enderle
+ORG	total petroleum ( north america ) ltd
+PER	scott winkler
+ORG	valero energy corp
+PER	ann stephens
+ORG	wesbanco bank
+PER	tommy thompson
+ORG	steptoe & johnson
+PER	karen pierog
+ORG	ferris , baker watts , inc.
+PER	tuan quac phan
+ORG	j.j. kenny
+PER	dan jewell
+ORG	ohio building authority
+PER	steve barnes
+ORG	goldman , sachs & co
+PER	wayne jordan
+ORG	banc one capital corporation
+PER	fannie johnson
+ORG	s.b.k- brooks investment corp
+PER	jerome turner
+ORG	seasongood & mayer
+PER	peter roe
+ORG	the washington post
+PER	steven vrolijk
+ORG	sidwell friends school
+PER	keiron henderson
+ORG	ihc caland
+PER	costis stephnopoulos
+ORG	nutricia
+PER	costis stephanopoulos
+ORG	fokker aviation
+PER	amer hishem ali mohammed
+ORG	europe 1
+PER	james harvey
+ORG	european court of human rights
+PER	jennifer hurley
+ORG	rabobank nederland ba
+PER	john howard
+ORG	ipsos
+PER	lynne o'donnell
+ORG	sncf
+PER	tony taylor
+ORG	atria oy
+PER	kankunnen
+ORG	chart thai
+PER	colin mcrae
+ORG	fontaine co ltd
+PER	derek ringer
+ORG	international philippine
+PER	david richards
+ORG	united coconut associations of the philippines
+PER	bruno thiry
+ORG	nomura research institute ltd
+PER	giovanni lavaggi
+ORG	aronkasei co ltd
+PER	karsten richardt
+ORG	la presse
+PER	sigeki maruyama
+ORG	le temps
+PER	mark o'meara
+ORG	united nations special commission
+PER	neil williams
+ORG	unscom
+PER	mark ilott
+ORG	lebanon first
+PER	matt windows
+ORG	lebanese association for the democracy of elections
+PER	andrew symonds
+ORG	eurobourses
+PER	dominic hewson
+ORG	u.s. treasuries
+PER	tim hancock
+ORG	fahnestock & co
+PER	paul prichard
+ORG	iraqi community association
+PER	alistair brown
+ORG	tarmac plc
+PER	gordon parsons
+ORG	costain group plc
+PER	vince wells
+ORG	hanson plc
+PER	neil fairbrother
+ORG	berkshire wood elves
+PER	s. renshaw
+ORG	the land is ours
+PER	j. bovill
+ORG	alarm uk
+PER	c. ambrose
+ORG	road alert
+PER	d. ripley
+ORG	construction industry council
+PER	w. noon
+ORG	ubs
+PER	alan shearer
+ORG	jakarta post
+PER	kevin keegan
+ORG	bank indonesia
+PER	dejan stefanovic
+ORG	raith rovers fc
+PER	faustino asprilla
+ORG	romanian soccer federation
+PER	peter atherton
+ORG	neuchatel xamax
+PER	mark pembridge
+ORG	us postal
+PER	guy whittingham
+ORG	cofinec s.a.
+PER	frank leboeuf
+ORG	ing barings
+PER	gianluca vialli
+ORG	abn-amro hoare govett
+PER	joel stransky
+ORG	krpaco a.s.
+PER	hannes strydom
+ORG	pse
+PER	joel stranksy
+ORG	prague stock exchange
+PER	romeo wouden
+ORG	agrotonz tlumacov
+PER	marcio santos
+ORG	avia
+PER	winston bogarde
+ORG	barum holding
+PER	jari litmanen
+ORG	ceska sporitelna
+PER	marc overmars
+ORG	ckd praha holding
+PER	jon dahl tomasson
+ORG	emkam
+PER	anto drobnjak
+ORG	kablo kladno
+PER	miladin becanovic
+ORG	komercni banka
+PER	enzo scifo
+ORG	leciva praha
+PER	boutoille
+ORG	metrostav
+PER	guivarc'h
+ORG	morav.chemic. zav
+PER	traore
+ORG	okd
+PER	bombarda
+ORG	pf iks kb plus
+PER	zitelli
+ORG	rif
+PER	bancarel
+ORG	seliko
+PER	charvet
+ORG	sokolovska uhelna
+PER	molata
+ORG	spif cesky
+PER	balakow
+ORG	spt telecom
+PER	votava
+ORG	skoda plzen
+PER	schwabl
+ORG	tabak
+PER	zorc
+ORG	trinecke zelezarny
+PER	seeliger
+ORG	vodni stavby praha
+PER	zeyer
+ORG	chicago board options exchange
+PER	gaissmayer
+ORG	the new york times
+PER	polster
+ORG	purdue frederick co
+PER	michael penrose
+ORG	purepac pharamceutical
+PER	frederic malardeau
+ORG	zeneca group plc
+PER	issa alloush
+ORG	f.h. faulding & co
+PER	michael stroud
+ORG	leeds united
+PER	damian ejiohuo
+ORG	sudan people 's liberation army
+PER	kamuzu banda
+ORG	ria
+PER	emelia sithole
+ORG	central european free trade area
+PER	robert mugabe
+ORG	chamber of economy
+PER	firmin gatera
+ORG	party of social democracy
+PER	kengo wa dondo
+ORG	national unity party
+PER	nicholas gcaleka
+ORG	pdsr
+PER	fatos nano
+ORG	transportation ministry
+PER	sali berisha
+ORG	judicial police
+PER	servet pellumbi
+ORG	corporacion venezolana de guayana
+PER	karl marx
+ORG	venalum
+PER	gramoz ruci
+ORG	alucasa
+PER	sam wilson
+ORG	el nuevo diario
+PER	birenda
+ORG	tbc
+PER	gyaicain norbu
+ORG	peronists
+PER	mohamed ali khalfallah
+ORG	military college
+PER	mohamed moada
+ORG	pt matahari putra prima
+PER	khemais chammari
+ORG	democrat national convention
+PER	ismail boulahya
+ORG	national abortion rights action league
+PER	ahmed mestiri
+ORG	republican house
+PER	mustapha ben jaafar
+ORG	ymca
+PER	majid takht ravanchi
+ORG	abc news
+PER	laurence mcquillan
+ORG	robert w. baird & co .
+PER	janet reno
+ORG	massachusetts association of realtors
+PER	lixion avila
+ORG	cfdt
+PER	ignacio olascoaga mugica
+ORG	federation syndicale unitaire
+PER	volker ruehe
+ORG	fsu
+PER	umberto bossi
+ORG	elf
+PER	stefano cimicchi
+ORG	rhone poulenc
+PER	roberto benigni
+ORG	uic
+PER	gianfranco stevanin
+ORG	carrefour
+PER	cesare dal maso
+ORG	cheuvreux de virieu
+PER	jeremy lovell
+ORG	scor
+PER	michelle martin
+ORG	prudential
+PER	stefaan de clerck
+ORG	mercantile & general
+PER	jose antonio ortega lara
+ORG	re
+PER	david cowan
+ORG	bollore
+PER	jim bidzos
+ORG	scac delmas vileujeux
+PER	hong bui
+ORG	sdv
+PER	prasad wagle
+ORG	alcatel alsthom
+PER	chris zuleeg
+ORG	oakley inc
+PER	mayfiar
+ORG	gentext optics inc
+PER	shigeki maruyama
+ORG	essilor international
+PER	luke jensen
+ORG	veerakesari
+PER	murphy jensen
+ORG	telo
+PER	handrik dreekmann
+ORG	thinakaran
+PER	joel smets
+ORG	unp
+PER	peter johansson
+ORG	the island
+PER	gert jan van doorn
+ORG	lankadeepa
+PER	jacky martens
+ORG	divaina
+PER	peter dirkx
+ORG	dinamina
+PER	danny theybers
+ORG	ruhunu university
+PER	johan boonen
+ORG	shishu bhavan
+PER	dietmar lalcher
+ORG	prem dan
+PER	claus manne nielsen
+ORG	gift of love
+PER	lacher
+ORG	state ( central ) bank
+PER	darryll king
+ORG	united people 's front nepal
+PER	sebastien tortelli
+ORG	bhattarai
+PER	bob moore
+ORG	communist united marxist-leninist
+PER	luigi seguy
+ORG	bedibunder
+PER	andi kanstinger
+ORG	bhavnagar
+PER	nicolas charlier
+ORG	banglabazar patrika
+PER	erik camerlengo
+ORG	u.n. general assembly
+PER	alex belometti
+ORG	barrick gold corp
+PER	frederic vialle
+ORG	arequipa resources ltd
+PER	collin dugmore
+ORG	merrion insurance company inc
+PER	paul malin
+ORG	health insurance of vermont
+PER	michele fanton
+ORG	hmg
+PER	ray belim
+ORG	vtm
+PER	james weaver
+ORG	aol europe
+PER	anders olofsson
+ORG	bertelsmann ag
+PER	luciano della noce
+ORG	adon gmbh
+PER	andy ballace
+ORG	new media
+PER	olivier grouillard
+ORG	aol germany
+PER	thomas bscher
+ORG	dominion bond rating service
+PER	peter kox
+ORG	power corp of canada
+PER	fabien giroix
+ORG	power financial corp
+PER	jean-denis deletraz
+ORG	al-tadamun
+PER	lindsay owen-jones
+ORG	ipo
+PER	pierre-henri raphanel
+ORG	morgan stanley and co inc
+PER	david brabham
+ORG	hoechst marion roussel inc
+PER	jean-marc gounon
+ORG	national rifle association
+PER	eric bernard
+ORG	electoral research group
+PER	bruno eichmann
+ORG	forschungsgruppe wahlen
+PER	gerd ruch
+ORG	platignum
+PER	ralf kelleners
+ORG	immigration service
+PER	stephane ortelli
+ORG	macedonian communist party
+PER	bob wollek
+ORG	japan aluminium federation
+PER	franz konrad
+ORG	united nations human rights commission
+PER	cor euser
+ORG	u.n. human rights commission
+PER	h. wada
+ORG	cooperative bank of taiwan
+PER	n. furuya
+ORG	taipei newsroom
+PER	sarka kasparkova
+ORG	palestinian self-rule authority
+PER	ashia hansen
+ORG	palestine liberation organisation
+PER	rodica matescu
+ORG	national association of securities dealers
+PER	deon hemmings
+ORG	mediaset
+PER	anne marken
+ORG	apa
+PER	susan smith
+ORG	saskatchewan pork international marketing group
+PER	isel lopez
+ORG	man city
+PER	louise mcpaul
+ORG	jockey club
+PER	gillian russell
+ORG	st leger
+PER	charmaine crooks
+ORG	2000 games
+PER	margaret crowley
+ORG	south african hockey association
+PER	trond bathel
+ORG	mcc
+PER	pat manson
+ORG	hapoel kfar sava
+PER	tim lobinger
+ORG	hapoel zafririm holon
+PER	steve backley
+ORG	hapoel tel aviv
+PER	nick nieland
+ORG	maccabi haifa
+PER	marcel malone
+ORG	hapoel jerusalem
+PER	kim graham
+ORG	hapoel petah tikva
+PER	phylis smith
+ORG	hapoel ironi rishon
+PER	doug turner
+ORG	maccabi petah tikva
+PER	john regis
+ORG	hapoel haifa
+PER	charles austin
+ORG	hapoel beersheva
+PER	tim forsyth
+ORG	maccabi herzliya
+PER	patrik sjoberg
+ORG	palermo
+PER	verbjorn rodal
+ORG	atalanta
+PER	benson koech
+ORG	nocerina
+PER	tony whiteman
+ORG	perugia
+PER	roger black
+ORG	spal
+PER	ian mackie
+ORG	reggiana
+PER	yuuchi takeda
+ORG	lucchese
+PER	norihiko fujiwara
+ORG	vicenza
+PER	carl fogarty
+ORG	bologna
+PER	akira ryo
+ORG	torino
+PER	shiya takeishi
+ORG	avellino
+PER	keiichi kitigawa
+ORG	lazio
+PER	nine
+ORG	bari
+PER	yuuichi takeda
+ORG	monza
+PER	haruchika
+ORG	napoli
+PER	david byas
+ORG	chievo
+PER	glenn hoddle
+ORG	ravenna
+PER	andy hinchcliffe
+ORG	the canaries
+PER	solskjaer
+ORG	rkc waalijk
+PER	warhurst
+ORG	sv hamburg
+PER	bohinen
+ORG	schalke 04
+PER	michael atherton
+ORG	paris sg
+PER	adam hollioake
+ORG	arch petroleum inc
+PER	peter martin
+ORG	trax petroleums ltd
+PER	bogdan prusek
+ORG	biogen inc
+PER	slawomir wojciechowski
+ORG	berlex laboratories
+PER	jacek dembinski
+ORG	schering ag
+PER	ryszard wieczorek
+ORG	u.s. food and drug administration
+PER	jacek berensztain
+ORG	biovest research , inc
+PER	marek citko
+ORG	chiron corp
+PER	adam fedoruk
+ORG	treasury department
+PER	dariusz jackiewicz
+ORG	codelco
+PER	bartlomiej jamroz
+ORG	copper and brass servicenter association
+PER	tomasz moskal
+ORG	harleysville group
+PER	krzysztof piskula
+ORG	empresa nacional del petroleo
+PER	mariusz
+ORG	ecuadorian oriente
+PER	srutwa
+ORG	petroecuador
+PER	emmanuel tetteh
+ORG	european coal and steel community
+PER	krzysztof zagorski
+ORG	brotherhood of nations
+PER	marlene thomsen
+ORG	department of transport
+PER	lisbet stuer-lauridsen
+ORG	four nations tv committee
+PER	qiang hong
+ORG	british broadcasting corporation
+PER	liu lu
+ORG	vancouver sun
+PER	yap kim hock
+ORG	asec
+PER	cheah soon kit
+ORG	eastern region brigade
+PER	lee wan wah
+ORG	revolutionary united front
+PER	tan fook
+ORG	ruf
+PER	roberto alomar
+ORG	liberia council
+PER	kyle abbott
+ORG	constitutional rights project
+PER	mariner darren bragg
+ORG	academic staff union of universities
+PER	kevin seitzer
+ORG	tafawa balewa university
+PER	david hulse
+ORG	vogue
+PER	marty cordova
+ORG	alliance-menatep
+PER	matt lawton
+ORG	centrinvest securities
+PER	frankie rodriguez
+ORG	u.s. securities and exchange commission
+PER	wally whitehurst
+ORG	mosenergo
+PER	jose rosado
+ORG	rostelekom
+PER	michael tucker
+ORG	lukoil
+PER	brad clontz
+ORG	koha jone
+PER	mark thompson
+ORG	bucharest newsroom
+PER	ellis burks
+ORG	costa rican volcanic and seismologicial observatory
+PER	dante bichette
+ORG	vale do rio doce
+PER	kevin brown
+ORG	arthur yates and co
+PER	kurt abbott
+ORG	plo council
+PER	tom candiotti
+ORG	palestinian legislative council
+PER	todd hollandsworth
+ORG	iraqi news agency
+PER	joey hamilton
+ORG	national guard
+PER	rickey henderson
+ORG	johnson co
+PER	pedro martinez
+ORG	oklahoma state university
+PER	david segui
+ORG	oklahoma wheat commission
+PER	orlando miller
+ORG	university of oklahoma
+PER	todd stottlemyre
+ORG	texas wheat producers
+PER	shane reynolds
+ORG	texas agricultural statistics service
+PER	mario jardel
+ORG	first union national bank of fla.
+PER	chiquinho conde
+ORG	first union national bank of florida
+PER	andrejez wozniak
+ORG	first union corp
+PER	rodrigo carneiro
+ORG	amoco corp
+PER	valdo
+ORG	ministry of petroleum and minerals
+PER	paulao
+ORG	defence ministry
+PER	luis baltasar
+ORG	eoe
+PER	idalecio
+ORG	ahold
+PER	stefan schwarz
+ORG	bolswessanen
+PER	franco baresi
+ORG	abn amro
+PER	francesco toldo
+ORG	le canard enchaine
+PER	marcel desailly
+ORG	credit suisse
+PER	batigol
+ORG	zurich editorial
+PER	george weah
+ORG	pakistan muslim league
+PER	roberto baggio
+ORG	mohajir national movement
+PER	zieger
+ORG	associated cement companies
+PER	witechek
+ORG	kredietbank
+PER	mark mcnulty
+ORG	welspun stahl rohren ltd
+PER	frank nobilo
+ORG	indusind bank
+PER	jim payne
+ORG	uti bank
+PER	francesco casagrande
+ORG	all fishermen 's association
+PER	alessandro baronti
+ORG	indian fisheries department
+PER	frank vandenbroucke
+ORG	bombay commodities
+PER	fabio baldato
+ORG	conservative new democracy
+PER	maurizio fondriest
+ORG	british airways
+PER	laurent jalabert
+ORG	u.s. transportation department
+PER	stefano zanini
+ORG	cgt
+PER	alexandre gontchenkov
+ORG	air express international
+PER	gabriele colombo
+ORG	bureau veritas
+PER	andrei tchmil
+ORG	aei iberfreight
+PER	heinz-peter thul
+ORG	fsa
+PER	gary emerson
+ORG	financial security assurance
+PER	peter baker
+ORG	colorado health fac .
+PER	dean gorre
+ORG	auth .
+PER	ernest faber
+ORG	benevolent assoc .
+PER	ronald waterreus
+ORG	colorado christian home
+PER	romano sion
+ORG	donaldson lufkin & jenrette
+PER	zeljko petrovic
+ORG	career horizons inc
+PER	raymond atteveld
+ORG	northern states power co
+PER	erwin van der looi
+ORG	lloyd 's of london
+PER	pablo sanchez
+ORG	association of lloyd 's
+PER	van wanrooy
+ORG	fourth circuit
+PER	hoogma
+ORG	ninth circuit
+PER	roelofsen
+ORG	french archaeological society
+PER	godee
+ORG	pao de acucar
+PER	hamming
+ORG	auchan
+PER	david endt
+ORG	camat
+PER	navjot singh sidhu
+ORG	agf-iart
+PER	mohammed azharuddin
+ORG	billa
+PER	john hart
+ORG	rewe-handelsgruppe
+PER	anton ferreira
+ORG	eurostat
+PER	thabo mbeki
+ORG	imerisia
+PER	brian currin
+ORG	pasok
+PER	dirk coetzee
+ORG	financial kathimerini
+PER	alex boraine
+ORG	athens metro
+PER	constand viljoen
+ORG	state national bank of greece
+PER	jannie gagiano
+ORG	kerdos
+PER	tom lodge
+ORG	hoek loos nv
+PER	samir arnaut
+ORG	stagecoach holdings plc
+PER	edhem efendija camdzic
+ORG	guinness peat group plc
+PER	reuf mehemdagic
+ORG	physicians insurance co
+PER	ejup ganic
+ORG	tyndall australia ltd
+PER	anatoly shkirko
+ORG	mid-east minerals ltd
+PER	liutauras stremaitis
+ORG	newcrest q4
+PER	movladi udugov
+ORG	newcrest mining ltd
+PER	suvit maenmuan
+ORG	shanghai ek chor
+PER	yehiel amitai
+ORG	shanghai-ek chor motorcycle co
+PER	mohammed saleh
+ORG	sino-thai
+PER	seneferu
+ORG	shanghai automobile corporation
+PER	shabir ahmad muhammad jalil
+ORG	ek chor china motorcycle
+PER	marwan muasher
+ORG	dnum
+PER	aryeh shumer
+ORG	mof
+PER	erekat
+ORG	new party sakigake
+PER	avraham tamir
+ORG	social democratic party
+PER	kahalani
+ORG	liu chong hing investment ltd
+PER	anne murray
+ORG	writers association
+PER	sandra o'neal
+ORG	hwa kay thai holdings ltd
+PER	geert de clercq
+ORG	ministry of finance
+PER	georges zicot
+ORG	wen wei po
+PER	gerard pignon
+ORG	ming pao daily news
+PER	thierry dehaan
+ORG	frontier
+PER	bernard weinstein
+ORG	south china morning post
+PER	detroux
+ORG	hong kong economic times
+PER	anne thily
+ORG	legal department
+PER	jacques chirac
+ORG	addameer prisoners support association
+PER	jumbish
+ORG	banco santander
+PER	anis ahmed
+ORG	caja de madrid
+PER	rafiqul islam
+ORG	iberia
+PER	emajuddin ahmed
+ORG	north atlantic treaty organisation
+PER	irene marushko
+ORG	aaxis limited
+PER	john deere
+ORG	u.n. department of humanitarian affairs
+PER	ivan odnosum
+ORG	eu commission
+PER	josef stalin
+ORG	nature
+PER	hryhory borsuk
+ORG	polti
+PER	shevchenko
+ORG	british lions
+PER	natalya sypron
+ORG	zimbabwe football association
+PER	soprun
+ORG	plymouth argyle
+PER	borkus
+ORG	greenville
+PER	melanie cheary
+ORG	bold / ogilvy , mather
+PER	brian gilbertson
+ORG	bold / ogilvy and mather
+PER	william j. mercer
+ORG	liffe
+PER	joseph kuhn
+ORG	london international financial futures exchange
+PER	alan hunte
+ORG	eurolira
+PER	tommy martyn
+ORG	euroswiss
+PER	anthony sullivan
+ORG	cne
+PER	paul newlove
+ORG	republican front
+PER	bobbie goulding
+ORG	patriotic salvation movement
+PER	sebastian lindholm
+ORG	fraternite matin
+PER	lasse lampi
+ORG	le jour
+PER	rui madeira
+ORG	national security council
+PER	angelo medeghini
+ORG	rao gazprom
+PER	maakinen
+ORG	federal securities corporation
+PER	lee sharpe
+ORG	central office of statistics and information
+PER	ian rush
+ORG	la nacion
+PER	howard wilkinson
+ORG	national human rights commission
+PER	kapil dev
+ORG	revolutionary workers ' party
+PER	richard hadlee
+ORG	agir ensemble pour les droits de l'homme
+PER	malcolm marshall
+ORG	red brigade
+PER	dennis lillee
+ORG	tv globo
+PER	bob willis
+ORG	supreme federal tribunal
+PER	lance gibbs
+ORG	national council of christian churches of brazil
+PER	fred trueman
+ORG	coordinate of ecumenical service
+PER	courtney walsh
+ORG	national conference of bishops of brazil
+PER	m. lynch
+ORG	independent commission against corruption
+PER	n. williams
+ORG	rajapat institute
+PER	n. llong
+ORG	new aspiration party
+PER	h. morris
+ORG	piper jaffray inc
+PER	a. cottey
+ORG	institute for human gene therapy
+PER	p. weston
+ORG	taiwan flour mills assn
+PER	g. parsons
+ORG	mitsui
+PER	ronaldo gonzalez
+ORG	louis dreyfus corp
+PER	marcelo salas
+ORG	commodity credit corp of usda
+PER	mark gleeson
+ORG	japanese food agency
+PER	andre caboche
+ORG	taichung division
+PER	ashley mocude
+ORG	breakfast soybean procurement assn
+PER	danny rose
+ORG	bunge
+PER	alexander popov
+ORG	pnw
+PER	rimma maslova
+ORG	cyprus grain commission
+PER	vitaly smirnov
+ORG	onic
+PER	brian homewood
+ORG	somerset jewellers
+PER	zagalo
+ORG	buffalo bills
+PER	juan castro
+ORG	d.c. coalition against domestic violence
+PER	enrique centeno
+ORG	new york post
+PER	carlos pavon
+ORG	checker 's
+PER	rebecca weinstein
+ORG	miami herald
+PER	carol perry
+ORG	marines
+PER	nana miyaga
+ORG	u.s. dla
+PER	yvegeny kafelnikov
+ORG	u.s. defense logistics agency
+PER	janette husarova
+ORG	nbc
+PER	nana miyagi
+ORG	decatur
+PER	ramon delgado
+ORG	clinton and cedar rapids
+PER	gala leon garcia
+ORG	pakistan people 's party
+PER	gloria pizzichini
+ORG	business recorder
+PER	sabine appelmans
+ORG	sui southern gas
+PER	sabine hack
+ORG	sui northern gas
+PER	petra begerow
+ORG	financial post
+PER	melanie schnell
+ORG	the nation
+PER	peter tramacchi
+ORG	mohib textile mills
+PER	ludmila richterova
+ORG	the news
+PER	stephanie deville
+ORG	muslim commercial bank
+PER	andrea glass
+ORG	vital information system
+PER	magdalena grzybowska
+ORG	duff and phelps
+PER	corina morariu
+ORG	credit rating and information systems ltd
+PER	sung-hee park
+ORG	sindh high court
+PER	meghann shaughnessy
+ORG	privatisation commission
+PER	elena makarova
+ORG	javedan cement
+PER	perfetti
+ORG	dadabhoy investment ( pvt ) ltd
+PER	neville godwin
+ORG	the muslim
+PER	jill craybas
+ORG	vicorp restaurants inc
+PER	tatyana jecmenica
+ORG	bestop inc
+PER	christina singer
+ORG	southern california edison co
+PER	maria antonio sanchez lorenzo
+ORG	new york power desk
+PER	nicole bradtke
+ORG	dreyfus strategic munis
+PER	jolene watanabe
+ORG	dreyfus strategic municipals inc
+PER	jana kandarr
+ORG	roberston stephens & co
+PER	brian mcrae
+ORG	soundview financial group
+PER	tyler houston
+ORG	hambrecht & quist
+PER	kevin foster
+ORG	pmc
+PER	larry walker
+ORG	housecall medical resources inc
+PER	marc wilkins
+ORG	first alliance corporation and subsidiaries
+PER	john ericks
+ORG	slough estates plc
+PER	edgar renteria
+ORG	british land
+PER	jesus tavarez
+ORG	land securities
+PER	john boles
+ORG	hammerson
+PER	osvaldo fenandez
+ORG	statistics canada
+PER	trenidad hubbard
+ORG	reuters ottawa burea
+PER	chad curtis
+ORG	jomhuri eslami
+PER	bill russell
+ORG	al-akhbar
+PER	jody reed
+ORG	keane inc
+PER	ken caminiti
+ORG	life insurance co of georgia
+PER	jeff bagwell
+ORG	southland life insurance co
+PER	donne wall
+ORG	ing group
+PER	barry bonds
+ORG	national basketball association
+PER	ed de goey
+ORG	america online inc
+PER	jaap stam
+ORG	the wall street journal
+PER	michael reiziger
+ORG	baxter international inc
+PER	johan de kock
+ORG	immuno international ag
+PER	aron winter
+ORG	boeing co
+PER	clarence seedorf
+ORG	philip morris cos inc
+PER	jordi cruyff
+ORG	salomon brothers inc
+PER	pizzi
+ORG	red lion hotels inc
+PER	de la pena
+ORG	doubletree corp
+PER	m. slater
+ORG	gte corp
+PER	r. ponting
+ORG	baby bells
+PER	s. law
+ORG	h&r block inc
+PER	m. bevan
+ORG	compuserve corp
+PER	i. healy
+ORG	federal trade commission and justice department
+PER	b. hogg
+ORG	national transportation safety board
+PER	p. reiffel
+ORG	national archives
+PER	d. flemming
+ORG	southern illinois university at carbondale
+PER	g. mcgrath
+ORG	american studies
+PER	decker
+ORG	american university
+PER	a. shah
+ORG	united daughters of the confederacy
+PER	g. flower
+ORG	national park service
+PER	a. flower
+ORG	la corse
+PER	a. campbell
+ORG	france-soir
+PER	c. wishart
+ORG	le figaro
+PER	g. whittall
+ORG	om gruppen ab
+PER	c. evans
+ORG	omlx
+PER	m. dekker
+ORG	london securities & derivatives exchange
+PER	h. streak
+ORG	om stockholm
+PER	e. brandes
+ORG	british securities and investments board
+PER	mark waugh
+ORG	ntb
+PER	michael slater
+ORG	vnukovo airlines
+PER	steve waugh
+ORG	royal meteorological institute
+PER	stuart law
+ORG	madrid newsroom
+PER	michael bevan
+ORG	liberte
+PER	brad hogg
+ORG	le matin
+PER	paul reiffel
+ORG	iltalehti
+PER	damein fleming
+ORG	audi ag
+PER	glenn mcgrath
+ORG	kekkila oy
+PER	alistair campbell
+ORG	t&n plc
+PER	andy flower
+ORG	kolbenschmidt
+PER	grant flower
+ORG	television new zealand
+PER	guy whittall
+ORG	siam commercial bank plc
+PER	craig evans
+ORG	government housing bank
+PER	eddo brandes
+ORG	waterworks authority
+PER	heath streak
+ORG	m'bishi gas
+PER	paul strang
+ORG	mitsubishi gas chemical co ltd
+PER	craig wishart
+ORG	nomura securities co ltd
+PER	ali shah
+ORG	tokyo-mitsubishi bank
+PER	mark dekker
+ORG	daewoo information systems co ltd
+PER	kurt schork
+ORG	dacom corp
+PER	agota kuperman
+ORG	daewoo dacom communications
+PER	soren jessen-petersen
+ORG	daewoo group
+PER	alastair macdonald
+ORG	seoul newsroom
+PER	b. yeltsin
+ORG	salomon & taylor made co ltd
+PER	dragutin stanojlovic
+ORG	airport facilities co ltd
+PER	gordana kukic
+ORG	cdu 3
+PER	kolumbina bencevic
+ORG	cdu no.3
+PER	stefan raichev
+ORG	cdu no .
+PER	valentin valkov
+ORG	singapore petroleum company
+PER	liliana semerdjieva
+ORG	british petrolem
+PER	naina yeltsin
+ORG	chevron corp
+PER	sergei mironov
+ORG	texaco inc
+PER	piotr grabowski
+ORG	loxley publications plc
+PER	grabowksi
+ORG	bank of spain
+PER	richard wisinga
+ORG	epa
+PER	regula susana siegfried
+ORG	gal
+PER	julio cesar vega rojas
+ORG	bch
+PER	alonso cervera
+ORG	coopers and lybrand
+PER	henry tricks
+ORG	lenzing ag
+PER	rafael moreno turrent
+ORG	foreign office
+PER	juan guillermo londono
+ORG	cabinet
+PER	sanchez zarraga
+ORG	chase securities inc.
+PER	dave pearson
+ORG	goldman , sachs and co .
+PER	john grant fagan
+ORG	bailard , biehl and kaiser
+PER	arlen specter
+ORG	mainstay international funds
+PER	william perry
+PER	prince abdullah
+PER	sultan
+PER	louis freeh
+PER	amr moussa
+PER	amina muhammad
+PER	peter lerner
+PER	samuel graham
+PER	sam nelson
+PER	strobe talbott
+PER	georgy mamedov
+PER	gordon smith
+PER	bob janis
+PER	michael posner
+PER	al gore
+PER	thomas daschle
+PER	john hinckley jr
+PER	james scott brady jr
+PER	mr clean
+PER	tom daschle
+PER	margaret mccullough
+PER	jose manuel prieto
+PER	nicholas shaxson
+PER	gerald machnee
+PER	timothy reid
+PER	paul ting
+PER	chelsea clinton
+PER	bernard tapie
+PER	claude lelouche
+PER	philippe seguin
+PER	jacques toubon
+PER	herman wijffels
+PER	garry west
+PER	rolf ekeus
+PER	tareq aziz
+PER	boutros harb
+PER	omar karame
+PER	alfred sant
+PER	nadarajah muralidaran
+PER	leonard santorelli
+PER	alan ackerman
+PER	kim white
+PER	edna fernandes
+PER	david harding
+PER	steady eddie
+PER	alan lovell
+PER	graham watts
+PER	sudradjat djiwandono
+PER	jose maria olazabal
+PER	olly
+PER	krzysztof warzycha
+PER	kostas malekos
+PER	andre cloete
+PER	leon van der wath
+PER	boeta wessels
+PER	scott mcleod
+PER	alan ball
+PER	bernard halford
+PER	nasser hussain
+PER	jack russell
+PER	ian salisbury
+PER	mark ealham
+PER	dominic cork
+PER	andy caddick
+PER	graeme hick
+PER	rashid latif
+PER	keith fletcher
+PER	peter edwards
+PER	miron cozma
+PER	danut lupu
+PER	petre roman
+PER	jackie lee
+PER	david evans
+PER	del harris
+PER	mark chaloner
+PER	martin heath
+PER	ahmed faizy
+PER	stephen meads
+PER	dan jensen
+PER	anders thoren
+PER	alexia dechaume-balleret
+PER	ben ellwood
+PER	dominique van roost
+PER	kathy rinaldi stunkel
+PER	angelica gavaldon
+PER	marianne werdel witmeyer
+PER	silvia farina
+PER	david caldwell
+PER	adriana serra-zanetti
+PER	gigi fernandez
+PER	joannette kruger
+PER	laxmi poruri
+PER	pat cash
+PER	filippo veglio
+PER	christian ruud
+PER	roberto jabali
+PER	herman gumy
+PER	jacob hlasek
+PER	radka bobkova
+PER	kleinova
+PER	jennifer capriati
+PER	sandra cacic
+PER	kyoko nagatsuka
+PER	pam shriver
+PER	virginia ruano-pascual
+PER	tina kirzan
+PER	rika hiraki
+PER	karina adams
+PER	sandra cecchini
+PER	francesca lubiani
+PER	tamer el sawy
+PER	larisa neiland
+PER	lori mcneil
+PER	zina garrison jackson
+PER	rennae stubbs
+PER	radka zrubakova
+PER	gianluca pozzi
+PER	david skoch
+PER	william vanlandingham
+PER	glenallen hill
+PER	andres galarraga
+PER	billy swift
+PER	andy benes
+PER	royce clayton
+PER	art howe
+PER	tim wakefield
+PER	cal eldred
+PER	angel miranda
+PER	jim thome
+PER	charles nagy
+PER	felipe lira
+PER	joe carter
+PER	carlos delgado
+PER	mary joe fernandez
+PER	riedle
+PER	tretschok
+PER	decheiver
+PER	balakov
+PER	hagner
+PER	schulz
+PER	donkow
+PER	ville peltonen
+PER	juha ylonen
+PER	teemu selanne
+PER	jyrki lumme
+PER	janne ojanen
+PER	christian ruuttu
+PER	radek bonk
+PER	robert reichel
+PER	jiri dopita
+PER	jean-pierre cyprien
+PER	claudio moura
+PER	roger hegi
+PER	gilbert facchinetti
+PER	gilbert gress
+PER	gianni bugno
+PER	tom steels
+PER	endrio leoni
+PER	john den braber
+PER	michael van der wolf
+PER	wim omloop
+PER	tristan hoffman
+PER	john talen
+PER	emese bartha
+PER	gabor sitanyi
+PER	tamas erdei
+PER	paul mcgrath
+PER	mick mccarthy
+PER	alan kernaghan
+PER	liam daish
+PER	gary kelly
+PER	jack charlton
+PER	alan kelly
+PER	shay given
+PER	denis irwin
+PER	phil babb
+PER	jeff kenna
+PER	curtis fleming
+PER	gary breen
+PER	ian harte
+PER	kenny cunningham
+PER	steve staunton
+PER	andy townsend
+PER	ray houghton
+PER	gareth farrelly
+PER	alan mcloughlin
+PER	jason mcateer
+PER	alan moore
+PER	keith o'neill
+PER	tony cascarino
+PER	niall quinn
+PER	david kelly
+PER	eugene de kock
+PER	peter smerdon
+PER	george garang
+PER	moira lynch
+PER	mary batchelor
+PER	michael barton
+PER	raphael riel
+PER	maureen carey
+PER	raniero iacomella
+PER	caesar mazzolari
+PER	dmitry kuznets
+PER	tim guldimann
+PER	aleksander kwasniewski
+PER	milan kucan
+PER	janez drnovsek
+PER	ion iliescu
+PER	adrian nastase
+PER	gheorghe funar
+PER	belinda goldsmith
+PER	heiki kranich
+PER	adnan xhelili
+PER	paul thompson
+PER	eva boudova
+PER	antonio quarracino
+PER	eduardo bernini
+PER	emmanuel sobral
+PER	romina nicaretta
+PER	manuel alvarado
+PER	anton schutte
+PER	ramon machuca
+PER	omar lugo
+PER	mario covas
+PER	fatima cristina
+PER	vaclav havel
+PER	kim young sam
+PER	juan domingo peron
+PER	marcelo levingston
+PER	hector campora
+PER	vicente solano lima
+PER	benjamin menendez
+PER	ileana bell
+PER	hanifah komala
+PER	lee ki-choo
+PER	tang jiaxuan
+PER	hasan muratovic
+PER	leon barkho
+PER	gualtiero fulcheri
+PER	mohamed zejjari
+PER	alan elsner
+PER	tony hall
+PER	robert casey
+PER	kate michelman
+PER	cynthia mckinney
+PER	aslan mashadov
+PER	sylvester stallone
+PER	jennifer flavin
+PER	sophia rose
+PER	paul bloch
+PER	abyss dejesus
+PER	carol norris
+PER	maureen garrity
+PER	dan pudvah
+PER	m. sivasiththamparam
+PER	w.n.f. chandraratne
+PER	chandrika kumaratunga
+PER	rupam banerjee
+PER	pope john paul
+PER	mangala das
+PER	tarak das
+PER	nanda gopal bhattacharya
+PER	sayed salahuddin
+PER	ahmad shah masood
+PER	dana rohrabacher
+PER	hamid ibrahimi
+PER	gopal sharma
+PER	khum bahadur khadga
+PER	humayun rasheed choudhury
+PER	peter munk
+PER	bernd schiphorst
+PER	jan buettner
+PER	william boston
+PER	rona young
+PER	mohamed abu liwaya
+PER	bradys
+PER	jim brady
+PER	jodie foster
+PER	roger grimwade
+PER	glafcos xenos
+PER	ruth collin
+PER	denham peiris
+PER	shane drew
+PER	north island
+PER	naoto kan
+PER	omar bongo
+PER	sheu yuan-dong
+PER	ahmed hashem zighayer
+PER	arthur levitt
+PER	richard lindsey
+PER	alfred berkeley
+PER	silvio berlusconi
+PER	don loewen
+PER	ludmila ninova
+PER	heike drechsler
+PER	fiona may
+PER	andrea giaconi
+PER	natalya voronova
+PER	gabi rokmeier
+PER	sergey makarov
+PER	peter blank
+PER	stefano tilli
+PER	marco vaccari
+PER	kennedy ochieng
+PER	mariacarla bresciani
+PER	andrea muller
+PER	nastja rysich
+PER	ana fidelia quirot
+PER	letitia vriesde
+PER	wolfgang kreissig
+PER	kostantin matusevitch
+PER	michele buiatti
+PER	robert kibet
+PER	philip kibitok
+PER	oksana ovchinnikova
+PER	natalya shikolenko
+PER	virna de angeli
+PER	natalya torshina
+PER	anna knoroz
+PER	lauren ottoz
+PER	brian bronson
+PER	john ridgeon
+PER	luke kipkosgei
+PER	alessandro lambruschini
+PER	stuart cage
+PER	steven bottomley
+PER	mark davis
+PER	pierre fulke
+PER	anders haglund
+PER	niclas fasth
+PER	chistian
+PER	tony johnstone
+PER	ross mcfarlane
+PER	domingo hospital
+PER	harwood
+PER	brenden pappas
+PER	teravainen
+PER	jean van de velde
+PER	oyvind rojahn
+PER	neal briggs
+PER	soren lausgberg
+PER	jan van eijden
+PER	.giuseppe citterio
+PER	.robbie mcewen
+PER	giuseppe citterio
+PER	jens lehman
+PER	edouard gritson
+PER	jan van eiden
+PER	grzegorz krejner
+PER	ainars kiksis
+PER	jose moreno
+PER	keiji kojima
+PER	graham sharman
+PER	jose escuredo
+PER	craig maclean
+PER	christian meidlinger
+PER	darren mckenzie-potter
+PER	masanaga shiohara
+PER	jean-pierre van zyl
+PER	marty nothstein
+PER	frederic magne
+PER	pavel buran
+PER	silvio martinelli
+PER	marco villa
+PER	scott mcgrory
+PER	stephen pate
+PER	andreas kappes
+PER	carsten wolf
+PER	kurt betschart
+PER	bruno risi
+PER	gabriel curuchet
+PER	juan curuchet
+PER	peter pieters
+PER	tomas post
+PER	j immi madsen
+PER	jens veggerby
+PER	isaac galvez-lopez
+PER	juan llaneras
+PER	wolfgang kotzmann
+PER	franz stocher
+PER	christophe capelle
+PER	jean-michel monin
+PER	graeme obree
+PER	edouard gritsoun
+PER	k. brown
+PER	l. botham
+PER	glen hoddle
+PER	steve mcmanaman
+PER	robbie fowler
+PER	steve howey
+PER	paul gascoigne
+PER	david batty
+PER	ban
+PER	double trigger
+PER	steven redgrave
+PER	matthew pinsent
+PER	liam botham
+PER	mike gatting
+PER	john stephenson
+PER	greg chappell
+PER	jeremy guscott
+PER	rory underwood
+PER	dean richards
+PER	hideo nomo
+PER	mike williams
+PER	benito santiago
+PER	ruben amaro
+PER	al martin
+PER	john smoltz
+PER	mark petkovsek
+PER	bobby valentine
+PER	willie blair
+PER	tony gwynn
+PER	wally joyner
+PER	tony eusebio
+PER	luis castilla
+PER	alex arias
+PER	hal morris
+PER	eric davis
+PER	john smiley
+PER	armando reynoso
+PER	barry larkin
+PER	kevin mitchell
+PER	blair larsen
+PER	glenn taylor
+PER	jonah lomu
+PER	eric rush
+PER	christian cullen
+PER	walter little
+PER	josh kronfeld
+PER	michael jones
+PER	robin brooke
+PER	olo brown
+PER	craig dowd
+PER	giles bonnet
+PER	gavin featherstone
+PER	herschelle gibbs
+PER	bob woolmer
+PER	jacques kallis
+PER	paul adams
+PER	hansie cronje
+PER	craig matthews
+PER	dave richardson
+PER	brian mcmillan
+PER	gary kirsten
+PER	andrew hudson
+PER	pat symcox
+PER	jonty rhodes
+PER	allan donald
+PER	fanie de villiers
+PER	daryll cullinan
+PER	herschelle gibs
+PER	yuri nikiforov
+PER	vladislav rodimov
+PER	donizetti
+PER	zarak jahan khan
+PER	julian wellings
+PER	simon parke
+PER	julien bonetat
+PER	ahmed barada
+PER	john white
+PER	tony hands
+PER	faheem khan
+PER	seles has
+PER	bob brett
+PER	david nainkin
+PER	maggie maleeva
+PER	rene eijkelkamp
+PER	pascal jongsma
+PER	henke larsson
+PER	bobby robson
+PER	albert ferrer
+PER	julen lopetegui
+PER	sergi barjuan
+PER	juan eduardo esnaider
+PER	iwan cesar gabrich
+PER	patrick kluivert
+PER	mariano juan
+PER	tijjani babangida
+PER	dani
+PER	carlo ancelotti
+PER	enrico chiesa
+PER	ottavio palladini
+PER	marco giampaolo
+PER	alessandro melli
+PER	carlos bianchi
+PER	arrigo sacchi
+PER	paulo sergio
+PER	alexander zickler
+PER	ruggiero rizzitelli
+PER	markus feldhoff
+PER	sean dundee
+PER	akpoborie
+PER	von heesen
+PER	hirsch
+PER	anton drobnjak
+PER	alain caveglia
+PER	thierry henry
+PER	james debbah
+PER	stephane guivarch
+PER	aime jacquet
+PER	kader ferhaoui
+PER	jean-claude nadon
+PER	tony vairelles
+PER	fabien lefevre
+PER	benoit cauet
+PER	leonardo
+PER	julio cesar dely valdes
+PER	van hintum
+PER	schreuder
+PER	de nooijer
+PER	vurens
+PER	schultz
+PER	etienne mendy
+PER	giuly
+PER	chaouch
+PER	rouxel
+PER	baret
+PER	colleter
+PER	a. jadeja
+PER	s. ganguly
+PER	m. azharuddin
+PER	v. kambli
+PER	r. dravid
+PER	j. srinath
+PER	a. kumble
+PER	n. mongia
+PER	v. prasad
+PER	a. kapoor
+PER	vass
+PER	s. jayasuriya
+PER	r. kaluwitharana
+PER	a.de silva
+PER	anil kumble
+PER	ajay jadeja
+PER	sourav ganguly
+PER	vinod kambli
+PER	rahul dravid
+PER	nayan mongia
+PER	javagal srinath
+PER	venkatesh prasad
+PER	ashish kapoor
+PER	hashan tillekeratne
+PER	princeton lyman
+PER	jonas savimbi
+PER	john allen
+PER	basie smit
+PER	johan van der merwe
+PER	jim brumm
+PER	leslie gevirtz
+PER	eddie hedaya
+PER	mark wolf
+PER	michael astrue
+PER	robert chabora
+PER	john bissell
+PER	william o'neill
+PER	huw jones
+PER	jacqueline wong
+PER	alexander iii
+PER	francois-rene ( vicomte de ) chateaubriand
+PER	anton bruckner
+PER	napoleon iii
+PER	geronimo
+PER	nelson miles
+PER	darius milhaud
+PER	max delbruck
+PER	edvard grieg
+PER	edward dmytryk
+PER	wilhelmina
+PER	juliana
+PER	robert schuman
+PER	albert schweitzer
+PER	j.s. bach
+PER	mark spitz
+PER	e.f. ( fritz ) schumacher
+PER	georges simenon
+PER	inspector maigret
+PER	todor zhivkov
+PER	goschen
+PER	tom kiernan
+PER	garrett lambert
+PER	chris patten
+PER	raphael lapke
+PER	orlando pirates
+PER	fallah sewa
+PER	frederick chiluba
+PER	remmy mushota
+PER	luminzu shimaponda
+PER	peter machungwa
+PER	sidia toure
+PER	ousmane kaba
+PER	ruth perry
+PER	charles taylor
+PER	alhadji kromah
+PER	william istafanus
+PER	elisha shamay
+PER	o.k. likkason
+PER	jerome egurugbe
+PER	agnieszka kotlarska
+PER	gianni versace
+PER	jerzy l.
+PER	nick mokhoff
+PER	alexander babayan
+PER	julie tolkacheva
+PER	tritan shehu
+PER	duncan shiels
+PER	lajos horvath
+PER	adem hodzic
+PER	husein micijevic
+PER	mandolina zelic
+PER	maria szabo
+PER	toomas savi
+PER	aleksander lebed
+PER	dariusz rosati
+PER	bernardo arce
+PER	ernesto samper
+PER	adolfo
+PER	myles frechette
+PER	jose eduardo dutra
+PER	william schomberg
+PER	james lee williams
+PER	ahmed korei
+PER	abdulsamad hameed ali
+PER	judith crosson
+PER	nancy reagan
+PER	pete wilson
+PER	jerry bieszk
+PER	kim anderson
+PER	mark hodges
+PER	howard johnson
+PER	rodney mosier
+PER	dan dietsch
+PER	oliver ludwig
+PER	nsanze terence
+PER	julius nyrere
+PER	pierre buyoya
+PER	mothusi nkgowe
+PER	juan somavia
+PER	karl inderfurth
+PER	nani palkhivala
+PER	p.v. krishnamoorthy
+PER	p. arulanandam
+PER	m. karunanidhi
+PER	n.j. bose
+PER	chinnathambi
+PER	bruno adelt
+PER	peter griffiths
+PER	louis viannet
+PER	klaus baader
+PER	wafa amr
+PER	dennis ross
+PER	mahmoud abbas
+PER	abu mazen
+PER	dore gold
+PER	yitzhak mordechai
+PER	romano prodi
+PER	richard lamm
+PER	patricia vowinkel
+PER	kenneth chiate
+PER	david rowland
+PER	john head
+PER	gale norton
+PER	adolf hitler
+PER	dieter u
+PER	thomas s
+PER	dimitris reppas
+PER	theodoros pangalos
+PER	daniel ducruet
+PER	fili houteman
+PER	caroline
+PER	grace kelly
+PER	joao vale de almeida
+PER	anita gradin
+PER	yannos papandoniou
+PER	constantine mitsotakis
+PER	garry weiss
+PER	maryborough
+PER	william fox
+PER	ta mok
+PER	wataru kubo
+PER	masayoshi takemura
+PER	yukio hatoyama
+PER	craig stromme
+PER	dai houying
+PER	mohammad dahman
+PER	khaled al-qidra
+PER	nahed dahlan
+PER	aleix vidal-quadras
+PER	abolhassan banisadr
+PER	george joulwan
+PER	john sheehan
+PER	steve weizman
+PER	saeed hasan
+PER	gerard kiely
+PER	david naish
+PER	daniel chopra
+PER	iain pyman
+PER	eduardo romero
+PER	paul curry
+PER	affleck
+PER	vyacheslav ekimov
+PER	erik dekker
+PER	giunluca gorini
+PER	erik breukink
+PER	wilfried peeters
+PER	bart voskamp
+PER	michael andersson
+PER	gregory randolph
+PER	darryn hill
+PER	jens fiedler
+PER	florian rousseau
+PER	georgios chimonetos
+PER	lampros
+PER	vasilopoulos
+PER	kathrin freitag
+PER	oksana grichina
+PER	michelle ferris
+PER	galina enioukhina
+PER	allan mullally
+PER	m. maynard
+PER	g. lloyd
+PER	d. headley
+PER	giovanni lombardi
+PER	hans de clerq
+PER	marty jemison
+PER	servais knaven
+PER	w. athey
+PER	p. cottey
+PER	m. saggers
+PER	s. watkin
+PER	w. weston
+PER	v. solanki
+PER	a. harris
+PER	k. barnett
+PER	j. pooley
+PER	m. ramprakash
+PER	a. fraser
+PER	r. fay
+PER	d. millns
+PER	jim telfer
+PER	ian mcgeechan
+PER	bruce grobbelaar
+PER	vincent pamire
+PER	marc duvillard
+PER	hans segers
+PER	john fashanu
+PER	heng suan lim
+PER	dan jenson
+PER	tina krizan
+PER	lila osterloh
+PER	nanne dahlman
+PER	terry mulholland
+PER	john marzano
+PER	don wengert
+PER	jose herrera
+PER	james baldwin
+PER	ray durham
+PER	ozzie guillen
+PER	dave nilsson
+PER	jose offerman
+PER	johnny damon
+PER	rick huisman
+PER	pat hentgen
+PER	orel hershiser
+PER	albert belle
+PER	ron wright
+PER	corey pointer
+PER	terry pendleton
+PER	luis polonia
+PER	andruw jones
+PER	abdellaoui
+PER	graef
+PER	harrison dillard
+PER	lindy remigino
+PER	jim hines
+PER	hasely crawford
+PER	gina tillman
+PER	jonathan bachini
+PER	albert emon
+PER	andre bois
+PER	giovanni van bronckhorst
+PER	ferdy vierklau
+PER	julia carling
+PER	yoka lye mudaba
+PER	mobutu sese seko
+PER	tom ikimi
+PER	ken saro-wiwa
+PER	idriss deby
+PER	charles bauza donwahi
+PER	douati alphonse
+PER	raphael lakpe
+PER	severin konan kouame
+PER	joseph tanny
+PER	max marriner
+PER	peter greste
+PER	john kornblum
+PER	slobodan milosevic
+PER	biljana plavsic
+PER	artyom danielyan
+PER	ejup bajgora
+PER	emanuil ceausu
+PER	vukasin filipovic
+PER	luis raul matos azocar
+PER	juan carlos lago
+PER	alberto piotti
+PER	antonio kandir
+PER	patricia lezama
+PER	mayor antonio gonzalez garcia
+PER	angel aguirre
+PER	luciano pessina
+PER	lucas moreira neves
+PER	chatichai choonhavan
+PER	chavalit yongchaiyudh
+PER	ahmed yassin
+PER	michael conlon
+PER	dianne feinstein
+PER	franklin d. roosevelt
+PER	ken goldstein
+PER	richard andrews
+PER	jerry schein
+PER	charles mcgilley
+PER	jackie frank
+PER	nicole brown simpson
+PER	ronald goldman
+PER	earl feugill
+PER	green
+PER	asif ali zardari
+PER	shahid hasan khan
+PER	qotbuddin hilal
+PER	justice k.t. thomas
+PER	hari maya poudels
+PER	denver
+PER	richard sabourin
+PER	craig held
+PER	steve conroy
+PER	r leong
+PER	elias moosa
+PER	scott randall
+PER	miles kan
+PER	liam gallagher
+PER	patsy kensit
+PER	noel gallagher
+PER	nigel mobbs
+PER	jonathan birt
+PER	ali fallahiyan
+PER	raymond mabus
+PER	james baker
+PER	leila corcoran
+PER	abraham lincoln
+PER	lewis martin
+PER	john simon
+PER	ulysses grant
+PER	edward smith
+PER	budge weidman
+PER	sylvie florence
+PER	jean-louis debre
+PER	philip blenkinsop
+PER	santa puglisi
+PER	salvatore botta
+PER	nitto santapaola
+PER	pietro t.
+PER	rune hansen
+PER	ilkka laasonen
+PER	herbert demel
+PER	colin hope
+PER	andrew huddart
+PER	mark trevelyan
+PER	joyce liu
+PER	doreen siow
+PER	lasa-zabala
+PER	javier gomez de liano
+PER	jose maria aznar
+PER	julia ferguson
+PER	donna sells
+PER	robert rubin
+PER	lloyd bentsen
+PER	chris widness
+PER	michael faust
+PER	alan greenspan
+PER	michael perelstein
+PER	ewald brenner
+PER	mario stieglmair
+PER	ronald brunmayr
+PER	john hartson
+PER	scott young
+PER	tatiana stiajkina
+PER	judith arndt
+PER	tea vikstedt-nyman
+PER	sally boyden
+PER	agnieszka godras
+PER	antoine kombouare
+PER	roy aitken
+PER	david ginola
+PER	michael doohan
+PER	jean-michel bayle
+PER	norifumi abe
+PER	luca cadalora
+PER	alex criville
+PER	scott russell
+PER	tadayuki okada
+PER	carlos checa
+PER	alexandre barros
+PER	shinichi itoh
+PER	bob may
+PER	bradley hughes
