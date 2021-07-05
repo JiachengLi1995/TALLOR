@@ -1,7 +1,7 @@
 # TALLOR
 
-## Publications
-Please cite the following two papers if you are using TALLOR. Thanks!
+## Publication
+Please cite the following paper if you are using TALLOR. Thanks!
 
 * Jiacheng Li, Haibo Ding, Jingbo Shang, Julian McAuley, Zhe Feng. Weakly Supervised Named Entity Tagging with Learnable Logical Rules. (ACL 2021)
 
