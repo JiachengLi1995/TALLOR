@@ -49,7 +49,7 @@ In this Section, we introduce how to run Tallor on your own plain text dataset t
 (example file is ```data/bc5cdr_serving/AutoPhrase_multi-words.txt```)
 
 ### Step 2: Write your own rules
-* You can write your own rules for your dataset in file ```tallor\label_functions/serving_template.py``` as a Python ```dict``` as following (we already have rules for BC5CDR dataset in this file, please comment it and write your own rules):
+* You can write your own rules for your dataset in file ```tallor/label_functions/serving_template.py``` as a Python ```dict``` as following (we already have rules for BC5CDR dataset in this file, please comment it and write your own rules):
 ```
 dictionary = {'proteinuria': 'Disease', 'esrd': 'Disease', 'thrombosis': 'Disease', 'tremor': 'Disease', 'hepatotoxicity': 'Disease','nicotine': 'Chemical', 'morphine': 'Chemical', 'haloperidol': 'Chemical', 'warfarin': 'Chemical', 'clonidine': 'Chemical'}
 ```
