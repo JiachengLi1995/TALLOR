@@ -33,8 +33,8 @@ We have examples of output files of experiments on BC5CDR dataset and we also de
 | Filename or Path | Descriptions |
 |----------|--------------|
 |checkpoint/| Best checkpoint of neural model.|
-|logging/JointIE.log| Evaluation on dev and test dataset via interations.|
-|logging/RuleSelector.log| Selected rules of each interation.|
+|logging/JointIE.log| Evaluation on dev and test dataset via iterations.|
+|logging/RuleSelector.log| Selected rules of each iteration.|
 |logging/InstanceSelector.log| Thresholds and scores of dynamic instance selection.|
 
 ## Serve on Customer's Text
