@@ -1,6 +1,6 @@
 tqdm
 torch==1.7.1
-snorkel==0.9.7
+snorkel>=0.9.7,<=0.9.8
 scipy==1.7.0
 transformers==4.8.2
 scikit-learn
